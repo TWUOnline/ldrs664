@@ -9,12 +9,12 @@ permalink: >
 published: true
 post_date: 2018-02-27 18:23:14
 ---
-### unit 2  
+### unit 2
 ##### Overview
 
-Welcome to COURSE!  In this first unit, we begin the course by…
+Welcome to COURSE! In this first unit, we begin the course by…
 ```
-Here is where we want to hook our students!  Consider what main ideas are in the unit, questions students may have, and  how these apply to practice or the bigger picture.  We also may want to include certain tasks, mentioning some readings or assignments.
+Here is where we want to hook our students! Consider what main ideas are in the unit, questions students may have, and how these apply to practice or the bigger picture. We also may want to include certain tasks, mentioning some readings or assignments.
 The important thing is to gain students attention and interest so they are motivated throughout the unit.
 ```
 
@@ -68,7 +68,7 @@ If there are a number of learning activities above, it may be helpful to split u
 ### Introduction
 We begin unit 2…
 ```
-Topic content can be 1-2 paragraphs or several pages, depending of course on the topic!  Consider using graphics, charts, or other images to convey information and appeal to visual learners.
+Topic content can be 1-2 paragraphs or several pages, depending of course on the topic! Consider using graphics, charts, or other images to convey information and appeal to visual learners.
 ```
 
 [content]
@@ -82,14 +82,14 @@ Note that in developing the course, you may want to just focus on the content fi
 Introduction
 …
 ```
-Optional to have a separate Introduction and Instructions section or to combine them.  The important thing is to introduce the activity, answer questions students may have, and relate the activities to the topics or assessments.
+Optional to have a separate Introduction and Instructions section or to combine them. The important thing is to introduce the activity, answer questions students may have, and relate the activities to the topics or assessments.
 ```
 
 Instructions
 View the following resources about …
 
 ```
-Below I’ve listed some examples of learning activities.  They should always have a short introduction & Instructions, as well as some way to synthesize/reflect on the information presented (ex. Questions to Consider)
+Below I’ve listed some examples of learning activities. They should always have a short introduction &amp; Instructions, as well as some way to synthesize/reflect on the information presented (ex. Questions to Consider)
 There can be just one activity per topic, or have a couple at the end of the unit.
 Options for the first activity include an ice-breaker, or type of sharing/reflective activity that connects their past experiences to course content.
 ```
@@ -105,7 +105,6 @@ After completing the activities above, consider the following questions:
 This feature gives students an opportunity to reflect on readings and make connections, encouraging higher order thinking.
 ```
 
-
 #####Activity 2:
 Introduction
 …
@@ -118,22 +117,19 @@ Instructions
 ### Learning Activities
 ##### Activity 3:
 ```
-Case studies are great application activities.  Consider the lesson content and how it is applied in a ‘real world’ situation.
+Case studies are great application activities. Consider the lesson content and how it is applied in a ‘real world’ situation.
 ```
 
 Introduction
 The following case study reveals…
 Mrs. Jones…
 
-
-
-
 ##### Activity 4: Practice Quiz (ungraded)
 Introduction
-In order to review some of the major concepts from the text, take the following unmarked quiz.  Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
+In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
 
 ```
-If there are exams or quizzes in the course, it’s a good idea for students to practice and find out what needs further study.  
+If there are exams or quizzes in the course, it’s a good idea for students to practice and find out what needs further study.
 Quizzes can be multiple choice, matching, true-false, or short answer.
 ```
 
@@ -152,14 +148,13 @@ In each unit, consider having 2-3 recommended activities, and perhaps 1-3 option
 * Problems / Debates
 * Current Events
 * Graphic Organizers
-* Short-write  (ex. Muddy/clear point)
+* Short-write (ex. Muddy/clear point)
 * Interviews (friends/family)
 * Field Trip (do something in the community /workplace)
 * Survey / poll
 * Social media
 * Experiments
 * Textbook online resources (flashcards, quizzes, etc.)
-
 
 ## Assessment
 ```
@@ -184,11 +179,10 @@ For more details about this assignment, including the grading criteria, please r
 
 ## unit 2 Summary
 ```
-Remind students of a few key points and how they apply to a greater context.  Perhaps also prepare them for what is in the next unit.
+Remind students of a few key points and how they apply to a greater context. Perhaps also prepare them for what is in the next unit.
 ```
 
 In this first unit, you have had the opportunity to learn about…
-
 
 ## Checking your Learning
 ```
@@ -205,7 +199,6 @@ Before you move on to the next unit, you may want to check to make sure that you
 * differentiate between the concepts of ‘family’ and ‘kinship;’
 * differentiate between traditional kinship structure in non-industrial societies with those of Western, mainstream society;
 * compare the roles and relations of Western contemporary families with those of families in non-industrial countries;
-
 
 ## Resources
 *
