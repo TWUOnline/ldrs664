@@ -89,7 +89,7 @@ Instructions
 View the following resources about …
 
 ```
-Below I’ve listed some examples of learning activities. They should always have a short introduction &amp; Instructions, as well as some way to synthesize/reflect on the information presented (ex. Questions to Consider)
+Below I’ve listed some examples of learning activities. They should always have a short introduction & Instructions, as well as some way to synthesize/reflect on the information presented (ex. Questions to Consider)
 There can be just one activity per topic, or have a couple at the end of the unit.
 Options for the first activity include an ice-breaker, or type of sharing/reflective activity that connects their past experiences to course content.
 ```
