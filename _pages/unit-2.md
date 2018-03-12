@@ -12,16 +12,8 @@ post_date: 2018-02-27 18:23:14
 ### unit 2
 ##### Overview
 
-<<<<<<< HEAD
 Welcome to Unit 2!  In this unit, we...
 
-=======
-Welcome to COURSE! In this first unit, we begin the course by…
-```
-Here is where we want to hook our students! Consider what main ideas are in the unit, questions students may have, and how these apply to practice or the bigger picture. We also may want to include certain tasks, mentioning some readings or assignments.
-The important thing is to gain students attention and interest so they are motivated throughout the unit.
-```
->>>>>>> f2b3e6435362d7ac764e06260b7724abc1378ec8
 
 ##### Topics
 unit 2 is divided into __ topics:
@@ -56,12 +48,6 @@ Assignment 1: …
 ## Topic 1:
 ### Introduction
 We begin unit 2…
-<<<<<<< HEAD
-=======
-```
-Topic content can be 1-2 paragraphs or several pages, depending of course on the topic! Consider using graphics, charts, or other images to convey information and appeal to visual learners.
-```
->>>>>>> f2b3e6435362d7ac764e06260b7724abc1378ec8
 
 [content]
 
