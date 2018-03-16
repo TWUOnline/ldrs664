@@ -15,7 +15,7 @@ Welcome to LDRS 664 Creating Authentic Learning Communities!
 
 As humans, we long for authenticity in our relationships. We want to feel "at home" in the organizations that are part of our lives -- our families, schools, communities, places of worship. We seek connection. We search for a place where we are know.
 
-This sense of being "at home" is essential to our experience as learners. Deep, authentic learning happens in spaces where we feel connected with others. Places and spaces where we are known.
+This sense of being "at home" is essential to our experience as learners. Deep, authentic learning happens in spaces where we feel connected with others. Places and spaces where we are known. Palmer (1998) refers to this as the "spiritual quest for connectedness" (p. 5).
 
 In this course, we will explore together the theoretical foundations of learning communities, evaluating key elements essential to  creating authentic learning communities, where learners are known and learning is authentic.
 
@@ -71,9 +71,9 @@ If there are a number of learning activities above, it may be helpful to split u
 Authenticity in Teaching and Learning</h2>
 Teaching and learning is a deeply personal experience. Learning is, by definition, a transformative experience; we change as a result of learning. Teaching is also a transformative experience; we change as a result of teaching.
 
-In his book, <em>The Courage to Teach</em>, Parker Palmer (1998) argues that the "inner landscape of teaching" is an essential
-
-"At home in our own souls, we become more at home with each other (Palmer, 1998, p. 5).
+In his book, <em>The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life</em>, Parker Palmer (1998) argues that the "inner landscape of teaching" is an essential foundation out of which authentic learning experiences emerge.
+<blockquote>"Teachers possess the power to create conditions that can help students learn a great deal -- or keep them from learning much at all. Teaching is the intentional act of creating those conditions, and good teaching requies that we understand the inner source of both the intent and the act." -- Palmer (1998, p. 6)</blockquote>
+&nbsp;
 
 &nbsp;
 
