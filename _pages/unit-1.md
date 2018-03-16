@@ -20,25 +20,28 @@ The important thing is to gain students attention and interest so they are motiv
 
 As humans, we long for authenticity in our relationships. We want to feel "at home" in the organizations that are part of our lives -- our families, schools, communities, places of worship. We seek connection. We search for a place where we are know.
 
-Deep, authentic learning happens in spaces where we feel "at home." Places where we are part of
-```
+Deep, authentic learning happens in spaces where we feel "at home." Places where we are part of community. Places where we are known.
 
-##### Topics
+In this course, we will explore together the theoretical foundations of learning communities, evaluating key elements essential to  creating authentic learning communities, where learners are known and learning is authentic.
+
+```
+<h5>Topics
 Unit 4 is divided into __ topics:
 * Topic 1:
 * Topic 2:
-* Topic 3:
-
-##### Learning Outcomes
+* Topic 3:</h5>
+<h4>Learning Outcomes</h4>
 When you have completed this unit you should be able to:
-* Describe…
-* Contrast…
-* Analyze…
-* Determine…
-
-##### Activity Checklist
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-
+<ul>
+ 	<li>Identify your personal beliefs about your role as a facilitator/teacher</li>
+ 	<li>Describe your own personal identity as a facilitator/teacher</li>
+</ul>
+<h4>Learning Activity Checklist</h4>
+These learning activities will engage you
+<ol>
+ 	<li>Palmer (Introduction, Ch 1: The Heart of a Teacher, Ch 3: The Hidden Wholeness: Paradox in Teaching and Learning )</li>
+ 	<li>Phillip Phillips: Home</li>
+</ol>
 ```
 Learning Activities can include the following:
 * Readings (text, article)
