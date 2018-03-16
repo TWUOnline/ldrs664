@@ -12,8 +12,11 @@ post_date: 2018-02-27 18:23:14
 ### unit 2
 ##### Overview
 
-Welcome to Unit 2!  In this unit, we...
-
+Welcome to COURSE! In this first unit, we begin the course by…
+```
+Here is where we want to hook our students! Consider what main ideas are in the unit, questions students may have, and how these apply to practice or the bigger picture. We also may want to include certain tasks, mentioning some readings or assignments.
+The important thing is to gain students attention and interest so they are motivated throughout the unit.
+```
 
 ##### Topics
 unit 2 is divided into __ topics:
@@ -31,6 +34,20 @@ When you have completed this unit you should be able to:
 ##### Activity Checklist
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
+```
+Learning Activities can include the following:
+* Readings (text, article)
+* Videos (youtube, library, or our media team can create videos, conduct interviews, etc.)
+* Simulations
+* Websites (to explore, or webquests to find answers)
+* Unmarked quizzes
+* Case studies
+* Interviews (ex. with friends/family/coworkers)
+* Reflection/study journal/questions to consider
+
+These are usually non-graded, and can be optional for students, however they are designed to help students learn the material and prepare for the assignments.
+```
+
 |Activities| | |
 |----|----|----|
 | Activity 1:| | |
@@ -43,14 +60,22 @@ Here is a checklist of learning activities you will benefit from in completing t
 Here is the assessment for unit 2.
 Assignment 1: …
 %
-
+```
+If there are a number of learning activities above, it may be helpful to split up these sections. Otherwise, one list is fine.
+```
 
 ## Topic 1:
 ### Introduction
 We begin unit 2…
+```
+Topic content can be 1-2 paragraphs or several pages, depending of course on the topic! Consider using graphics, charts, or other images to convey information and appeal to visual learners.
+```
 
 [content]
 
+```
+Note that in developing the course, you may want to just focus on the content first, and then address possible learning activities and questions later on.
+```
 
 ### Learning Activities
 ##### Activity 1:
@@ -64,7 +89,7 @@ Instructions
 View the following resources about …
 
 ```
-Below I’ve listed some examples of learning activities. They should always have a short introduction & Instructions, as well as some way to synthesize/reflect on the information presented (ex. Questions to Consider)
+Below I’ve listed some examples of learning activities. They should always have a short introduction &amp; Instructions, as well as some way to synthesize/reflect on the information presented (ex. Questions to Consider)
 There can be just one activity per topic, or have a couple at the end of the unit.
 Options for the first activity include an ice-breaker, or type of sharing/reflective activity that connects their past experiences to course content.
 ```
