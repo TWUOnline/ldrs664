@@ -10,37 +10,33 @@ published: true
 post_date: 2018-02-27 18:23:14
 ---
 <h4> Unit 1: The Heart of a Teacher</h4>
-<h4>Overview</h4>
+<h4>Unit Overview</h4>
 Welcome to LDRS 664 Creating Authentic Learning Communities!
-
-In this first unit, we begin the course by…
-```
-Here is where we want to hook our students! Consider what main ideas are in the unit, questions students may have, and how these apply to practice or the bigger picture. We also may want to include certain tasks, mentioning some readings or assignments.
-The important thing is to gain students attention and interest so they are motivated throughout the unit.
 
 As humans, we long for authenticity in our relationships. We want to feel "at home" in the organizations that are part of our lives -- our families, schools, communities, places of worship. We seek connection. We search for a place where we are know.
 
-Deep, authentic learning happens in spaces where we feel "at home." Places where we are part of community. Places where we are known.
+This sense of being "at home" is essential to our experience as learners. Deep, authentic learning happens in spaces where we feel connected with others. Places and spaces where we are known.
 
 In this course, we will explore together the theoretical foundations of learning communities, evaluating key elements essential to  creating authentic learning communities, where learners are known and learning is authentic.
 
 ```
-<h5>Topics
-Unit 4 is divided into __ topics:
-* Topic 1:
-* Topic 2:
-* Topic 3:</h5>
+<h4>Topics</h4>
+Unit 1 focuses on 2 topics:
+<ol>
+ 	<li>Authenticity in teaching and learning</li>
+ 	<li>The facilitator’s role in creating spaces for authentic learning</li>
+</ol>
 <h4>Learning Outcomes</h4>
 When you have completed this unit you should be able to:
-<ul>
- 	<li>Identify your personal beliefs about your role as a facilitator/teacher</li>
+<ol>
  	<li>Describe your own personal identity as a facilitator/teacher</li>
-</ul>
+ 	<li>Identify your personal beliefs about your role as a facilitator/teacher</li>
+</ol>
 <h4>Learning Activity Checklist</h4>
 These learning activities will engage you
 <ol>
- 	<li>Palmer (Introduction, Ch 1: The Heart of a Teacher, Ch 3: The Hidden Wholeness: Paradox in Teaching and Learning )</li>
- 	<li>Phillip Phillips: Home</li>
+ 	<li>Read: Palmer, P. (1998): Introduction, Chapter 1: The Heart of a Teacher, Chapter 3: The Hidden Wholeness: Paradox in Teaching and Learning</li>
+ 	<li>Listen: Phillip Phillips: <a href="https://www.youtube.com/watch?v=HoRkntoHkIE">Home</a></li>
 </ol>
 ```
 Learning Activities can include the following:
@@ -71,12 +67,27 @@ Assignment 1: …
 ```
 If there are a number of learning activities above, it may be helpful to split up these sections. Otherwise, one list is fine.
 ```
+<h2>Topic 1:
+Authenticity in Teaching and Learning</h2>
+Teaching and learning is a deeply personal experience. Learning is, by definition, a transformative experience; we change as a result of learning. Teaching is also a transformative experience; we change as a result of teaching.
 
-## Topic 1:
-### Introduction
-We begin unit 4…
-```
-Topic content can be 1-2 paragraphs or several pages, depending of course on the topic! Consider using graphics, charts, or other images to convey information and appeal to visual learners.
+In his book, <em>The Courage to Teach</em>, Parker Palmer (1998) argues that the "inner landscape of teaching" is an essential
+
+"At home in our own souls, we become more at home with each other (Palmer, 1998, p. 5).
+
+&nbsp;
+
+Palmer (1998) refers to the "spiritual quest for connectedness."
+
+&nbsp;
+<blockquote>"Just know you’re not alone
+'Cause I’m going to make this place your home."
+
+-- Phillip Phillips, Home</blockquote>
+&nbsp;
+<blockquote>"For now we see in a mirror dimly, but then face to face; now I know in part, but then I will know fully just as <strong>I also have been fully known</strong>."
+
+-- 1 Corinthians 13:12  (ESV)</blockquote>
 ```
 
 [content]
