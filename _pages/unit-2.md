@@ -62,6 +62,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 <ol>
  	<li>Read. Brown, B. (2017). Chapter 1 Everywhere and Nowhere, Chapter 2 The Quest for True Belonging</li>
  	<li>Watch: Maya Angelou. <a href="http://1http://billmoyers.com/content/conversation-maya-angelou">Interview with Bill Moyers</a></li>
+ 	<li>Watch: Brene Brown: <a href="http://Brene Brown: The Power of Vulnerability https://www.ted.com/talks/brene_brown_on_vulnerability">The Power of Vulnerability</a></li>
 </ol>
 ```
 Learning Activities can include the following:
