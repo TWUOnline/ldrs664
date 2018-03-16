@@ -19,9 +19,17 @@ Integrity: So, too, our integrity comes with us into the learning spaces in whic
 
 Whether we are aware of it or not, our integrity and identity are part of who we are as teachers. It is on this foundation that we build connections with students, and are able to invite them in to spaces where personal transformation  and authentic learning will take place.
 
-As <a href="http://1http://billmoyers.com/content/conversation-maya-angelou">Maya Angelou</a> discusses, belonging to one's self.
+As <a href="http://1http://billmoyers.com/content/conversation-maya-angelou">Maya Angelou</a> discusses, belonging to one's self is an ongoing journey.
+<blockquote>"I belong to myself."
 
-hjhiuh
+-- Maya Angelou, 1973</blockquote>
+In <em>Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone, </em>Brene Brown (2017) discusses this universal human need for belonging -- and the importance of belonging authentically. She contrasts a true sense of "belonging" to "fitting in" -- a sense of being accepted, but not as one's true self.
+<blockquote>"You will always belong anywhere you show up as yourself and talk about yourself and your work in a real way."
+
+-- Brene Brown (2017, p. 26)</blockquote>
+&nbsp;
+
+kajlkjl
 <blockquote>"At home in our own souls, we become more at home with each other"
 
 -- Parker Palmer (1998, p. 5)</blockquote>
