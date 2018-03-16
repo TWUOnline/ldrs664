@@ -11,13 +11,21 @@ post_date: 2018-02-27 18:23:14
 ---
 <h1>Unit 2: Belonging to One's Self</h1>
 <h4>Overview</h4>
-Creating authentic learning communities begins with personal authenticity -- with knowing one's self and, as <a href="http://1http://billmoyers.com/content/conversation-maya-angelou">Maya Angelou</a> discusses, "belonging to one's self."
+Creating authentic learning communities begins with personal authenticity -- with knowing one's self. Palmer (1998) argues that "good teaching comes from the identity and integrity of the teacher" (p. 13).
 
-&nbsp;
+Identity: Knowing ourselves as teachers means that we must explore our inner landscape. We must be aware of the character traits, personal experiences, values, beliefs, and cultural environment in which we were raised and now live. These elements are part of our identity -- and we bring our identity with us into the classroom and learning spaces in which we coach and teach others.
+
+Integrity: So, too, our integrity comes with us into the learning spaces in which we teach. Integrity, from Palmer's (1998) discussion, is not about ethics, but about an integrated sense of self -- a self that is whole, integrating life experiences and values and beliefs in a meaningful, authentic way.
+
+Whether we are aware of it or not, our integrity and identity are part of who we are as teachers. It is on this foundation that we build connections with students, and are able to invite them in to spaces where personal transformation  and authentic learning will take place.
+
+As <a href="http://1http://billmoyers.com/content/conversation-maya-angelou">Maya Angelou</a> discusses, belonging to one's self.
 
 hjhiuh
-<blockquote>"At home in our own souls, we become more at home with each other" (Palmer, 1998, p. 5).</blockquote>
-In our role as teachers, we are asked to connect students with content. But the first (and most important) connections we make are connections between students, and between students and teachers.
+<blockquote>"At home in our own souls, we become more at home with each other"
+
+-- Parker Palmer (1998, p. 5)</blockquote>
+In our role as teachers, we are asked to connect students with content. But the first (and most important) connections we make (and the connections on which all learning is built) are connections between students, and between students and teachers.
 <blockquote>"Good teachers join self and subject and students in the fabric of life"
 
 -- Parker Palmer (1998, p. 11)</blockquote>
