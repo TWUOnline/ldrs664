@@ -13,17 +13,21 @@ post_date: 2018-02-27 18:23:14
 <h4>Overview</h4>
 Creating authentic learning communities begins with personal authenticity -- with knowing one's self. Palmer (1998) argues that "good teaching comes from the identity and integrity of the teacher" (p. 13).
 
-Identity: Knowing ourselves as teachers means that we must explore our inner landscape. We must be aware of the character traits, personal experiences, values, beliefs, and cultural environment in which we were raised and now live. These elements are part of our identity -- and we bring our identity with us into the classroom and learning spaces in which we coach and teach others.
+Identity: Knowing ourselves as teachers means that we must explore our inner landscape. We must be aware of the character traits, personal experiences, values, beliefs, and cultural environment in which we were raised and now live. These elements are part of our identity -- and we bring our identity with us into the classroom and learning spaces in which we coach and teach others(Palmer, 1998)
 
 Integrity: So, too, our integrity comes with us into the learning spaces in which we teach. Integrity, from Palmer's (1998) discussion, is not about ethics, but about an integrated sense of self -- a self that is whole, integrating life experiences and values and beliefs in a meaningful, authentic way.
 
-Whether we are aware of it or not, our integrity and identity are part of who we are as teachers. It is on this foundation that we build connections with students, and are able to invite them in to spaces where personal transformation  and authentic learning will take place.
+Whether we are aware of it or not, our integrity and identity are part of who we are as teachers. It is on this foundation that we build connections with students, and are able to invite them into spaces where personal transformation  and authentic learning will take place.
 
-As <a href="http://1http://billmoyers.com/content/conversation-maya-angelou">Maya Angelou</a> discusses, belonging to one's self is an ongoing journey.
+As <a href="http://1http://billmoyers.com/content/conversation-maya-angelou">Maya Angelou</a> discusses, belonging to one's self is an ongoing journey -- a journey that is not always easy.
 <blockquote>"I belong to myself."
 
 -- Maya Angelou, 1973</blockquote>
 In <em>Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone, </em>Brene Brown (2017) discusses this universal human need for belonging -- and the importance of belonging authentically. She contrasts a true sense of "belonging" to "fitting in" -- a sense of being accepted, but not as one's true self.
+<blockquote>"We want to be part of something, but we need it to be real -- not conditional or fake or constantly up for negotiation. We need true belonging."
+
+-- Brene Brown (2017, p. 31)</blockquote>
+jlklk
 <blockquote>"You will always belong anywhere you show up as yourself and talk about yourself and your work in a real way."
 
 -- Brene Brown (2017, p. 26)</blockquote>
