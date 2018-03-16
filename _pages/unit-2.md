@@ -9,15 +9,20 @@ permalink: >
 published: true
 post_date: 2018-02-27 18:23:14
 ---
-Unit 2: Belonging to One's Self
-##### Overview
+<h1>Unit 2: Belonging to One's Self</h1>
+<h4>Overview</h4>
+Creating authentic learning communities begins with personal authenticity -- with knowing one's self and, as <a href="http://1http://billmoyers.com/content/conversation-maya-angelou">Maya Angelou</a> discusses, "belonging to one's self."
 
-Welcome to COURSE! In this first unit, we begin the course by…
-```
-Here is where we want to hook our students! Consider what main ideas are in the unit, questions students may have, and how these apply to practice or the bigger picture. We also may want to include certain tasks, mentioning some readings or assignments.
-The important thing is to gain students attention and interest so they are motivated throughout the unit.
+&nbsp;
 
-"At home in our own souls, we become more at home with each other" (Palmer, 1998, p. 5).
+hjhiuh
+<blockquote>"At home in our own souls, we become more at home with each other" (Palmer, 1998, p. 5).</blockquote>
+In our role as teachers, we are asked to connect students with content. But the first (and most important) connections we make are connections between students, and between students and teachers.
+<blockquote>"Good teachers join self and subject and students in the fabric of life"
+
+-- Parker Palmer (1998, p. 11)</blockquote>
+&nbsp;
+
 ```
 
 ##### Topics
