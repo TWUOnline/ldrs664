@@ -9,13 +9,18 @@ permalink: >
 published: true
 post_date: 2018-02-27 18:23:14
 ---
-### Unit 1
-##### Overview
+<h4> Unit 1: The Heart of a Teacher</h4>
+<h4>Overview</h4>
+Welcome to LDRS 664 Creating Authentic Learning Communities!
 
-Welcome to COURSE! In this first unit, we begin the course by…
+In this first unit, we begin the course by…
 ```
 Here is where we want to hook our students! Consider what main ideas are in the unit, questions students may have, and how these apply to practice or the bigger picture. We also may want to include certain tasks, mentioning some readings or assignments.
 The important thing is to gain students attention and interest so they are motivated throughout the unit.
+
+As humans, we long for authenticity in our relationships. We want to feel "at home" in the organizations that are part of our lives -- our families, schools, communities, places of worship. We seek connection. We search for a place where we are know.
+
+Deep, authentic learning happens in spaces where we feel "at home." Places where we are part of
 ```
 
 ##### Topics
