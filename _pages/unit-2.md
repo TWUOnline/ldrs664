@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-02-27 18:23:14
 ---
-### unit 2
+Unit 2: Belonging to One's Self
 ##### Overview
 
 Welcome to COURSE! In this first unit, we begin the course by…
@@ -32,10 +32,12 @@ When you have completed this unit you should be able to:
 * Contrast…
 * Analyze…
 * Determine…
-
-##### Activity Checklist
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-
+<h4>Activity Checklist
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.</h4>
+<ol>
+ 	<li>Read. Brown, B. (2017). Chapter 1 Everywhere and Nowhere, Chapter 2 The Quest for True Belonging</li>
+ 	<li>Watch: Maya Angelou. <a href="http://1http://billmoyers.com/content/conversation-maya-angelou">Interview with Bill Moyers</a></li>
+</ol>
 ```
 Learning Activities can include the following:
 * Readings (text, article)
