@@ -57,9 +57,7 @@ These learning activities will engage you in considering the guiding questions 
 <h4>Learning Assessment</h4>
 These assessments will demonstrate your learning related to the guiding question for this unit.
 <ol>
- 	<li>Blog Post: Incorporating the Palmer reading for this unit, you will write a ______ word blog posts that addresses the following questions:<i> </i><i>What does it mean for you to be authentic as a teacher?</i><i>When have you felt "at home" within a learning community? What elements made that learning space feel like "home"?</i>
-
-<i>How do we create authentic learning spaces?”</i></li>
+ 	<li>Blog Post: Incorporating the Palmer reading for this unit, you will write a ______ word blog posts that addresses the following questions:<i> </i><i>What does it mean for you to be authentic as a teacher?</i><i>When have you felt "at home" within a learning community? What elements made that learning space feel like "home"?</i><i>How do we create authentic learning spaces?”</i></li>
 </ol>
 &nbsp;
 
