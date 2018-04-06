@@ -1,6 +1,6 @@
 ---
 ID: 32
-post_title: Unit 2
+post_title: 'Unit 2: Belonging to One&#8217;s Self'
 author: Colin Madland
 post_excerpt: ""
 layout: page
@@ -9,9 +9,8 @@ permalink: >
 published: true
 post_date: 2018-02-27 18:23:14
 ---
-<h1>Unit 2: Belonging to One's Self</h1>
-<h4>Overview</h4>
-Creating authentic learning communities begins with personal authenticity -- with knowing one's self. Palmer (1998) argues that "good teaching comes from the identity and integrity of the teacher" (p. 13).
+<h4>Unit Overview</h4>
+Creating authentic learning communities begins with personal authenticity -- with knowing one's self. Palmer (1998) argues that "good teaching comes from the<em> identity</em> and <em>integrity</em> of the teacher" (p. 13, italics added).
 
 Identity: Knowing ourselves as teachers means that we must explore our inner landscape. We must be aware of the character traits, personal experiences, values, beliefs, and cultural environment in which we were raised and now live. These elements are part of our identity -- and we bring our identity with us into the classroom and learning spaces in which we coach and teach others(Palmer, 1998)
 
@@ -33,15 +32,17 @@ jlklk
 -- Brene Brown (2017, p. 26)</blockquote>
 &nbsp;
 
-kajlkjl
+It is Palmer's (1998) contention that our own sense of identity and integrity provide a foundation for creating authentic communities.
 <blockquote>"At home in our own souls, we become more at home with each other"
 
 -- Parker Palmer (1998, p. 5)</blockquote>
-In our role as teachers, we are asked to connect students with content. But the first (and most important) connections we make (and the connections on which all learning is built) are connections between students, and between students and teachers.
+In our role as teachers, we are asked to connect students with new ways of thinking and knowing, as well as new knowledge. But the first (and most important) connections we make (and the connections on which all learning is built) are connections between students, and between students and teachers.
 <blockquote>"Good teachers join self and subject and students in the fabric of life"
 
 -- Parker Palmer (1998, p. 11)</blockquote>
-&nbsp;
+Authenticity is also an essential ingredient for effective leadership. Authentic leadership includes elements of both self-knowledge and identity, as well as collaboration with others within the context of relationship (Northhouse, 2019). Avolio, Walumbwa and Weber (2009) provide a model of authentic leadership that includes "self-awareness, internalized moral perspective, balanced processing, and relational transparency" (as cited in Northhouse, 2019).
+
+Leadership then, like teaching, relies not just on the relationships that teachers form with learners, but also on the identity of the teacher.
 
 ```
 
