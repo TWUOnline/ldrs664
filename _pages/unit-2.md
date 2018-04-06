@@ -12,9 +12,9 @@ post_date: 2018-02-27 18:23:14
 <h4>Unit Overview</h4>
 Creating authentic learning communities begins with personal authenticity -- with knowing one's self. Palmer (1998) argues that "good teaching comes from the<em> identity</em> and <em>integrity</em> of the teacher" (p. 13, italics added).
 
-Identity: Knowing ourselves as teachers means that we must explore our inner landscape. We must be aware of the character traits, personal experiences, values, beliefs, and cultural environment in which we were raised and now live. These elements are part of our identity -- and we bring our identity with us into the classroom and learning spaces in which we coach and teach others(Palmer, 1998)
+<strong>Identity:</strong> Knowing ourselves as teachers means that we must explore our inner landscape. We must be aware of the character traits, personal experiences, values, beliefs, and cultural environment in which we were raised and now live. These elements are part of our identity -- and we bring our identity with us into the classroom and learning spaces in which we coach and teach others (Palmer, 1998)
 
-Integrity: So, too, our integrity comes with us into the learning spaces in which we teach. Integrity, from Palmer's (1998) discussion, is not about ethics, but about an integrated sense of self -- a self that is whole, integrating life experiences and values and beliefs in a meaningful, authentic way.
+<strong>Integrity:</strong> So, too, our integrity comes with us into the learning spaces in which we teach. Integrity, from Palmer's (1998) discussion, is not about ethics, but about an integrated sense of self -- a self that is whole, integrating life experiences and values and beliefs in a meaningful, authentic way.
 
 Whether we are aware of it or not, our integrity and identity are part of who we are as teachers. It is on this foundation that we build connections with students, and are able to invite them into spaces where personal transformation  and authentic learning will take place.
 
@@ -30,8 +30,6 @@ jlklk
 <blockquote>"You will always belong anywhere you show up as yourself and talk about yourself and your work in a real way."
 
 -- Brene Brown (2017, p. 26)</blockquote>
-&nbsp;
-
 It is Palmer's (1998) contention that our own sense of identity and integrity provide a foundation for creating authentic communities.
 <blockquote>"At home in our own souls, we become more at home with each other"
 
@@ -46,53 +44,24 @@ Leadership then, like teaching, relies not just on the relationships that teache
 
 ```
 
-##### Topics
-unit 2 is divided into __ topics:
-* Topic 1:
-* Topic 2:
-* Topic 3:
+<strong>Unit Topics</strong>
 
-##### Learning Outcomes
+Topic 1: Identity and Teaching
+Topic 2: Authenticity as a Teacher/Facilitator
+
+<strong>Learning Outcomes</strong>
 When you have completed this unit you should be able to:
-* Describe…
-* Contrast…
-* Analyze…
-* Determine…
-<h4>Activity Checklist
+* Articulate a sense of identity as a teacher/facilitator
+<h4>Learning Activity Checklist
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.</h4>
 <ol>
  	<li>Read. Brown, B. (2017). Chapter 1 Everywhere and Nowhere, Chapter 2 The Quest for True Belonging</li>
  	<li>Watch: Maya Angelou. <a href="http://1http://billmoyers.com/content/conversation-maya-angelou">Interview with Bill Moyers</a></li>
  	<li>Watch: Brene Brown: <a href="http://Brene Brown: The Power of Vulnerability https://www.ted.com/talks/brene_brown_on_vulnerability">The Power of Vulnerability</a></li>
 </ol>
-```
-Learning Activities can include the following:
-* Readings (text, article)
-* Videos (youtube, library, or our media team can create videos, conduct interviews, etc.)
-* Simulations
-* Websites (to explore, or webquests to find answers)
-* Unmarked quizzes
-* Case studies
-* Interviews (ex. with friends/family/coworkers)
-* Reflection/study journal/questions to consider
+<strong>Learning Assessment</strong>
+<i>What does it mean to “belong to myself?” In what ways to do I feel I belong to myself? In what ways to I feel I don’t belong to myself?</i>
 
-These are usually non-graded, and can be optional for students, however they are designed to help students learn the material and prepare for the assignments.
-```
-
-|Activities| | |
-|----|----|----|
-| Activity 1:| | |
-| Activity 2:| | |
-| Activity 3:| | |
-| Activity 4:| | |
-| Assignment 1:| | |
-
-##### Assessment
-Here is the assessment for unit 2.
-Assignment 1: …
-%
-```
-If there are a number of learning activities above, it may be helpful to split up these sections. Otherwise, one list is fine.
 ```
 
 ## Topic 1:
