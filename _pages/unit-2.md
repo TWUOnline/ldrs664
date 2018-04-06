@@ -41,26 +41,61 @@ In our role as teachers, we are asked to connect students with new ways of think
 Authenticity is also an essential ingredient for effective leadership. Authentic leadership includes elements of both self-knowledge and identity, as well as collaboration with others within the context of relationship (Northhouse, 2019). Avolio, Walumbwa and Weber (2009) provide a model of authentic leadership that includes "self-awareness, internalized moral perspective, balanced processing, and relational transparency" (as cited in Northhouse, 2019, p. 198).
 
 Leadership then, like teaching, relies not just on the relationships that teachers form with learners, but also on the identity of the teacher. "Authentic leaders understand their own <em>values</em> and <em>behave </em>toward others based on these values" (Northouse, 2019, p. 201).
+<h4>Learning Outcomes</h4>
+When you have completed this unit you should be able to:
+<ol>
+ 	<li>Describe your own personal identity as a facilitator/teacher</li>
+ 	<li>Identify your personal beliefs about your role as a facilitator/teacher</li>
+ 	<li>Discuss key elements of an authentic learning community</li>
+</ol>
+<h4>Learning Activity Checklist</h4>
+These learning activities will engage you in considering the guiding questions for this unit.
+<ol>
+ 	<li>Read: Palmer, P. (1998): Introduction, Chapter 1: The Heart of a Teacher, Chapter 3: The Hidden Wholeness: Paradox in Teaching and Learning</li>
+ 	<li>Listen: Phillip Phillips: <a href="https://www.youtube.com/watch?v=HoRkntoHkIE">Home</a></li>
+</ol>
+<h4>Learning Assessment</h4>
+These assessments will demonstrate your learning related to the guiding question for this unit.
+<ol>
+ 	<li>Blog Post: Incorporating the Palmer reading for this unit, you will write a ______ word blog posts that addresses the following questions:<i> </i><i>What does it mean for you to be authentic as a teacher?</i><i>When have you felt "at home" within a learning community? What elements made that learning space feel like "home"?</i>
+
+<i>How do we create authentic learning spaces?”</i></li>
+</ol>
+&nbsp;
 
 <strong>Unit Topics</strong>
+
+Unit 2 focuses on 2 guiding questions
 
 Topic 1: Identity and Teaching
 Topic 2: Authenticity as a Teacher/Facilitator
 
 <strong>Learning Outcomes</strong>
 When you have completed this unit you should be able to:
+
 1. Articulate a sense of identity as a teacher/facilitator
 
 &nbsp;
 <h4>Learning Activity Checklist</h4>
+These learning activities will engage you in considering the guiding questions for this unit.
 <ol>
  	<li>Read. Brown, B. (2017). Chapter 1 Everywhere and Nowhere, Chapter 2 The Quest for True Belonging</li>
  	<li>Watch: Maya Angelou. <a href="http://1http://billmoyers.com/content/conversation-maya-angelou">Interview with Bill Moyers</a></li>
  	<li>Watch: Brene Brown: <a href="http://Brene Brown: The Power of Vulnerability https://www.ted.com/talks/brene_brown_on_vulnerability">The Power of Vulnerability</a></li>
 </ol>
 <strong>Learning Assessment</strong>
-<i>What does it mean to “belong to myself?” In what ways to do I feel I belong to myself? In what ways to I feel I don’t belong to myself?</i>
 
+These assessments will demonstrate your learning related to the guiding question for this unit.
+<ol>
+ 	<li>Blog Post 1: Incorporating the readings for this unit, you will write a ______ word blog posts that addresses the following questions:<i> </i>
+<ol>
+ 	<li><i>What does it mean to “belong to myself?” </i></li>
+ 	<li><i>In what ways to do I feel I belong to myself? </i></li>
+ 	<li><i>In what ways to I feel I don’t belong to myself?</i></li>
+</ol>
+</li>
+ 	<li>Blog Post 2: Incorporating the readings for this unit, you will write a ______ word blog posts that addresses the following questions:<i> </i></li>
+</ol>
 ```
 
 ## Topic 1:
