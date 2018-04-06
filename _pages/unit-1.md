@@ -1,6 +1,6 @@
 ---
 ID: 20
-post_title: Unit 1
+post_title: 'Unit 1: The Heart of a Teacher'
 author: Colin Madland
 post_excerpt: ""
 layout: page
@@ -9,60 +9,46 @@ permalink: >
 published: true
 post_date: 2018-02-27 18:23:14
 ---
-<h4> Unit 1: The Heart of a Teacher</h4>
 <h4>Unit Overview</h4>
 Welcome to LDRS 664 Creating Authentic Learning Communities!
 
-As humans, we long for authenticity in our relationships. We want to feel "at home" in the organizations that are part of our lives -- our families, schools, communities, places of worship. We seek connection. We search for a place where we are know.
+As humans, we long for authenticity in our relationships. We want to feel "at home" in the organizations that are part of our lives -- our families, schools, communities, places of worship. We seek connection. We search for a place where we are known.
 
 This sense of being "at home" is essential to our experience as learners. Deep, authentic learning happens in spaces where we feel connected with others. Places and spaces where we are known. Palmer (1998) refers to this as the "spiritual quest for connectedness" (p. 5).
 
-In this course, we will explore together the theoretical foundations of learning communities, evaluating key elements essential to  creating authentic learning communities, where learners are known and learning is authentic.
-
-```
+In this course, we will explore together the theoretical foundations of learning communities, evaluating key elements essential to creating authentic learning communities, where learners are known and learning is authentic.
 <h4>Topics</h4>
-Unit 1 focuses on 2 topics:
+Unit 1 focuses on 2 guiding questions
 <ol>
- 	<li>Authenticity in teaching and learning</li>
- 	<li>The facilitator’s role in creating spaces for authentic learning</li>
+ 	<li>What does it mean to be authentic in teaching and learning?</li>
+ 	<li>What is the facilitator’s role in creating spaces for authentic learning?</li>
 </ol>
 <h4>Learning Outcomes</h4>
 When you have completed this unit you should be able to:
 <ol>
  	<li>Describe your own personal identity as a facilitator/teacher</li>
  	<li>Identify your personal beliefs about your role as a facilitator/teacher</li>
+ 	<li>Discuss key elements of an authentic learning community</li>
 </ol>
 <h4>Learning Activity Checklist</h4>
-These learning activities will engage you
+These learning activities will engage you in considering the guiding questions for this unit.
 <ol>
  	<li>Read: Palmer, P. (1998): Introduction, Chapter 1: The Heart of a Teacher, Chapter 3: The Hidden Wholeness: Paradox in Teaching and Learning</li>
  	<li>Listen: Phillip Phillips: <a href="https://www.youtube.com/watch?v=HoRkntoHkIE">Home</a></li>
 </ol>
-```
-Learning Activities can include the following:
-* Readings (text, article)
-* Videos (youtube, library, or our media team can create videos, conduct interviews, etc.)
-* Simulations
-* Websites (to explore, or webquests to find answers)
-* Unmarked quizzes
-* Case studies
-* Interviews (ex. with friends/family/coworkers)
-* Reflection/study journal/questions to consider
+<h4>Learning Assessment</h4>
+&nbsp;
 
-These are usually non-graded, and can be optional for students, however they are designed to help students learn the material and prepare for the assignments.
-```
+This learning assessment will demonstrate your learning related to the guiding question for this unit.
+<ol>
+ 	<li>Blog Post: Incorporating the Palmer reading for this unit, you will write a ______ word blog posts that addresses the following questions:<i> </i>
 
-|Activities| | |
-|----|----|----|
-| Activity 1:| | |
-| Activity 2:| | |
-| Activity 3:| | |
-| Activity 4:| | |
-| Assignment 1:| | |
+<i>What does it mean for you to be authentic as a teacher?</i>
 
-##### Assessment
-Here is the assessment for Unit 4.
-Assignment 1: …
+<i>When have you felt "at home" within a learning community? What elements made that learning space feel like "home"?</i>
+
+<i>How do we create authentic learning spaces?”</i></li>
+</ol>
 %
 ```
 If there are a number of learning activities above, it may be helpful to split up these sections. Otherwise, one list is fine.
