@@ -38,11 +38,9 @@ In our role as teachers, we are asked to connect students with new ways of think
 <blockquote>"Good teachers join self and subject and students in the fabric of life"
 
 -- Parker Palmer (1998, p. 11)</blockquote>
-Authenticity is also an essential ingredient for effective leadership. Authentic leadership includes elements of both self-knowledge and identity, as well as collaboration with others within the context of relationship (Northhouse, 2019). Avolio, Walumbwa and Weber (2009) provide a model of authentic leadership that includes "self-awareness, internalized moral perspective, balanced processing, and relational transparency" (as cited in Northhouse, 2019).
+Authenticity is also an essential ingredient for effective leadership. Authentic leadership includes elements of both self-knowledge and identity, as well as collaboration with others within the context of relationship (Northhouse, 2019). Avolio, Walumbwa and Weber (2009) provide a model of authentic leadership that includes "self-awareness, internalized moral perspective, balanced processing, and relational transparency" (as cited in Northhouse, 2019, p. 198).
 
-Leadership then, like teaching, relies not just on the relationships that teachers form with learners, but also on the identity of the teacher.
-
-```
+Leadership then, like teaching, relies not just on the relationships that teachers form with learners, but also on the identity of the teacher. "Authentic leaders understand their own <em>values</em> and <em>behave </em>toward others based on these values" (Northouse, 2019, p. 201).
 
 <strong>Unit Topics</strong>
 
@@ -51,9 +49,10 @@ Topic 2: Authenticity as a Teacher/Facilitator
 
 <strong>Learning Outcomes</strong>
 When you have completed this unit you should be able to:
-* Articulate a sense of identity as a teacher/facilitator
-<h4>Learning Activity Checklist
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.</h4>
+1. Articulate a sense of identity as a teacher/facilitator
+
+&nbsp;
+<h4>Learning Activity Checklist</h4>
 <ol>
  	<li>Read. Brown, B. (2017). Chapter 1 Everywhere and Nowhere, Chapter 2 The Quest for True Belonging</li>
  	<li>Watch: Maya Angelou. <a href="http://1http://billmoyers.com/content/conversation-maya-angelou">Interview with Bill Moyers</a></li>
