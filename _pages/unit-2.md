@@ -12,13 +12,15 @@ post_date: 2018-02-27 18:23:14
 <h4>Unit Overview</h4>
 Creating authentic learning communities begins with personal authenticity -- with knowing one's self. Palmer (1998) argues that "good teaching comes from the<em> identity</em> and <em>integrity</em> of the teacher" (p. 13, italics added).
 
-<strong>Identity:</strong> Knowing ourselves as teachers means that we must explore our inner landscape. We must be aware of the character traits, personal experiences, values, beliefs, and cultural environment in which we were raised and now live. These elements are part of our identity -- and we bring our identity with us into the classroom and learning spaces in which we coach and teach others (Palmer, 1998)
+<strong>Identity:</strong> Knowing ourselves as teachers means that we must explore our inner landscape. We must be aware of the character traits, personal experiences, values, beliefs, and cultural environment in which we were raised and now live. These elements are part of our identity -- and we bring our identity with us into the classroom and learning spaces in which we coach and teach others (Palmer, 1998).
 
 <strong>Integrity:</strong> So, too, our integrity comes with us into the learning spaces in which we teach. Integrity, from Palmer's (1998) discussion, is not about ethics, but about an integrated sense of self -- a self that is whole, integrating life experiences and values and beliefs in a meaningful, authentic way.
 
 Whether we are aware of it or not, our integrity and identity are part of who we are as teachers. It is on this foundation that we build connections with students, and are able to invite them into spaces where personal transformation  and authentic learning will take place.
 
-As <a href="http://1http://billmoyers.com/content/conversation-maya-angelou">Maya Angelou</a> discusses, belonging to one's self is an ongoing journey -- a journey that is not always easy.
+<strong>[I'm wondering whether you'd like to move any of the quotes or content from the Overview to the Topics?  We could shorten it a bit, to give students a brief summary of what they'll be learning, not necessarily explaining the topics yet.]</strong>
+
+As <a href="http://1http://billmoyers.com/content/conversation-maya-angelou">Maya Angelou</a> discusses, belonging to one's self is an ongoing journey -- a journey that is not always easy. <strong>[the link isn't working.  Could you check the source?]</strong>
 <blockquote>"I belong to myself."
 
 -- Maya Angelou, 1973</blockquote>
@@ -59,8 +61,8 @@ When you have completed this unit you should be able to:
 These learning activities will engage you in considering the guiding questions for this unit.
 <ol>
  	<li>Read. Brown, B. (2017). Chapter 1 Everywhere and Nowhere, Chapter 2 The Quest for True Belonging</li>
- 	<li>Watch: Maya Angelou. <a href="http://1http://billmoyers.com/content/conversation-maya-angelou">Interview with Bill Moyers</a></li>
- 	<li>Watch: Brene Brown: <a href="http://Brene Brown: The Power of Vulnerability https://www.ted.com/talks/brene_brown_on_vulnerability">The Power of Vulnerability</a></li>
+ 	<li>Watch: Maya Angelou. <a href="http://billmoyers.com/content/conversation-maya-angelou/">Interview with Bill Moyers</a></li>
+ 	<li>Watch: Brene Brown: <a href="http://Brene Brown: The Power of Vulnerability https://www.ted.com/talks/brene_brown_on_vulnerability">The Power of Vulnerability</a> <strong>[this link isn't working.  Please check and also put in blueprint]</strong></li>
  	<li>Read: Gardner, B., Avolio, B., Luthans, F., May, D. &amp; Walumbwa, F. (2005) Can you see the real me? A self-based model of authentic leader and follower development. <em>The Leadership Quarterly 16</em>, pp. 343–372</li>
 </ol>
 <strong>Learning Assessment</strong>
@@ -76,6 +78,6 @@ These assessments will demonstrate your learning related to the guiding question
 </li>
  	<li>Blog Post 2: Incorporating the readings for this unit, you will write a ______ word blog posts that addresses the following questions:<i> </i></li>
 </ol>
-&nbsp;
+<strong>[Again, we can list these questions here or at the end of the unit. Here, students may read them and think they don't need to read everything to answer the questions.]</strong>
 
 &nbsp;
