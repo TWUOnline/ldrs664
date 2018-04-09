@@ -18,11 +18,12 @@ This sense of being "at home" is essential to our experience as learners. Deep, 
 
 In this course, we will explore together the theoretical foundations of learning communities, evaluating key elements essential to creating authentic learning communities, where learners are known and learning is authentic.
 <h4>Topics</h4>
-Unit 1 focuses on 2 guiding questions
+Unit 1 focuses on two guiding questions:
 <ol>
  	<li>What does it mean to be authentic in teaching and learning?</li>
  	<li>What is the facilitator’s role in creating spaces for authentic learning?</li>
 </ol>
+&nbsp;
 <h4>Learning Outcomes</h4>
 When you have completed this unit you should be able to:
 <ol>
@@ -30,20 +31,22 @@ When you have completed this unit you should be able to:
  	<li>Identify your personal beliefs about your role as a facilitator/teacher</li>
  	<li>Discuss key elements of an authentic learning community</li>
 </ol>
+&nbsp;
 <h4>Learning Activity Checklist</h4>
 These learning activities will engage you in considering the guiding questions for this unit.
 <ol>
  	<li>Read: Palmer, P. (1998): Introduction, Chapter 1: The Heart of a Teacher, Chapter 3: The Hidden Wholeness: Paradox in Teaching and Learning</li>
  	<li>Listen: Phillip Phillips: <a href="https://www.youtube.com/watch?v=HoRkntoHkIE">Home</a></li>
 </ol>
+&nbsp;
 <h4>Learning Assessment</h4>
-These assessments will demonstrate your learning related to the guiding question for this unit.
+These assessments will demonstrate your learning related to the guiding question for this unit.<strong>[should we say "related to the learning outcomes for this unit" instead? Just so students make that link?] </strong>
 <ol>
- 	<li>Blog Post: Incorporating the Palmer reading for this unit, you will write a ______ word blog posts that addresses the following questions:<i> </i><i>What does it mean for you to be authentic as a teacher?</i>
+ 	<li>Blog Post: Incorporating the Palmer reading for this unit, you will write a ______ word blog posts that addresses the following questions:<i> </i><i>What does it mean for you to be authentic as a teacher?</i><i>When have you felt "at home" within a learning community? What elements made that learning space feel like "home"?</i>
 
-<i>When have you felt "at home" within a learning community? What elements made that learning space feel like "home"?</i>
+<i>How do we create authentic learning spaces?”</i>
 
-<i>How do we create authentic learning spaces?”</i></li>
+<strong>[Do you want to give students these questions before they read the topics?  Either way is fine, but as an option we could move them to the end of the unit, and here say: "...blog post that addresses questions about authentic learning spaces. See the assessments section for more details about this assignment]</strong></li>
 </ol>
 <h2>Topic 1:
 Authenticity in Teaching and Learning</h2>
