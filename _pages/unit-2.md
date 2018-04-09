@@ -20,7 +20,7 @@ Whether we are aware of it or not, our integrity and identity are part of who we
 
 <strong>[I'm wondering whether you'd like to move any of the quotes or content from the Overview to the Topics?  We could shorten it a bit, to give students a brief summary of what they'll be learning, not necessarily explaining the topics yet.]</strong>
 
-As <a href="http://billmoyers.com/content/conversation-maya-angelou">Maya Angelou</a> discusses, belonging to one's self is an ongoing journey -- a journey that is not always easy. <strong>[the link isn't working.  Could you check the source?]</strong>
+As <a href="http://billmoyers.com/content/conversation-maya-angelou" target="_blank" rel="noopener">Maya Angelou</a> discusses, belonging to one's self is an ongoing journey -- a journey that is not always easy. <strong>[Do we need a link here?  I assume we don't want students to watch the video yet?]</strong>
 <blockquote>"I belong to myself."
 
 -- Maya Angelou, 1973</blockquote>
@@ -61,8 +61,8 @@ When you have completed this unit you should be able to:
 These learning activities will engage you in considering the guiding questions for this unit.
 <ol>
  	<li>Read. Brown, B. (2017). Chapter 1 Everywhere and Nowhere, Chapter 2 The Quest for True Belonging</li>
- 	<li>Watch: Maya Angelou. <a href="http://billmoyers.com/content/conversation-maya-angelou/">Interview with Bill Moyers</a></li>
- 	<li>Watch: Brene Brown: <a href="http://Brene Brown: The Power of Vulnerability https://www.ted.com/talks/brene_brown_on_vulnerability">The Power of Vulnerability</a> <strong>[this link isn't working.  Please check and also put in blueprint]</strong></li>
+ 	<li>Watch: Maya Angelou. <a href="http://billmoyers.com/content/conversation-maya-angelou/" target="_blank" rel="noopener">Interview with Bill Moyers</a> (7 minutes)</li>
+ 	<li>Watch: Brene Brown: <a href="https://www.ted.com/talks/brene_brown_on_vulnerability" target="_blank" rel="noopener">The Power of Vulnerability</a> (20 minutes)</li>
  	<li>Read: Gardner, B., Avolio, B., Luthans, F., May, D. &amp; Walumbwa, F. (2005) Can you see the real me? A self-based model of authentic leader and follower development. <em>The Leadership Quarterly 16</em>, pp. 343–372</li>
 </ol>
 <strong>Learning Assessment</strong>
