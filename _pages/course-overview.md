@@ -10,11 +10,12 @@ published: true
 post_date: 2018-02-27 18:23:14
 ---
 <h1><b>LDRS 664 Creating Authentic Learning Communities </b></h1>
-<h4><b>Course Description</b></h4>
+<h4><b>Course Description </b></h4>
 Learners explore:
+<h4><b>[do we need to have this in a list?]</b></h4>
 <ol>
  	<li>theoretical foundations of learning communities, evaluate strategies for creating authentic learning communities, and apply those strategies in a learning/coaching context,</li>
- 	<li>teaching and learning through the lens of personal transformation and then widen their lens to consider systems theory and challenges of leading for an authentic learning environment, t</li>
+ 	<li>teaching and learning through the lens of personal transformation and then widen their lens to consider systems theory and challenges of leading for an authentic learning environment,</li>
  	<li>themes such as identity, perception, interconnectedness and learning organizations.</li>
 </ol>
 Learners will develop a personal philosophy of Learning Communities, exploring what it means to be personally authentic and how to lead authentically in a learning environment.
