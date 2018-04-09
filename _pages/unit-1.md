@@ -42,9 +42,7 @@ These learning activities will engage you in considering the guiding questions 
 <h4>Learning Assessment</h4>
 These assessments will demonstrate your learning related to the guiding question for this unit.<strong>[should we say "related to the learning outcomes for this unit" instead? Just so students make that link?] </strong>
 <ol>
- 	<li>Blog Post: Incorporating the Palmer reading for this unit, you will write a ______ word blog posts that addresses the following questions:<i> </i><i>What does it mean for you to be authentic as a teacher?</i><i>When have you felt "at home" within a learning community? What elements made that learning space feel like "home"?</i>
-
-<i>How do we create authentic learning spaces?”</i>
+ 	<li>Blog Post: Incorporating the Palmer reading for this unit, you will write a ______ word blog posts that addresses the following questions:<i> </i><i>What does it mean for you to be authentic as a teacher?</i><i>When have you felt "at home" within a learning community? What elements made that learning space feel like "home"?</i><i>How do we create authentic learning spaces?”</i>
 
 <strong>[Do you want to give students these questions before they read the topics?  Either way is fine, but as an option we could move them to the end of the unit, and here say: "...blog post that addresses questions about authentic learning spaces. See the assessments section for more details about this assignment]</strong></li>
 </ol>
@@ -53,7 +51,7 @@ Authenticity in Teaching and Learning</h2>
 Teaching and learning is a deeply personal experience. Learning is, by definition, a transformative experience; we change as a result of learning. Teaching is also a transformative experience; we change as a result of teaching.
 
 In his book, <em>The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life</em>, Parker Palmer (1998) argues that the "inner landscape of teaching" is an essential foundation out of which authentic learning experiences emerge.
-<blockquote>"Teachers possess the power to create conditions that can help students learn a great deal -- or keep them from learning much at all. Teaching is the intentional act of creating those conditions, and good teaching requies that we understand the inner source of both the intent and the act." -- Palmer (1998, p. 6)</blockquote>
+<blockquote>"Teachers possess the power to create conditions that can help students learn a great deal -- or keep them from learning much at all. Teaching is the intentional act of creating those conditions, and good teaching requires that we understand the inner source of both the intent and the act." -- Palmer (1998, p. 6)</blockquote>
 Palmer (1998) refers to the "spiritual quest for connectedness."
 
 &nbsp;
