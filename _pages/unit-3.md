@@ -12,13 +12,6 @@ post_date: 2018-02-27 18:23:14
 <h1>Unit 3: <b>Belonging to Others</b></h1>
 ##### Overview
 
-Welcome to COURSE! In this first unit, we begin the course by…
-```
-Here is where we want to hook our students! Consider what main ideas are in the unit, questions students may have, and how these apply to practice or the bigger picture. We also may want to include certain tasks, mentioning some readings or assignments.
-The important thing is to gain students attention and interest so they are motivated throughout the unit.
-
-&nbsp;
-
 In our role as teachers, we are asked to connect students with content. But the first (and most important) connections we make (and the connections on which all learning is built) are connections between students, and between students and teachers.
 <blockquote>"Good teachers join self and subject and students in the fabric of life"
 
@@ -36,13 +29,16 @@ When you have completed this unit you should be able to:
  	<li>Describe elements of a learning community that create a sense of belonging</li>
  	<li>Describe a learning community</li>
 </ol>
+<strong>[Just a note that in unit 1, students are asked to <span style="font-weight: 400;">Discuss key elements of an authentic learning community</span>.  Is this assessed in both units?]</strong>
+
+&nbsp;
 <h4>Learning Activity Checklist</h4>
 <ol>
  	<li>Read: Palmer, P. (1998) <em>The Courage to Teach, </em> Chapter 2 A Culture of Fear</li>
  	<li>Read: Rilke, R.M. <em>Ah, Not to be Cut Off</em> as cited in Palmer, P. (1998, p. 1)</li>
  	<li>Read: Brown , B. (2017) <em>Braving the Wilderness,</em> Chapter 6 Hold Hands. With Strangers</li>
  	<li>Listen: Taylor Swift: <em>A Place in this World</em></li>
- 	<li>Watch: Beatriz Escobar: <em><a href="http://1https://www.youtube.com/watch?v=wolYrLz7iyk">Sense of Belonging</a> </em></li>
+ 	<li>Watch: Beatriz Escobar: <em><a href="https://www.youtube.com/watch?v=wolYrLz7iyk">Sense of Belonging</a> </em></li>
 </ol>
 &nbsp;
 
