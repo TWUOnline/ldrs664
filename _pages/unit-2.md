@@ -20,7 +20,7 @@ Whether we are aware of it or not, our integrity and identity are part of who we
 
 <strong>[I'm wondering whether you'd like to move any of the quotes or content from the Overview to the Topics?  We could shorten it a bit, to give students a brief summary of what they'll be learning, not necessarily explaining the topics yet.]</strong>
 
-As <a href="http://1http://billmoyers.com/content/conversation-maya-angelou">Maya Angelou</a> discusses, belonging to one's self is an ongoing journey -- a journey that is not always easy. <strong>[the link isn't working.  Could you check the source?]</strong>
+As <a href="http://billmoyers.com/content/conversation-maya-angelou">Maya Angelou</a> discusses, belonging to one's self is an ongoing journey -- a journey that is not always easy. <strong>[the link isn't working.  Could you check the source?]</strong>
 <blockquote>"I belong to myself."
 
 -- Maya Angelou, 1973</blockquote>
