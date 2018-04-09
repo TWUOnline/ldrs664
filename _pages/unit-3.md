@@ -1,6 +1,6 @@
 ---
 ID: 38
-post_title: Unit 3
+post_title: 'Unit 3: Belonging to Others'
 author: Colin Madland
 post_excerpt: ""
 layout: page
@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2018-02-27 18:23:14
 ---
-<h1>Unit 3: <b>Belonging to Others</b></h1>
 ##### Overview
 
 In our role as teachers, we are asked to connect students with content. But the first (and most important) connections we make (and the connections on which all learning is built) are connections between students, and between students and teachers.
