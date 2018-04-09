@@ -38,8 +38,11 @@ LDRS 664 includes 10 units, organized around three learning themes:
 <h4>Assessment</h4>
 | Item | Value |
 | :--- | :--- |
-| Item 1 | % |
-| Item 2 | % |
+| <span style="font-weight: 400;">Bi-weekly Reading Response Blog Posts</span> | 30% |
+| <span style="font-weight: 400;">Company Website Analysis</span>| 20% |
+
+| <span style="font-weight: 400;">Platform Paper</span>| 30% |
+
 | | |
 <h4>Schedule</h4>
 week 1
