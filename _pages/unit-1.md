@@ -33,15 +33,17 @@ When you have completed this unit you should be able to:
  	<li>Discuss key elements of an authentic learning community</li>
 </ol>
 &nbsp;
-<h3>Learning Activity Checklist</h3>
+<h3>Activity Checklist</h3>
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities.
+
+<span style="color: #ff0000;"><strong>[Christine, please put in a table, if possible]</strong></span>
 <p style="padding-left: 30px;"> Activity 1.1: Read: Palmer, P. (2017): Introduction, Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching; Chapter 3: The Hidden Wholeness: Paradox in Teaching and Learning.</p>
 <p style="padding-left: 30px;">Activity 1.2:<span style="font-size: 16px;"> </span><span style="font-size: 16px;">Listen to Phillip Phillips’ song,</span><span style="font-size: 16px;"> </span><a style="font-size: 16px;" href="https://www.youtube.com/watch?v=HoRkntoHkIE">Home</a></p>
 <p style="padding-left: 30px;">Activity 1.3<span style="font-size: 16px;">: Read: Herrington, J. &amp; Oliver, R. (2000). An instructional design framework for authentic learning environments. </span><u style="font-size: 16px; font-weight: 400;">Educational Technology Research and Development. 4</u><span style="font-size: 16px;">8(3),pp 23-48.</span></p>
 <p style="padding-left: 30px;">Activity 1.4: Blog Post Assignment <span style="font-size: 16px;">: Incorporating the Palmer reading for this unit, you will write a 150-250 word blog post that addresses the following questions:</span><em style="font-size: 16px; font-weight: 400;">  When have you felt "at home" within a learning community? What elements made that learning space feel like "home"?</em></p>
 <p style="padding-left: 30px;">Activity 1.5: Blog Post Assignment:<span style="font-size: 16px;"> </span><span style="font-size: 16px;">Blog post: Incorporating the Palmer reading for this unit, you will write a 150-250 word blog post that addresses the following questions:</span><em style="font-size: 16px;">  What does it mean for you to be authentic as a teacher? How do we create authentic learning spaces?</em></p>
 &nbsp;
-<h3><strong>Learning Cafe</strong></h3>
+<h3>Learning Cafe</h3>
 In this course you will also have the opportunity to connect with other learners in the <em>Learning Cafe</em>.  This is a space for you to chat with your classmates about course topics or other topics of interest.  For this first post, please share a bit about yourself (e.g. hometown, interests, future plans, etc.).  Also answer the question, "What four things are most important in your life?" Feel free to include a picture – of yourself or what you value.
 
 &nbsp;
