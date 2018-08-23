@@ -8,7 +8,7 @@ permalink: https://create.twu.ca/ldrs664/unit-1/
 published: true
 post_date: 2018-02-27 18:23:14
 ---
-<h4>Overview</h4>
+<h3>Overview</h3>
 Welcome to LDRS 664 Creating Authentic Learning Communities!
 
 As humans, we long for authenticity in our relationships. We want to feel "at home" in the organizations that are part of our lives -- our families, schools, communities, places of worship. We seek connection. We search for a place where we are known.
@@ -18,14 +18,14 @@ This sense of being "at home" is essential to our experience as learners. Deep, 
 In this course, we will explore together the theoretical foundations of learning communities, evaluating key elements essential to creating authentic learning communities, where learners are known and learning is authentic. In this unit, we will engage with the writings of Parker Palmer, a teacher and writer who has written several important works regarding the essential role of authenticity in teaching and learning.
 
 In addition to reading, throughout this course, we will also listen to music and view several short films that will allow us to more deeply engage with the concepts of belonging and authenticity within the teaching/learning experience.
-<h4>Topics</h4>
+<h3>Topics</h3>
 Unit 1 focuses on two guiding questions:
 <ol>
  	<li>What does it mean to be authentic in teaching and learning?</li>
  	<li>What is the facilitator’s role in creating spaces for authentic learning?</li>
 </ol>
 &nbsp;
-<h4>Learning Outcomes</h4>
+<h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:
 <ol>
  	<li>Describe your own personal identity as a facilitator/teacher</li>
@@ -33,38 +33,15 @@ When you have completed this unit you should be able to:
  	<li>Discuss key elements of an authentic learning community</li>
 </ol>
 &nbsp;
-<h4>Learning Activity Checklist</h4>
+<h3>Learning Activity Checklist</h3>
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities.
-<table>
-<tbody>
-<tr>
-<td width="33">&nbsp;</td>
-<td width="542"><strong>Activities</strong></td>
-</tr>
-<tr>
-<td width="33">&nbsp;</td>
-<td width="542"><strong>Activity 1.1:</strong> Read: Palmer, P. (2017): Introduction, Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching; Chapter 3: The Hidden Wholeness: Paradox in Teaching and Learning.</td>
-</tr>
-<tr>
-<td width="33">&nbsp;</td>
-<td width="542"><strong>Activity 1.2:</strong> Listen to Phillip Phillips’ song, <a href="https://www.youtube.com/watch?v=HoRkntoHkIE">Home</a></td>
-</tr>
-<tr>
-<td width="33">&nbsp;</td>
-<td width="542"><strong>Activity 1.3</strong>: Read: Herrington, J. &amp; Oliver, R. (2000). An instructional design framework for authentic learning environments. <u>Educational Technology Research and Development. 4</u>8(3),pp 23-48.</td>
-</tr>
-<tr>
-<td width="33">&nbsp;</td>
-<td width="542"><strong>Activity 1.4: Blog Post Assignment </strong>: Incorporating the Palmer reading for this unit, you will write a 150-250 word blog post that addresses the following questions:<em>  When have you felt "at home" within a learning community? What elements made that learning space feel like "home"? </em></td>
-</tr>
-<tr>
-<td width="33">&nbsp;</td>
-<td width="542"><strong>Activity 5: Blog Post Assignment:</strong> Blog post: Incorporating the Palmer reading for this unit, you will write a 150-250 word blog post that addresses the following questions:<em>  What does it mean for you to be authentic as a teacher? How do we create authentic learning spaces?</em></td>
-</tr>
-</tbody>
-</table>
-<strong> </strong>
-<h2><strong>Learning Cafe</strong></h2>
+<p style="padding-left: 30px;"> Activity 1.1: Read: Palmer, P. (2017): Introduction, Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching; Chapter 3: The Hidden Wholeness: Paradox in Teaching and Learning.</p>
+<p style="padding-left: 30px;">Activity 1.2:<span style="font-size: 16px;"> </span><span style="font-size: 16px;">Listen to Phillip Phillips’ song,</span><span style="font-size: 16px;"> </span><a style="font-size: 16px;" href="https://www.youtube.com/watch?v=HoRkntoHkIE">Home</a></p>
+<p style="padding-left: 30px;">Activity 1.3<span style="font-size: 16px;">: Read: Herrington, J. &amp; Oliver, R. (2000). An instructional design framework for authentic learning environments. </span><u style="font-size: 16px; font-weight: 400;">Educational Technology Research and Development. 4</u><span style="font-size: 16px;">8(3),pp 23-48.</span></p>
+<p style="padding-left: 30px;">Activity 1.4: Blog Post Assignment <span style="font-size: 16px;">: Incorporating the Palmer reading for this unit, you will write a 150-250 word blog post that addresses the following questions:</span><em style="font-size: 16px; font-weight: 400;">  When have you felt "at home" within a learning community? What elements made that learning space feel like "home"?</em></p>
+<p style="padding-left: 30px;">Activity 1.5: Blog Post Assignment:<span style="font-size: 16px;"> </span><span style="font-size: 16px;">Blog post: Incorporating the Palmer reading for this unit, you will write a 150-250 word blog post that addresses the following questions:</span><em style="font-size: 16px;">  What does it mean for you to be authentic as a teacher? How do we create authentic learning spaces?</em></p>
+&nbsp;
+<h3><strong>Learning Cafe</strong></h3>
 In this course you will also have the opportunity to connect with other learners in the <em>Learning Cafe</em>.  This is a space for you to chat with your classmates about course topics or other topics of interest.  For this first post, please share a bit about yourself (e.g. hometown, interests, future plans, etc.).  Also answer the question, "What four things are most important in your life?" Feel free to include a picture – of yourself or what you value.
 
 &nbsp;
