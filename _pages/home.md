@@ -45,13 +45,7 @@ post_date: 2018-03-22 17:17:19
  
  
  
- <h3>Notes</h3> 
- 
- 
- 
- 
- 
- <h3>Glossary</h3> 
+ <h3>Assessment</h3> 
  
  
  Instructor Updates 
@@ -75,7 +69,7 @@ post_date: 2018-03-22 17:17:19
  
  
  
- <h3>Notes</h3> 
+ <h3>Assessment</h3> 
  
  
  Instructor Updates 
@@ -99,7 +93,7 @@ post_date: 2018-03-22 17:17:19
  
  
  
- <h3>Notes</h3> 
+ <h3>Assessment</h3> 
  
  
  Instructor Updates 
