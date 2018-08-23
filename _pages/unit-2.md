@@ -40,37 +40,37 @@ These learning activities will engage you in considering the guiding questions 
 <td width="519"><strong>Activities</strong></td>
 </tr>
 <tr>
-<td width="33">&nbsp;</td>
+<td width="33"></td>
 <td width="519">Activity 2.1: Read. Brown, B. (2017). Chapter 1 Everywhere and Nowhere, Chapter 2 The Quest for True Belonging.</td>
 </tr>
 <tr>
-<td width="33">&nbsp;</td>
+<td width="33"></td>
 <td width="519">Activity 2.2: Watch: Maya Angelou. <a href="http://billmoyers.com/content/conversation-maya-angelou/">Interview with Bill Moyers</a> (7 minutes)</td>
 </tr>
 <tr>
-<td width="33">&nbsp;</td>
+<td width="33"></td>
 <td width="519">Activity 2.3: Watch: Brene Brown: <a href="https://www.ted.com/talks/brene_brown_on_vulnerability">The Power of Vulnerability</a> (20 minutes)</td>
 </tr>
 <tr>
-<td width="33">&nbsp;</td>
+<td width="33"></td>
 <td width="519">Activity 2.4: Take the “Chance Imposter Phenomenon” assessment, available at: <a href="http://paulineroseclance.com/pdf/IPscoringtest.pdf">http://paulineroseclance.com/pdf/IPscoringtest.pdf</a>
 
 From: From The Impostor Phenomenon: When Success Makes You Feel Like A Fake (pp. 20-22), by P.R. Clance, 1985, Toronto: Bantam Books. Copyright 1985 by Pauline Rose Clance, Ph.D., ABPP.</td>
 </tr>
 <tr>
-<td width="33">&nbsp;</td>
+<td width="33"></td>
 <td width="519">Activity 2.5: Read: Gardner, B., Avolio, B., Luthans, F., May, D. &amp; Walumbwa, F. (2005) Can you see the real me? A self-based model of authentic leader and follower development. <em>The Leadership Quarterly 16</em>, pp. 343–372.</td>
 </tr>
 <tr>
-<td width="33">&nbsp;</td>
+<td width="33"></td>
 <td width="519">Activity 2.6: Listen to “Brave,” by Sara Bareilles. Available at: <a href="https://www.youtube.com/watch?v=QUQsqBqxoR4">https://www.youtube.com/watch?v=QUQsqBqxoR4</a></td>
 </tr>
 <tr>
-<td width="33">&nbsp;</td>
+<td width="33"></td>
 <td width="519">Optional Activity 2.7: Read: Cuddy, A. (2016). I Don’t Deserve to Be Here: Presence and the Imposter Syndrome. Retrieved from: <a href="https://leanin.org/news-inspiration/overcoming-imposter-syndrome-to-reveal-your-presence/">https://leanin.org/news-inspiration/overcoming-imposter-syndrome-to-reveal-your-presence/</a></td>
 </tr>
 <tr>
-<td width="33">&nbsp;</td>
+<td width="33"></td>
 <td width="519">Assessment: Blog post</td>
 </tr>
 </tbody>
