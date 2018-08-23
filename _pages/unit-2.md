@@ -4,8 +4,7 @@ post_title: 'Unit 2: Belonging to One&#8217;s Self'
 author: Colin Madland
 post_excerpt: ""
 layout: page
-permalink: >
-  https://create.twu.ca/ldrs664-su18/unit-2/
+permalink: https://create.twu.ca/ldrs664/unit-2/
 published: true
 post_date: 2018-02-27 18:23:14
 ---
