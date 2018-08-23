@@ -12,7 +12,21 @@ post_date: 2018-08-23 18:00:00
 <h2><strong>Topic 1: Authenticity in Teaching and Learning</strong></h2>
 Teaching and learning are deeply personal experiences. Learning is, by definition, a transformative experience; we change as a result of learning. Teaching is also a transformative experience; we change as a result of teaching.
 
-<span style="color: #ff0000;"><strong>    [insert pic]         </strong> </span>
+<span style="color: #ff0000;"><strong> <img class="alignleft size-medium wp-image-209" src="http://create.twu.ca/ldrs664/files/2018/08/664-authentic-learners-173x300.png" alt="" width="173" height="300" /> <img class="alignleft size-medium wp-image-210" src="http://create.twu.ca/ldrs664/files/2018/08/664-authentic-teachers-171x300.png" alt="" width="171" height="300" /></strong></span>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<span style="color: #ff0000;"><strong>   </strong> </span>
 
 Figure 1.1: Model designed by Penfold Navarro, C. (2018)
 
@@ -27,8 +41,6 @@ In his book, <em>The Courage to Teach: Exploring the Inner Landscape of a Teache
 As we explore the importance of the “inner life of the teacher” as a foundation for authentic learning, read Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching in <em>The Courage to Teach</em> (Palmer, 2017).
 
 For this course, you will keep a Reflective Learning Journal, which will provide the basis for many of your blog posts. Writing can be a powerful learning experience, as we engage in reflection and critical analysis of the new concepts we discover. Through regular writing, we are challenged to think critically, organize, and integrate these new concepts with our prior understanding, as you prepare for your future teaching/coaching.
-
-&nbsp;
 
 As you read, consider the following questions:
 <ul>
@@ -93,7 +105,7 @@ In “<em>To Know As We Are Known,</em>” Palmer (1993) suggests that learning 
  	<li>Encouraging students to help each other learn</li>
 </ol>
 As you read the discussion of authentic learning environments in Herrington and Oliver (2000), consider how the elements they discuss align with or differ from Palmer’s (2017) description of learning communities.
-<h3>Questions to Consider</h3>
+<h4>Questions to Consider</h4>
 After completing the activities above, consider the following questions:
 <ul>
  	<li>What are the important values that will guide my teaching/facilitation?</li>
