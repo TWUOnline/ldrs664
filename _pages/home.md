@@ -4,7 +4,7 @@ post_title: Home
 author: Colin Madland
 post_excerpt: ""
 layout: page
-permalink: https://create.twu.ca/ldrs664-su18/home/
+permalink: https://create.twu.ca/ldrs664/home/
 published: true
 post_date: 2018-03-22 17:17:19
 ---
@@ -13,19 +13,19 @@ post_date: 2018-03-22 17:17:19
  
  
  
- <h3> Course Overview </h3> 
+ <h3>Course Overview</h3> 
  
  
  
  
  
- <h3> Course Navigation </h3> 
+ <h3>Course Navigation</h3> 
  
  
  
  
  
- <h3> WordPress Setup </h3> 
+ <h3>WordPress Setup</h3> 
  
 <h3><br/>Unit 1</h3>
  <p>In unit 1&#8230;</p>
@@ -33,25 +33,25 @@ post_date: 2018-03-22 17:17:19
  
  
  
- <h3> Overview </h3> 
+ <h3>Overview</h3> 
  
  
  
  
  
- <h3> Learning Activities </h3> 
+ <h3>Learning Activities</h3> 
  
  
  
  
  
- <h3> Notes </h3> 
+ <h3>Notes</h3> 
  
  
  
  
  
- <h3> Glossary </h3> 
+ <h3>Glossary</h3> 
  
  
  Instructor Updates 
@@ -63,19 +63,19 @@ post_date: 2018-03-22 17:17:19
  
  
  
- <h3> Overview </h3> 
+ <h3>Overview</h3> 
  
  
  
  
  
- <h3> Learning Activities </h3> 
+ <h3>Learning Activities</h3> 
  
  
  
  
  
- <h3> Notes </h3> 
+ <h3>Notes</h3> 
  
  
  Instructor Updates 
@@ -87,19 +87,19 @@ post_date: 2018-03-22 17:17:19
  
  
  
- <h3> Overview </h3> 
+ <h3>Overview</h3> 
  
  
  
  
  
- <h3> Learning Activities </h3> 
+ <h3>Learning Activities</h3> 
  
  
  
  
  
- <h3> Notes </h3> 
+ <h3>Notes</h3> 
  
  
  Instructor Updates 
@@ -111,19 +111,19 @@ post_date: 2018-03-22 17:17:19
  
  
  
- <h3> Overview </h3> 
+ <h3>Overview</h3> 
  
  
  
  
  
- <h3> Learning Activities </h3> 
+ <h3>Learning Activities</h3> 
  
  
  
  
  
- <h3> Notes </h3> 
+ <h3>Notes</h3> 
  
  
  Instructor Updates 
@@ -135,19 +135,19 @@ post_date: 2018-03-22 17:17:19
  
  
  
- <h3> Overview </h3> 
+ <h3>Overview</h3> 
  
  
  
  
  
- <h3> Learning Activities </h3> 
+ <h3>Learning Activities</h3> 
  
  
  
  
  
- <h3> Notes </h3> 
+ <h3>Notes</h3> 
  
  
  Instructor Updates 
@@ -159,19 +159,19 @@ post_date: 2018-03-22 17:17:19
  
  
  
- <h3> Overview </h3> 
+ <h3>Overview</h3> 
  
  
  
  
  
- <h3> Learning Activities </h3> 
+ <h3>Learning Activities</h3> 
  
  
  
  
  
- <h3> Notes </h3> 
+ <h3>Notes</h3> 
  
  
  Instructor Updates 
@@ -183,13 +183,13 @@ post_date: 2018-03-22 17:17:19
  
  
  
- <h3> Overview </h3> 
+ <h3>Overview</h3> 
  
  
  
  
  
- <h3> Learning Activities </h3> 
+ <h3>Learning Activities</h3> 
  
  
  Instructor Updates 
@@ -201,19 +201,19 @@ post_date: 2018-03-22 17:17:19
  
  
  
- <h3> Overview </h3> 
+ <h3>Overview</h3> 
  
  
  
  
  
- <h3> Learning Activities </h3> 
+ <h3>Learning Activities</h3> 
  
  
  
  
  
- <h3> Notes </h3> 
+ <h3>Notes</h3> 
  
  
  Instructor Updates 
@@ -225,13 +225,13 @@ post_date: 2018-03-22 17:17:19
  
  
  
- <h3> Overview </h3> 
+ <h3>Overview</h3> 
  
  
  
  
  
- <h3> Learning Activities </h3> 
+ <h3>Learning Activities</h3> 
  
  
  Instructor Updates 
@@ -243,19 +243,19 @@ post_date: 2018-03-22 17:17:19
  
  
  
- <h3> Overview </h3> 
+ <h3>Overview</h3> 
  
  
  
  
  
- <h3> Learning Activities </h3> 
+ <h3>Learning Activities</h3> 
  
  
  
  
  
- <h3> Notes </h3> 
+ <h3>Notes</h3> 
  
  
  Instructor Updates 
