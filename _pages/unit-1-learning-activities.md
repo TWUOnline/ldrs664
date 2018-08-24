@@ -1,6 +1,6 @@
 ---
 ID: 201
-post_title: Unit 1 Learning Activities
+post_title: 'Unit 1 &#8211; Learning Activities'
 author: kmarjanovic
 post_excerpt: ""
 layout: page
