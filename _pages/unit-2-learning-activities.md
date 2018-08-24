@@ -1,6 +1,6 @@
 ---
 ID: 214
-post_title: Unit 2 Learning Activities
+post_title: 'Unit 2 &#8211; Learning Activities'
 author: kmarjanovic
 post_excerpt: ""
 layout: page
