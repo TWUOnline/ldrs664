@@ -1,6 +1,6 @@
 ---
 ID: 32
-post_title: Unit 2
+post_title: 'Unit 2 &#8211; Overview'
 author: Colin Madland
 post_excerpt: ""
 layout: page
