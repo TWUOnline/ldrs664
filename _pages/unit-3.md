@@ -1,6 +1,6 @@
 ---
 ID: 38
-post_title: 'Unit 3: Belonging to Others'
+post_title: Unit 3
 author: Colin Madland
 post_excerpt: ""
 layout: page
