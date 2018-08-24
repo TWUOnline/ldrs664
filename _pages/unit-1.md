@@ -1,6 +1,6 @@
 ---
 ID: 20
-post_title: 'Unit 1: The Heart of a Teacher'
+post_title: Unit 1
 author: Colin Madland
 post_excerpt: ""
 layout: page
