@@ -4,8 +4,7 @@ post_title: Unit 10
 author: Colin Madland
 post_excerpt: ""
 layout: page
-permalink: >
-  https://create.twu.ca/ldrs664-su18/unit-10/
+permalink: https://create.twu.ca/ldrs664/unit-10/
 published: true
 post_date: 2018-02-27 18:23:14
 ---
