@@ -1,6 +1,6 @@
 ---
 ID: 32
-post_title: 'Unit 2: Belonging to One’s Self'
+post_title: Unit 2
 author: Colin Madland
 post_excerpt: ""
 layout: page
