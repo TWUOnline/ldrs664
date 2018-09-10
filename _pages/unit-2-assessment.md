@@ -10,7 +10,7 @@ published: true
 post_date: 2018-08-24 23:03:40
 ---
 
-<h1>Assessment:</h1>
+<h1>Assessment</h1>
 Unit 2 Summary
 In this unit, we have explored the importance of identity, authenticity, and vulnerability in creating authentic learning communities. Our own identity as a teacher will go with us into the classroom, and we will be able to build on our own abilities to create connections as we share our authentic selves with students. In the next unit, we will focus on strategies to create a sense of belonging among students, building on our own understanding of vulnerability to create spaces where students, too, can bring their authentic selves to the learning experience. 
 
