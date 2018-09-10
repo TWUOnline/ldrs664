@@ -29,9 +29,7 @@ Use the learning outcomes for this unit as a checklist of understanding before y
 <h1>References:</h1>
 Gardner, W.L., Avolio, B.J., Luthans, F., May, D.R., & Walumbwa, F. (2005). “Can you see the real me?” A self-based model of authentic leader and follower development. The Leadership Quarterly, (16), pp. 343-372.
 
-&nbsp;
-
-Lipmanowicz, H. & McCandless, K. (2013). The surprising power of liberating structures: Simple rules to unleash a culture of innovation. Liberating Structures Press. 
+&nbsp;Lipmanowicz, H. & McCandless, K. (2013). The surprising power of liberating structures: Simple rules to unleash a culture of innovation. Liberating Structures Press. 
 
 This work is licensed under a Creative Commons Attribution-NonCommerical-ShareaLike License. This allows others to reproduce, distribute, adapt, and built upon our work non-commerically as long as they credit us and license their creations under identical terms. 
 
