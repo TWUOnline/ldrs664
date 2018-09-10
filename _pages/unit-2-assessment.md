@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2018-08-24 23:03:40
 ---
-
 # Assessment
 ### Unit 2 Summary
 
