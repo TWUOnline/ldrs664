@@ -31,30 +31,27 @@ These learning activities will engage you in considering the guiding questions 
 <table width="107%">
 <tbody>
 <tr>
-<td>&nbsp;</td>
+<td></td>
 <td><strong>Learning Activities</strong></td>
 </tr>
 <tr>
-<td>&nbsp;</td>
+<td></td>
 <td><strong>Activity 3.1:</strong> Reflective Journal. Read Rilke, R.M. <em>Ah, Not to be Cut Off</em> as reproduced in Palmer, P. (2017, p. 1)</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
+<td></td>
 <td><strong>Activity 3.2:</strong> Read: Palmer, P. (2017) <em>The Courage to Teach,</em> Chapter 2 A Culture of Fear AND Watch: Beatriz Escobar: <a href="https://www.youtube.com/watch?v=wolYrLz7iyk">Sense of Belonging</a></td>
 </tr>
 <tr>
-<td>&nbsp;</td>
+<td></td>
 <td><strong>Activity 3.3:</strong> Blog Post Assignment (…%) based on Reading: Brown , B. (2017) <em>Braving the Wilderness,</em> Chapters 5 and 6</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
+<td></td>
 <td><strong>Activity 3.4</strong>: Reflective Journal Assignment (…%). Listen: Taylor Swift: <em>A Place in this World</em></td>
 </tr>
 </tbody>
 </table>
-<h2>Resources:</h2>
-...
-
 &nbsp;
 
 Go to <a href="https://create.twu.ca/ldrs664/unit-2-learning-activities/">Learning Activities</a> to continue the unit.
