@@ -56,5 +56,18 @@ These learning activities will engage you in considering the guiding questions 
 </tbody>
 </table>
 &nbsp;
+<h2>Resources</h2>
+Here are the resources you will need to complete the unit:
+<ul>
+ 	<li>Brown , B. (2017) <em>Braving the Wilderness</em></li>
+ 	<li>Palmer, P. (2017). <em>The courage to teach: Exploring the inner landscape of a teacher’s life.</em> San Francisco: Wiley.</li>
+ 	<li>Rilke, R.M. <em>Ah, Not to be Cut Off</em> as reproduced in Palmer, P. (2017, p. 1)</li>
+</ul>
+The following e-resources will be provided in the unit:
+<ul>
+ 	<li>Escobar, B. Sense of Belonging</li>
+ 	<li>Taylor Swift: <em>A Place in this World</em></li>
+</ul>
+&nbsp;
 
 Go to <a href="https://create.twu.ca/ldrs664/unit-2-learning-activities/">Learning Activities</a> to continue the unit.
