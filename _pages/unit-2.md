@@ -1,6 +1,6 @@
 ---
 ID: 32
-post_title: 'Unit 2 &#8211; Overview'
+post_title: Unit 2 – Overview
 author: Colin Madland
 post_excerpt: ""
 layout: page
@@ -17,7 +17,7 @@ In this unit, we will explore the importance of identity and integrity as teache
 
 <strong>Topics</strong>
 
-Unit 2 focuses on 2 guiding questions:
+Unit 2 focuses on two guiding questions:
 
 1: What is my identity as a teacher/facilitator?
 2: What does it mean for me to be an authentic teacher/facilitator?
@@ -53,9 +53,7 @@ These learning activities will engage you in considering the guiding questions 
 </tr>
 <tr>
 <td width="33"></td>
-<td width="519">Activity 2.4: Take the “Chance Imposter Phenomenon” assessment, available at: <a href="http://paulineroseclance.com/pdf/IPscoringtest.pdf">http://paulineroseclance.com/pdf/IPscoringtest.pdf</a>
-
-From: From The Impostor Phenomenon: When Success Makes You Feel Like A Fake (pp. 20-22), by P.R. Clance, 1985, Toronto: Bantam Books. Copyright 1985 by Pauline Rose Clance, Ph.D., ABPP.</td>
+<td width="519">Activity 2.4: Take the “Chance Imposter Phenomenon” assessment, available at: <a href="http://paulineroseclance.com/pdf/IPscoringtest.pdf">http://paulineroseclance.com/pdf/IPscoringtest.pdf</a></td>
 </tr>
 <tr>
 <td width="33"></td>
