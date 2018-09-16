@@ -16,18 +16,18 @@ Building on our discussion of “belonging to ourselves” in the previous unit,
 <h2>Topics</h2>
 Unit 3 focuses on two guiding questions:
 <ol>
- 	<li>1: What is a learning community?</li>
+ 	<li>What is a learning community?</li>
  	<li>How do we create learning communities where students experience a sense of belonging?</li>
 </ol>
 &nbsp;
 <h2>Learning Outcomes</h2>
 When you have completed this unit you should be able to:
-<ol>
+<ul>
  	<li>Describe a learning community</li>
  	<li>Describe elements of a learning community that create a sense of belonging</li>
  	<li>Identify problems that affect learning communities</li>
  	<li>Plan a learning activity that builds community</li>
-</ol>
+</ul>
 &nbsp;
 <h2>Activity Checklist</h2>
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities.
@@ -43,7 +43,7 @@ These learning activities will engage you in considering the guiding questions 
 </tr>
 <tr>
 <td></td>
-<td><strong>Activity 3.2:</strong> Read: Palmer, P. (2017) <em>The Courage to Teach,</em> Chapter 2 A Culture of Fear AND Watch: Beatriz Escobar: <a href="https://www.youtube.com/watch?v=wolYrLz7iyk">Sense of Belonging</a></td>
+<td><strong>Activity 3.2:</strong> Read: Palmer, P. (2017) <em>The Courage to Teach,</em> Chapter 2 A Culture of Fear AND Watch: Beatriz Escobar: Sense of Belonging</td>
 </tr>
 <tr>
 <td></td>
