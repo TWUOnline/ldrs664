@@ -11,13 +11,15 @@ post_date: 2018-02-27 18:23:14
 <h1>Unit 3: Belonging to Others</h1>
 <h2>Overview</h2>
 Building on our discussion of “belonging to ourselves” in the previous unit, in this unit we will explore the concept of “belonging to others.” This key concept is foundational to the creation of authentic learning communities – spaces where students experience genuine connection with other learners, with the facilitator, and with the discipline they are studying.
+
+&nbsp;
 <h2>Topics</h2>
 Unit 3 focuses on two guiding questions:
-
-1: What is a learning community?
 <ol>
+ 	<li>1: What is a learning community?</li>
  	<li>How do we create learning communities where students experience a sense of belonging?</li>
 </ol>
+&nbsp;
 <h2>Learning Outcomes</h2>
 When you have completed this unit you should be able to:
 <ol>
@@ -26,6 +28,7 @@ When you have completed this unit you should be able to:
  	<li>Identify problems that affect learning communities</li>
  	<li>Plan a learning activity that builds community</li>
 </ol>
+&nbsp;
 <h2>Activity Checklist</h2>
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities.
 <table width="107%">
