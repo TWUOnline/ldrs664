@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-08-24 23:03:40
 ---
-<h4>Blog Post</h4>
+<h3>Assignment: Blog Post</h3>
 For this blog post activity, you will use the“Liberating Structures” strategy of the “Nine Whys” to consider your own identity as a teacher/facilitator.
 
 Identify someone in your life who knows you well, with whom you have a history of talking about your goals or dreams. Ask them to participate in this exercise with you.
