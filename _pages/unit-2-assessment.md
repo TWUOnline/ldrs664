@@ -9,20 +9,22 @@ permalink: >
 published: true
 post_date: 2018-08-24 23:03:40
 ---
-# Assessment
-### Unit 2 Summary
+<h4>Blog Post</h4>
+For this blog post activity, you will use the“Liberating Structures” strategy of the “Nine Whys” to consider your own identity as a teacher/facilitator.
 
-In this unit, we have explored the importance of identity, authenticity, and vulnerability in creating authentic learning communities. Our own identity as a teacher will go with us into the classroom, and we will be able to build on our own abilities to create connections as we share our authentic selves with students. In the next unit, we will focus on strategies to create a sense of belonging among students, building on our own understanding of vulnerability to create spaces where students, too, can bring their authentic selves to the learning experience.
+Identify someone in your life who knows you well, with whom you have a history of talking about your goals or dreams. Ask them to participate in this exercise with you.
+<ol>
+ 	<li>Begin by telling them why you are taking this course, as well as why you want to engage in teaching/coaching/facilitation.</li>
+ 	<li>When you have finished talking, your “Nine Whys” partner will ask you Why is that important to you?</li>
+ 	<li>Your partner should continue asking that question up to nine times, or until you cannot go any deeper.</li>
+ 	<li>At this point, you will have uncovered something fundamental about your identity as a teacher/facilitator.</li>
+</ol>
+Write 250 word blog post on this process, including your “why” for teaching/facilitating.
 
-## Checking your Learning
-
+&nbsp;
+<h3>Checking your Learning</h3>
 Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:
-
-- articulate a sense of identity as a teacher/facilitator?
-- analyze the influence of teacher authenticity on student learning?
-
-## References:
-
-Gardner, W.L., Avolio, B.J., Luthans, F., May, D.R., &amp; Walumbwa, F. (2005). _"Can you see the real me?" A self-based model of authentic leader and follower development._ The Leadership Quarterly, (16), pp. 343-372.
-
-Lipmanowicz, H. &amp; McCandless, K. (2013). _The surprising power of liberating structures: Simple rules to unleash a culture of innovation._ Liberating Structures Press. This work is licensed under a Creative Commons Attribution-NonCommerical-ShareaLike License. This allows others to reproduce, distribute, adapt, and built upon our work non-commerically as long as they credit us and license their creations under identical terms.
+<ul>
+ 	<li>articulate a sense of identity as a teacher/facilitator?</li>
+ 	<li>analyze the influence of teacher authenticity on student learning?</li>
+</ul>
