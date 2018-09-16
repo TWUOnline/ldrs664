@@ -113,4 +113,3 @@ Identify someone in your life who knows you well, with whom you have a history o
 4. At this point, you will have uncovered something fundamental about your identity as a teacher/facilitator.
 
 Write 250 word blog post on this process, including your &quot;why&quot; for teaching/facilitating.
-
