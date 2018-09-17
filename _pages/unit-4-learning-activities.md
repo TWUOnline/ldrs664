@@ -25,28 +25,28 @@ In your Reflective Journal, write down three strengths of this learning communit
 <table width="100%">
 <tbody>
 <tr>
-<td>&nbsp;</td>
+<td></td>
 <td>Strengths of model</td>
 <td>Aspects Unique to this Model</td>
 <td>Questions</td>
 </tr>
 <tr>
 <td>Learning Community Pyramid, Bower &amp; Dettinger (1998)</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Community of Truth model (Palmer, 2017)</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Trinity Community of Inquiry (Madland, 2017)</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -91,6 +91,10 @@ After completing Learning Activities 4.1-3, write a 250-word blog. Provide a bri
 The learning community models we have considered in this unit share some similarities. In each model, there is an awareness that learners and learning is multidimensional. As we engage in teaching and learning, we must always be aware that the learning process is, fundamentally, transformative. It engages people, not only on an intellectual level, but also on a spiritual and social level. By designing curriculum, pedagogy, and learning around all aspects of learning – social, cognitive, and spiritual – we provide the foundation for transformational learning.
 
 Palmer (2017) puts it this way: “The reality we belong to, the reality we long to know, extends far beyond human beings interacting with one another… This is a community held together not only by our personal powers of thought and feeling but also by the power of ‘the grace of great things’” (p. 109). As Palmer (2017) points out, learning includes both thought (cognitive) and feeling (social), but also something beyond those – the overarching spiritual nature of life and learning.
+
+&nbsp;
+<h3>Assessment</h3>
+Go to <a href="https://create.twu.ca/ldrs664/unit-4-assessment/">Unit 4 Assessment</a> for more details on your <strong>Blog Assignment.</strong>
 
 &nbsp;
 <h2>References</h2>
