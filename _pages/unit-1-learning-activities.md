@@ -1,6 +1,6 @@
 ---
 ID: 201
-post_title: 'Unit 1 &#8211; Learning Activities'
+post_title: Unit 1 – Learning Activities
 author: kmarjanovic
 post_excerpt: ""
 layout: page
@@ -114,4 +114,4 @@ After completing the activities above, consider the following questions:
 </ul>
 &nbsp;
 
-Go to Unit 1 <a href="https://create.twu.ca/ldrs627-su18/unit-1-topic-2/">Assessment</a> to complete this unit.
+Go to <a href="https://create.twu.ca/ldrs627-su18/unit-1-topic-2/">Unit 1 Assessment</a> to complete this unit.
