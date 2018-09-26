@@ -1,6 +1,6 @@
 ---
 ID: 20
-post_title: 'Unit 1 &#8211; Overview'
+post_title: Unit 1 – Overview
 author: Colin Madland
 post_excerpt: ""
 layout: page
@@ -36,13 +36,8 @@ When you have completed this unit you should be able to:
 <h3>Activity Checklist</h3>
 These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities.
 
-<span style="color: #ff0000;"><strong>[Christine, please put in a table, if possible]</strong></span>
-<p style="padding-left: 30px;"> Activity 1.1: Read: Palmer, P. (2017): Introduction, Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching; Chapter 3: The Hidden Wholeness: Paradox in Teaching and Learning.</p>
-<p style="padding-left: 30px;">Activity 1.2:<span style="font-size: 16px;"> </span><span style="font-size: 16px;">Listen to Phillip Phillips’ song,</span><span style="font-size: 16px;"> </span><a style="font-size: 16px;" href="https://www.youtube.com/watch?v=HoRkntoHkIE">Home</a></p>
-<p style="padding-left: 30px;">Activity 1.3<span style="font-size: 16px;">: Read: Herrington, J. &amp; Oliver, R. (2000). An instructional design framework for authentic learning environments. </span><u style="font-size: 16px; font-weight: 400;">Educational Technology Research and Development. 4</u><span style="font-size: 16px;">8(3),pp 23-48.</span></p>
-<p style="padding-left: 30px;">Activity 1.4: Blog Post Assignment <span style="font-size: 16px;">: Incorporating the Palmer reading for this unit, you will write a 150-250 word blog post that addresses the following questions:</span><em style="font-size: 16px; font-weight: 400;">  When have you felt "at home" within a learning community? What elements made that learning space feel like "home"?</em></p>
-<p style="padding-left: 30px;">Activity 1.5: Blog Post Assignment:<span style="font-size: 16px;"> </span><span style="font-size: 16px;">Blog post: Incorporating the Palmer reading for this unit, you will write a 150-250 word blog post that addresses the following questions:</span><em style="font-size: 16px;">  What does it mean for you to be authentic as a teacher? How do we create authentic learning spaces?</em></p>
-&nbsp;
+<strong>[table id=1 /]</strong>
+<h3></h3>
 <h3>Learning Cafe</h3>
 In this course you will also have the opportunity to connect with other learners in the <em>Learning Cafe</em>.  This is a space for you to chat with your classmates about course topics or other topics of interest.  For this first post, please share a bit about yourself (e.g. hometown, interests, future plans, etc.).  Also answer the question, "What four things are most important in your life?" Feel free to include a picture – of yourself or what you value.
 
@@ -54,7 +49,12 @@ Go to <a href="https://create.twu.ca/ldrs664/unit-1-learning-activities/">Learn
 <div class="row_inner"></div>
 </div>
 </div>
-<!--themify_builder_static--><h1>Unit 1<br/>Adult Learning Theory and Perspectives</h1>
- <p style="text-align: center;">Welcome to LDRS 664 Creating Authentic Learning Communities!</p><p style="text-align: center;">As humans, we long for authenticity in our relationships. We want to feel &#8220;at home&#8221; in the organizations that are part of our lives &#8212; our families, schools, communities, places of worship. We seek connection. We search for a place where we are known.</p><p style="text-align: center;">This sense of being &#8220;at home&#8221; is essential to our experience as learners. Deep, authentic learning happens in spaces where we feel connected with others &#8212; places and spaces where we are known. Palmer (1998) refers to this as the &#8220;spiritual quest for connectedness&#8221; (p. 5).</p><p style="text-align: center;">In this course, we will explore together the theoretical foundations of learning communities, evaluating key elements essential to creating authentic learning communities, where learners are known and learning is authentic. In this unit, we will engage with the writings of Parker Palmer, a teacher and writer who has written several important works regarding the essential role of authenticity in teaching and learning.</p><p style="text-align: center;">In addition to reading, throughout this course, we will also listen to music and view several short films that will allow us to more deeply engage with the concepts of belonging and authenticity within the teaching/learning experience.</p>
- 
+<!--themify_builder_static-->
+<h1>Unit 1
+Adult Learning Theory and Perspectives</h1>
+<p style="text-align: center;">Welcome to LDRS 664 Creating Authentic Learning Communities!</p>
+<p style="text-align: center;">As humans, we long for authenticity in our relationships. We want to feel &#8220;at home&#8221; in the organizations that are part of our lives &#8212; our families, schools, communities, places of worship. We seek connection. We search for a place where we are known.</p>
+<p style="text-align: center;">This sense of being &#8220;at home&#8221; is essential to our experience as learners. Deep, authentic learning happens in spaces where we feel connected with others &#8212; places and spaces where we are known. Palmer (1998) refers to this as the &#8220;spiritual quest for connectedness&#8221; (p. 5).</p>
+<p style="text-align: center;">In this course, we will explore together the theoretical foundations of learning communities, evaluating key elements essential to creating authentic learning communities, where learners are known and learning is authentic. In this unit, we will engage with the writings of Parker Palmer, a teacher and writer who has written several important works regarding the essential role of authenticity in teaching and learning.</p>
+<p style="text-align: center;">In addition to reading, throughout this course, we will also listen to music and view several short films that will allow us to more deeply engage with the concepts of belonging and authenticity within the teaching/learning experience.</p>
  Unit 1 Overview Unit 1 Learning Activities Unit 1 Assessments<!--/themify_builder_static-->
