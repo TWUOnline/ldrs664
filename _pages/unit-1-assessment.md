@@ -1,6 +1,6 @@
 ---
 ID: 205
-post_title: 'Unit 1 &#8211; Assessments'
+post_title: Unit 1 – Assessments
 author: kmarjanovic
 post_excerpt: ""
 layout: page
@@ -29,9 +29,7 @@ In this first unit, you have had the opportunity to think and learn about your i
 &nbsp;
 <h2>Checking your Learning</h2>
 Before you move on to the next unit, you may want to check to make sure that you are able to:
-<ul>
- 	<li>Describe your own personal identity as a facilitator/teacher</li>
- 	<li>Identify your personal beliefs about your role as a facilitator/teacher</li>
- 	<li>Discuss key elements of an authentic learning community</li>
-</ul>
+
+[table id=2 /]
+
 &nbsp;
