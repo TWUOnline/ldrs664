@@ -114,4 +114,4 @@ After completing the activities above, consider the following questions:
 </ul>
 &nbsp;
 
-Go to <a href="https://create.twu.ca/ldrs627-su18/unit-1-topic-2/">Unit 1 Assessment</a> to complete this unit.
+Go to <a href="https://create.twu.ca/ldrs664/unit-1-assessment/">Unit 1 Assessment</a> to complete this unit.
