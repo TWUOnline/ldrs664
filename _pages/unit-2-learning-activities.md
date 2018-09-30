@@ -103,3 +103,6 @@ Write 250 word blog post on this process, including your "why" for teaching/faci
  	<li>Gardner, W.L., Avolio, B.J., Luthans, F., May, D.R., &amp; Walumbwa, F. (2005). _"Can you see the real me?" A self-based model of authentic leader and follower development._ The Leadership Quarterly, (16), pp. 343-372.</li>
  	<li>Lipmanowicz, H. &amp; McCandless, K. (2013). _The surprising power of liberating structures: Simple rules to unleash a culture of innovation._ Liberating Structures Press. This work is licensed under a Creative Commons Attribution-NonCommerical-ShareaLike License. This allows others to reproduce, distribute, adapt, and built upon our work non-commerically as long as they credit us and license their creations under identical terms.</li>
 </ul>
+&nbsp;
+
+<strong>Go to <a href="https://create.twu.ca/ldrs664/unit-2-assessment/">Unit 2 Assessment</a> to continue.</strong>
