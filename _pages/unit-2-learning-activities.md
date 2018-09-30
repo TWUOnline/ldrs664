@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-08-23 18:14:59
 ---
-<h2>Unit 2 Learning Activities
-Topic 1: Belonging to myself</h2>
+<h2>Topic 1: Belonging to myself</h2>
 In order to create authentic, safe learning spaces for others, we must first be comfortable with who we are.
 
 <strong>Identity</strong>: Knowing ourselves as teachers means that we must explore what Palmer (2017) calls the "inner landscape." We must be aware of the character traits, personal experiences, values, beliefs, and cultural environment in which we were raised and now live. These elements are part of our identity -- and we bring our identity with us into the classroom and learning spaces in which we coach and teach others (Palmer, 2017).
