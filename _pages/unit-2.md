@@ -8,7 +8,6 @@ permalink: https://create.twu.ca/ldrs664/unit-2/
 published: true
 post_date: 2018-02-27 18:23:14
 ---
-<h4>Overview</h4>
 As we began to explore in Unit 1, creating authentic learning communities begins with personal authenticity -- with knowing one's self. Palmer (2017) argues that "good teaching comes from the<em> identity</em> and <em>integrity</em> of the teacher" (p. 13, italics added).
 
 In this unit, we will explore the importance of identity and integrity as teachers/coaches, considering our own sense of identity as teachers, and what it means to belong to one’s self.
