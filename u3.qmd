@@ -102,7 +102,7 @@ In your Reflective Journal, jot down your thoughts. Consider how you have, in yo
   - How am I "at home in a universe that embraces both the smallness of ‘I’ and the vastness of all that is ‘not I,’"? (Palmer, 2017, p. 59).
   - What fears do I need to overcome as a teacher so I can create space for students to express their fears?
 
-3. Read Westheimer et. al (2004) [Education Leading to Good Citizens](assets/unit3/Westheimer.pdf){target="_blank"}.
+3. Read Westheimer et. al (2004) [Education Leading to Good Citizens](assets/u3/Westheimer.pdf){target="_blank"}.
   - How would you apply what the authors are saying in a course to create an inclusive, authentic learning community?
 
 :::

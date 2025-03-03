@@ -62,7 +62,7 @@ As you consider the learning community you will facilitate, consider how you mig
 
 ::: {.learning-activity time=""}
 
-Read ["What IS a Learning Community?" (Brower & Dettinger, 1998)](assets/unit4/Learning_community.pdf){target="_blank"}.
+Read ["What IS a Learning Community?" (Brower & Dettinger, 1998)](assets/u4/Learning_community.pdf){target="_blank"}.
 
 **In your Reflective Journal:**
   - Write down three strengths of this learning community model.
@@ -142,7 +142,7 @@ Figure 1. Transformational Learning Model from Madland, C. (2017). The TWU Commu
 
 ::: {.learning-activity time=""}
 
-Review the [The Trinity Community of Inquiry](assets/unit4/Madland-transformational-learning.pdf){target="_blank"} (Madland, 2017).
+Review the [The Trinity Community of Inquiry](assets/u4/Madland-transformational-learning.pdf){target="_blank"} (Madland, 2017).
 
 **In your Reflective Journal:**
   - Write down three strengths of this learning community model.
