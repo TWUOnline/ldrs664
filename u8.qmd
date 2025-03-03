@@ -17,7 +17,7 @@ In this unit you will consider how to teach with depth. This is grounded in who 
 1. Adult Education Methods to Teach from Depth
 2. Web of Relationships and Impact on Values
 
-### Learning Outcomes {.unnumbered}
+### Unit Learning Outcomes {.unnumbered}
 
 When you have completed this unit, you should be able to:
 
@@ -26,13 +26,11 @@ When you have completed this unit, you should be able to:
 - Evaluate adult education methods considering impact on organizational culture.
 - Articulate your personal web of relationship and impact on values.
 
-### Activity Checklist {.unnumbered}
+### Learning Activities {.unnumbered}
 
-These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it helpful in planning your work.
 
 ::: {.learning-activity}
-
-**Learning Activities**
 
 - View the *The Six Adult Learning Principles* video. Jot down the six principles in your reflection journal.
 - Read the Fenwick article. Jot down the eight categories of workplace learning in your journal.
@@ -69,7 +67,7 @@ I encourage you to review these particular strategies and add to your proverbial
 
 ### Activity: Video on Adult Learning Principles
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Watch Cason Smith's, *The Six Adult Learning Principles*.
 
@@ -79,23 +77,11 @@ As you view this video, jot down the principles in your reflection journal for f
 
 {{< video https://www.youtube-nocookie.com/embed/vLJ7cRwKI-I >}}
 
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
-
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vLJ7cRwKI-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
-
 :::
 
 ### Activity: Reading
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Read Fenwick, T. (2010). [Workplace ‘Learning’ and Adult Education: Messy Objects, blurry maps and making difference.](assets/unit8/Fenwick_2010.pdf){target="_blank"} *European Journal for Research on the Education and Learning of Adults.* *I,* 79-95.
 
@@ -105,7 +91,7 @@ As you read this article, focus on the eight categories of workplace learning be
 
 ### Activity: Role Play
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Practice using role play by planning a teaching and learning activity that utilizes role play. Consider a discipline of interest to you or a concept of leadership that you want students to engage with further. Sketch out the directions to your future class for a role play activity. Alternatively, you may want to practice role play with a colleague, family member, or friend. Select a topic, such as belonging or community, and develop a role play to teach that concept within an online or face-to-face learning environment.
 
@@ -121,7 +107,7 @@ Who we associate with impacts our values and our values have the potential to im
 
 ### Activity: Wheatley Reading and Reflection
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Read Chapter 6 (pages 211-243) of Wheatley, M. (2017). *Who Do We Choose to Be: Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler Publishers.
 
@@ -134,6 +120,17 @@ As you read this chapter think about Archbishop Desmond Tutu’s comment
 ## Summary {.unnumbered}
 
 In this unit, you have had the opportunity to learn about teaching with depth and the importance and role of interconnectedness and integrity. So much of the global culture is superficial. We tweet in 140 characters or less, we get our news in sound bytes and we have become experts at multi-tasking to the point of distraction. As adult educators we can and need to go deeper with our learners by being grounded in who we are and by designing learning that privileges collaboration, values and systems leading to growth and transformation. When we are intentional about doing this, we develop our web of interconnectedness and strengthen our personal and professional integrity. Powerful indeed!
+
+::: {.check}
+
+**Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**
+
+- analyze the effectiveness of training and employee development?
+- explain how to teach and lead for depth using discussion strategies and compelling, provocative questions?
+- evaluate adult education methods considering impact on organizational culture?
+- articulate your personal web of relationship and impact on values?
+
+:::
 
 ## Assessment {.unnumbered}
 
@@ -217,24 +214,5 @@ This paper will be 12-15 pages long, and should include:
 
 :::
 
-## Checking Your Learning {.unnumbered}
 
-::: {.check}
 
-**Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**
-
-- analyze the effectiveness of training and employee development?
-- explain how to teach and lead for depth using discussion strategies and compelling, provocative questions?
-- evaluate adult education methods considering impact on organizational culture?
-- articulate your personal web of relationship and impact on values?
-
-:::
-
-## References {.unnumbered}
-
-- Brookfield, S. (2016). *The discussion book: 50 great ways to get people talking*. San Francisco: Jossey-Bass.
-- Hewlett, S. (2014). *Executive presence*. New York: HarperCollins.
-- Ibarra, H. (2015). *Act like a leader, think like a leader*. Boston, MA. Harvard Business Review Press.
-- Lytkina Botelho, E. Rosenkoetter Powell, K, Kincaid, S. and Wang D. (May-June 2017). [*What sets successful CEOs apart*](https://hbr.org/2017/05/what-sets-successful-ceos-apart){target="_blank"} . Harvard Business Review.
-- Schuyler, K. (2014). *Leading with spirit, presence, & authenticity*. San Francisco: Jossey-Bass.
-- Wheatley, M. (2017). *Who do we choose to be: Facing reality, claiming leadership, restoring sanity*. Oakland, CA. Berrett-Koehler Publishers Inc.

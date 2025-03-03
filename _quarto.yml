@@ -9,7 +9,7 @@ published-title: "Last Modified"
 author-title: "Authors"
 
 book:
-  title: "COURSE NAME"
+  title: "LDRS 664"
   author: "TWU Online"
   date: "last-modified"
   date-format: "MMM D, YYYY"
@@ -22,6 +22,10 @@ book:
     - u4.qmd
     - u5.qmd
     - u6.qmd
+    - u7.qmd
+    - u8.qmd
+    - u9.qmd
+    - u10.qmd
 #    - assignment1.qmd
 #    - assignment2.qmd
 #    - assignment3.qmd

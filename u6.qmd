@@ -18,7 +18,7 @@ In this unit we will consider the impact of identity in a learning environment a
 1. The Impact of Identity in a Learning Environment
 2. The Adult Educator as Creator and Leader of a Learner Centered Learning Environment
 
-### Learning Outcomes {.unnumbered}
+### Unit Learning Outcomes {.unnumbered}
 
 When you have completed this unit you should be able to:
 
@@ -26,13 +26,11 @@ When you have completed this unit you should be able to:
 2. Develop a personal philosophy of the role of facilitator in creating authentic learning communities
 3. Evaluate and choose strategies to adapt to the identity and learning needs of participants.
 
-### Activity Checklist {.unnumbered}
+### Learning Activities {.unnumbered}
 
-These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it helpful in planning your work.
 
 ::: {.learning-activity}
-
-**Learning Activities**
 
 - Read Wheatley: Opening and chapters 1 and 2, and take notes in your Reflective Journal.
 - Browse the Brookfield, Silberman texts and the [*Liberating Structures* website](http://www.liberatingstructures.com/ls-menu/){target="_blank"}. Take notes in your journal about the impact of technology.
@@ -70,7 +68,7 @@ Figuring out how our identity impacts the learning environment involves discerni
 
 ### Activity: Wheatley Reading and Reflection
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Read Wheatley, M. (2017). *Who Do We Choose to Be? : Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler Publishers. Opening pages 2-25; Chapters 1 (pages 28-61 and 2 (pages 63-97). As you read these pages think about a teacher, instructor or professor who is/was a leader in your eyes - someone you’ve most admired. What were their behaviours? How did you feel in their classroom? What kind of student were you, including the quality of what you produced? How do you feel about them now?
 
@@ -102,7 +100,7 @@ By incorporating liberating structures or those suggested by Brookfield and Silb
 
 ### Activity: Strategies for Supporting Learners
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 > The belief in technology to fix the messes we’ve made and to save us from decline has been labeled by Ronald Wright, ‘The Progress Trap’ (Wheatley, p. 41).
 
@@ -142,7 +140,6 @@ Have you ever tried to hide your home language, religion or any other aspect of 
 
 :::
 
-## Checking Your Learning {.unnumbered}
 
 ::: {.check}
 
@@ -153,12 +150,3 @@ Have you ever tried to hide your home language, religion or any other aspect of 
 - evaluate and choose strategies to adapt to the identity and learning needs of participants?
 
 :::
-
-### Resources {.unnumbered}
-
-- Atha, D.L., Castellon, A.R., Strong, H., & Wu, T. (2017). MA Leadership and MA in Educational Leadership Monograph 2018. *Unpublished Manuscript Trinity Western University, Langley BC*, (70), 22–32.
-- Brookfield, Stephen and Preskill, S. (2016). *The Discussion Book: 50 Great Ways to Get People Talking*. San Francisco: Jossey Bass. Various; as needed
-- Lipmanowicz, H., McCandless, K. (2013) *Liberating Structures.* Creative Commons License. Liberating Structures Press. Retrieved from: [https://www.liberatingstructures.com/](https://www.liberatingstructures.com/){target="_blank"}
-- Rachels, J. (1986). *The Elements of Moral Philosophy*, pp. 114-17,122-23. NY: Random House, Inc.
-- Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley. Various; as needed.
-- Wheatley, M. (2017). *Who Do We Choose to Be? : Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler Publishers.

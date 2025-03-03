@@ -16,20 +16,18 @@ Building on our discussion of learning community models, in this unit we will ex
 1. Creating Collaborative Learning in an Online Environment
 2. Supporting Connections Between Learners
 
-### Learning Outcomes {.unnumbered}
+### Unit Learning Outcomes {.unnumbered}
 
 When you have completed this unit you should be able to:
 
 1. Identify facilitator strategies that invite students to engage in collaborative learning.
 2. Identify strategies in online learning environments that support connections between students.
 
-### Activity Checklist {.unnumbered}
+### Learning Activities {.unnumbered}
 
-These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it helpful in planning your work.
 
 ::: {.learning-activity}
-
-**Learning Activities**
 
 - Read: Palmer, P. (2017) *The Courage to Teach,* Chapter 5 Teaching in Community; Chapter 6 Learning in Community, Chapter 7 Divided No More.
 - Review the ["Principles of Appreciative Inquiry"](https://appreciativeinquiry.champlain.edu/learn/appreciative-inquiry-introduction/5-classic-principles-ai){target="_blank"}
@@ -81,7 +79,7 @@ Likewise, the "Free-Choice Principle" contends that "people perform better and a
 
 ### Activity: Palmer Reading and Reflection
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Read: Palmer, P. (2017) *The Courage to Teach,* Chapter 5 Teaching in Community; Chapter 6 Learning in Community, Chapter 7 Divided No More.
 
@@ -94,7 +92,7 @@ Read: Palmer, P. (2017) *The Courage to Teach,* Chapter 5 Teaching in Community;
 
 ### Activity: AI Read and Discussion
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Review the ["Principles of Appreciative Inquiry"](https://appreciativeinquiry.champlain.edu/learn/appreciative-inquiry-introduction/5-classic-principles-ai/){target="_blank"} from the Appreciative Inquiry Commons at Champlain University. (Also in Whitney & Trosten-Bloom. (2010). *The power of appreciative inquiry: A practical guide to positive change.*)
 
@@ -125,7 +123,7 @@ Donohoo and Velasco (2016), in their work on Collaborative Inquiry, also undersc
 
 ### Activity: View and Reflect
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 For this activity, you will spend some time reflecting on your own experience as a learner, in order to consider the needs of the students you lead in online and face-to-face learning environments. So pick up your Reflective Learning Journal, grab your laptop, and settle down into a comfy chair (or sit among some trees).
 
@@ -161,7 +159,7 @@ Bleep bloop: The above video was auto embedded. If it was just a link, I added a
 
 ### Activity: Read and Strategize
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Read Burwell & Huyser (2013). Practicing hospitality in the classroom (available through the [TWU Library](https://www.twu.ca/library){target="_blank"}.
 
@@ -172,6 +170,15 @@ In your Reflective Learning Journal, make a note of the "stances" described by t
 ## Summary {.unnumbered}
 
 In this unit, we have considered how we can create learning environments where students belong, the essential nature of creating connections between learnings, and specific strategies we can use to support collaborative learning.
+
+::: {.check}
+
+**Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**
+
+- identify facilitator strategies that invite students to engage in collaborative learning?
+- identify strategies in online learning environments that support connections between students?
+
+:::
 
 ## Assessment {.unnumbered}
 
@@ -206,22 +213,3 @@ After you have completed the interview, prepare a 250-word discussion post, iden
 
 :::
 
-## Checking Your Learning {.unnumbered}
-
-::: {.check}
-
-**Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**
-
-- identify facilitator strategies that invite students to engage in collaborative learning?
-- identify strategies in online learning environments that support connections between students?
-
-:::
-
-## References {.unnumbered}
-
-- Bell, T., Urhahne, D., Schanze, S., & Ploetzner, R. (2009). Collaborative inquiry learning: models, tools, and challenges. *International Journal of Science Education. (32)*3, 349-377.
-- Brown, B. (2017). *Braving the wilderness: The quest for true belonging and the courage to stand alone.* New York: Penguin Random House.
-- Burwell, R. & Huyser, M. (2013). Practicing hospitality in the classroom. *International Journal of Christianity and Education. 17*(1), 9-24.
-- Donohoo, J. & Velasco, M. (2016). *The Transformative Power of Collaborative Inquiry.* Corwin (SAGE): Thousand Oaks, CA.
-- Palmer, P. (2017). *The courage to teach: Exploring the inner landscape of a teacher’s life.* San Francisco: Wiley.
-- Whitney, D., Trosten-Bloom, Amanda. *The Power of Appreciative Inquiry: A Practical Guide to Positive Change, 2nd Edition*. Berrett-Koehler Publishers, 03/2010.

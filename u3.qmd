@@ -16,7 +16,7 @@ Building on our discussion of "belonging to ourselves" in the previous unit, in 
 1. Belonging to Others
 2. Creating Learning Spaces Where Students Belong
 
-### Learning Outcomes {.unnumbered}
+### Unit Learning Outcomes {.unnumbered}
 
 When you have completed this unit you should be able to:
 
@@ -25,13 +25,11 @@ When you have completed this unit you should be able to:
 - Identify problems that affect learning communities.
 - Plan a learning activity that builds community.
 
-### Activity Checklist {.unnumbered}
+### Learning Activities {.unnumbered}
 
-These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it helpful in planning your work.
 
 ::: {.learning-activity}
-
-**Learning Activities**
 
 - Reflect on Rilke, R.M. [*Ah, Not to be Cut Off*](https://gladdestthing.com/poems/ah-not-to-be-cut-off){target="_blank"}.
 - Select from the three reading options (Brown, Palmer, Westheimer) to help you reflect on inclusive learning communities.
@@ -76,7 +74,7 @@ Brower and Dettinger (1998) contend that diversity of thought and perspective is
 
 ### Activity: Reflection
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Find a quiet space in your home or outdoors. Make your favourite beverage. With your iced coffee or hot tea with honey next to you, settle into a comfortable position.
 
@@ -92,16 +90,18 @@ In your Reflective Journal, jot down your thoughts. Consider how you have, in yo
 
 ### Activity: Read and Reflect
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 **There are three reading options to help you reflect on inclusive learning communities.**
 
 1. Read: Brown (2017). Chapters 3-6.
   - In preparation for the discussion in this unit, reflect on the BRAVING checklist (p. 114).
   - How would you apply this concept in a course to create an inclusive, authentic learning community?
+  
 2. Read Palmer (2017) Chapter 2. As you read, consider these questions:
   - How am I "at home in a universe that embraces both the smallness of ‘I’ and the vastness of all that is ‘not I,’"? (Palmer, 2017, p. 59).
   - What fears do I need to overcome as a teacher so I can create space for students to express their fears?
+
 3. Read Westheimer et. al (2004) [Education Leading to Good Citizens](assets/unit3/Westheimer.pdf){target="_blank"}.
   - How would you apply what the authors are saying in a course to create an inclusive, authentic learning community?
 
@@ -109,7 +109,7 @@ In your Reflective Journal, jot down your thoughts. Consider how you have, in yo
 
 ### Activity: Listen and Reflect
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Listen to [*A Place in this World*](https://music.youtube.com/watch?v=_FNQ5qLuLjA&list=RDAMVM_FNQ5qLuLjA){target="_blank"}, sung by Taylor Swift.
 
@@ -124,6 +124,17 @@ In your Reflective Journal, compose an email or talking points for a conversatio
 ## Summary {.unnumbered}
 
 In this unit, you have had the opportunity to consider concepts related to our own sense of "belonging to others" and what it means to create safe learning spaces, built on trust and an awareness that learning is both vast and paradoxical. Bringing our selves to the educational experience – both as teachers/facilitators and as students/learners, we must seek to authentically engage in the learning experience – and to form connections with other learners. In the next unit, we will move from the philosophical and self-reflective to explore practical strategies for creating authentic learning communities.
+
+::: {.check}
+
+**Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**
+
+- discuss how we can authentically belong to others?
+- describe elements of a learning community that create a sense of belonging?
+- identify problems that affect learning communities?
+- plan a learning activity that builds community?
+
+:::
 
 ## Assessment {.unnumbered}
 
@@ -155,15 +166,4 @@ Building on your learning in the first three weeks of class, write a 3-4 page pa
 
 :::
 
-## Checking Your Learning {.unnumbered}
 
-::: {.check}
-
-**Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**
-
-- discuss how we can authentically belong to others?
-- describe elements of a learning community that create a sense of belonging?
-- identify problems that affect learning communities?
-- plan a learning activity that builds community?
-
-:::

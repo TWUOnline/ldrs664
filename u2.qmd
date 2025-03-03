@@ -1,6 +1,6 @@
 # Belonging to One’s Self
 
-![Guiding Questions](assets/u2/facilitator?")
+![](assets/u2/LDRS664-BannerUnit2-v3.jpg){fig-alt="What is my identity as a teacher/facilitator? What does it mean for me to be authentic as a teacher/facilitator?"}
 
 ## Overview {.unnumbered}
 
@@ -19,20 +19,18 @@ In this unit, we will explore the importance of identity and integrity as teache
 2. Vulnerability in Learning Communities
 3. Creating Connections with Learners
 
-### Learning Outcomes {.unnumbered}
+### Unit Learning Outcomes {.unnumbered}
 
 When you have completed this unit you should be able to:
 
 - Articulate a sense of identity as a teacher/facilitator.
 - Analyze the influence of teacher authenticity on student learning.
 
-### Activity Checklist {.unnumbered}
+### Learning Activities {.unnumbered}
 
-These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it helpful in planning your work.
 
 ::: {.learning-activity}
-
-**Learning Activities**
 
 - In a non-graded discussion post, share a little more about yourself with your peers.
 - Read Brown, B. (2017). Chapter 1: Everywhere and Nowhere, Then, watch: Maya Angelou: [Interview with Bill Moyers ](http://billmoyers.com/content/conversation-maya-angelou/){target="_blank"} (7 minutes).
@@ -78,7 +76,7 @@ As poet [Maya Angelou](http://billmoyers.com/content/conversation-maya-angelou/)
 
 ### Activity: Who are you?
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 For this activity, you are asked to share a little more about yourself with your peers. First, find a quote about either identity or integrity. For example, you may want to perform a Google image search for "identity quote." Find one that resonates with you, and then include a picture of something that tells us something about you. Post the quote and your image to the Unit 2 Discussion forum with a 1-2 sentence explanation. This is a non-graded activity, but may help you reflect on this topic and to prepare for the assignment in this unit.
 
@@ -86,7 +84,7 @@ For this activity, you are asked to share a little more about yourself with your
 
 ### Activity: View and Reflect
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 View the following resources and reflect on your learning:
 
@@ -109,25 +107,13 @@ If effective relationships include these characteristics, then authentic teacher
 
 ### Activity: Vulnerability Video
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Watch the TedTalk by Brene Brown: (20 minutes)
 
 [Watch:The power of vulnerability | Brené Brown (20 minutes)](https://www.youtube.com/watch?v=iCvmsMzlF7o){target="_blank"}
 
 {{< video https://www.youtube-nocookie.com/embed/iCvmsMzlF7o >}}
-
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
-
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iCvmsMzlF7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
 
 **Questions to Consider**
 
@@ -140,7 +126,7 @@ You may want to answer these questions in your Reflective Learning Journal, and 
 
 ### Activity: Brown Reading & Reflection
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Brown (2017) argues that authenticity is essential to belonging.
 
@@ -157,7 +143,7 @@ Brown (2017) argues that authenticity is essential to belonging.
 
 ### Activity: Sharing your Identity
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Being vulnerable involves sharing something of our true selves, which we might not always be comfortable doing in certain environments.
 
@@ -179,7 +165,7 @@ These relationships will form the basis for learning in the classroom. Learning 
 
 ### Activity: Listen and Reflect
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Listen to "Brave" sung by Sara Bareilles.
 
@@ -203,7 +189,7 @@ Bleep bloop: The above video was auto embedded. If it was just a link, I added a
 
 ### Activity: Self-Test (non-graded)
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Take the [Clance Imposter Phenomenon test](http://paulineroseclance.com/pdf/IPscoringtest.pdf){target="_blank"}. As you take the test, consider the areas in which you feel vulnerable in your work as a learner. How would you address these concerns for learners in courses you facilitate?
 
@@ -211,7 +197,7 @@ Take the [Clance Imposter Phenomenon test](http://paulineroseclance.com/pdf/IPsc
 
 ### Activity: Readings
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Read: Gardner, B., Avolio, B., Luthans, F., May, D. & Walumbwa, F. (2005) Can you see the real me? A self-based model of authentic leader and follower development. The Leadership Quarterly 16, pp. 343–372.
 
@@ -221,7 +207,7 @@ Optional Read: Cuddy, A. (2016). [I don’t deserve to be here: Presence and the
 
 ### Activity: Connection Activities & Discussion
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 "[Liberating Structures](https://www.liberatingstructures.com/ls-menu){target="_blank"}" (Lipmanowicz & McCandless, 2013) are used in collaborative learning and work environments to create space for all participants to engage in collaborative inquiry and unleash innovation. One of these "Liberating Structures" is the strategy of the "Nine Whys," which allows participants to clarify what is important in their work. You may choose to use a strategy like this in your role as a facilitator and teacher. For this learning activity, however, you will use the strategy of the "Nine Whys" to consider your own identity as a teacher/facilitator.
 
@@ -268,7 +254,6 @@ Write 250 word discussion post on this process, including your "why" for teachin
 
 :::
 
-## Checking Your Learning {.unnumbered}
 
 ::: {.check}
 

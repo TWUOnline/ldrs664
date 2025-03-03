@@ -1,6 +1,6 @@
 # The Heart of a Teacher
 
-![Guiding Questions](assets/u1/LDRS664-BannerUnit1.jpg "What does it mean to be authentic in teaching and learning? What is the facilitator's role in creating spaces for authentic learning?")
+![](assets/u1/LDRS664-BannerUnit1.jpg){ fig-alt="What does it mean to be authentic in teaching and learning? What is the facilitator's role in creating spaces for authentic learning?"}
 
 ## Overview {.unnumbered}
 
@@ -22,7 +22,7 @@ In addition to reading, throughout this course, we will also listen to music and
 1. Authenticity in Teaching and Learning
 2. Identity and Integrity as a Coach/Facilitator
 
-### Learning Outcomes {.unnumbered}
+### Unit Learning Outcomes {.unnumbered}
 
 When you have completed this unit you should be able to:
 
@@ -30,13 +30,11 @@ When you have completed this unit you should be able to:
 2. Identify your personal beliefs about your role as a facilitator/teacher.
 3. Discuss key elements of an authentic learning community.
 
-### Activity Checklist {.unnumbered}
+### Learning Activities {.unnumbered}
 
-These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it helpful in planning your work.
 
 ::: {.learning-activity}
-
-**Learning Activities**
 
 - ReadPalmer, P. (2017): Introduction, Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching; Chapter 3: The Hidden Wholeness: Paradox in Teaching and Learning. Alternatively read Goode, Joanna: [If you Build Teachers, will students come?](https://journals-sagepub-com.twu.idm.oclc.org/doi/pdf/10.2190/2102-5G77-QL77-5506){target="_blank"}
 - Reflect on your values and respond in your Reflective Learning Journal.
@@ -56,9 +54,10 @@ These learning activities will engage you in considering the guiding questions f
 
 Teaching and learning are deeply personal experiences. Learning is, by definition, a transformative experience; we change as a result of learning. Teaching is also a transformative experience; we change as a result of teaching.
 
-![Authentic Teachers](assets/u1/664-authentic-teachers.jpg)
+![](assets/u1/664-authentic-teachers.jpg){#fig-u1_1 .lightbox fig-alt="Authentic Teachers" source-text="Authentic Learners and Authentic Teachers Model" source-link="" source-author="Penfold Navarro, C" source-author-link="" source-copyright="2018" source-license-text="" source-license-link=""
+}
 
-Figure 1.1: Authentic Learners and Authentic Teachers Model designed by Penfold Navarro, C. (2018)
+<!-- Figure 1.1: Authentic Learners and Authentic Teachers Model designed by Penfold Navarro, C. (2018)-->
 
 In his book, *The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life*, Parker Palmer (2017) argues that the "inner landscape of teaching" is an essential foundation out of which authentic learning experiences emerge.
 
@@ -66,7 +65,7 @@ In his book, *The Courage to Teach: Exploring the Inner Landscape of a Teacher's
 
 ### Activity: Reading
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 As we explore the importance of the "inner life of the teacher" as a foundation for authentic learning, read Chapter 1: The Heart of a Teacher: Identity and Integrity in Teaching in The Courage to Teach (Palmer, 2017). Alternatively, read [If you Build Teachers, will students come?](https://journals-sagepub-com.twu.idm.oclc.org/doi/pdf/10.2190/2102-5G77-QL77-5506){target="_blank"} (Goode, 2007).
 
@@ -91,7 +90,7 @@ In order to have integrity, we must know our own values and strengths, our own b
 
 ### Activity: Reflect and Respond
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 As teachers, it’s important to identify and reflect on your own values. Take some time to answer the questions below in your Reflective Learning journal.
 
@@ -117,12 +116,6 @@ In the song, *Home**, Phillip Phillips sings about the universal need we share a
 
 {{< video https://www.youtube-nocookie.com/embed/HoRkntoHkIE >}}
 
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
-
 In order for students to authentically learn, we must create learning spaces that are safe, where students know and feel that they belong. Palmer (1998) refers to this need for belonging as the "spiritual quest for connectedness" (p.5).
 
 If a sense of belonging provides a foundation for learning, then in our role as teachers, facilitators, or coaches, we must endeavour to create spaces where students know and feel that they belong.
@@ -135,7 +128,7 @@ In "*To Know As We Are Known,*" Palmer (1993) suggests that learning spaces must
 
 ### Activity: Ranking
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Rank the following strategies according to your comfort level. For each strategy, list one practical action you can take in an online learning environment (as facilitator or learner) to create an authentic learning space that is hospitable and open.*
 
@@ -164,6 +157,16 @@ Herrington, J. and Oliver, R. (2000). [An instructional design framework for aut
 
 In this first unit, you have had the opportunity to think and learn about your identify and beliefs about your role as a facilitator/teacher, and consider key elements of authentic learning communities. The hunger for authentic human relationships and authentic learning can and should compel us to consider our own identity and integrity, both as teachers and learners. In our next unit, we will explore ideas related to vulnerability in leadership, and learning to be "at home" with ourselves so we can, in turn, lead and teach others.
 
+::: {.check}
+
+**Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**
+
+- describe your own personal identity as a facilitator/teacher?
+- identify your personal beliefs about your role as a facilitator/teacher?
+- discuss key elements of an authentic learning community?
+
+:::
+
 ## Assessment {.unnumbered}
 
 ::: {.note}
@@ -188,22 +191,9 @@ For the second part of your discussion, write a 150-250 response to the followin
 - Respond to at least two other learners, providing additional suggestions regarding the elements they have chosen.
 - Be sure to cite Palmer (2017) and other authors in both your initial posting and your responses to other learner to demonstrate ways in which your thinking aligns with, contrasts with, or builds on the writing of the authors.
 
-:::
-
-::: {.note icon="true"}
-
 *Please submit your assignments in the appropriate dropbox in Moodle. See the Assessment section for the Grading Criteria that explains how your assignments will be evaluated.*
 
 :::
 
-## Checking Your Learning {.unnumbered}
 
-::: {.check}
 
-**Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit. Can you:**
-
-- describe your own personal identity as a facilitator/teacher?
-- identify your personal beliefs about your role as a facilitator/teacher?
-- discuss key elements of an authentic learning community?
-
-:::

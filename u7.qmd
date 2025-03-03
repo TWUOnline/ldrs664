@@ -16,20 +16,18 @@ In this unit, you will learn about the role of information and perception in gro
 1. The Role of Information and Perception in Growth and Development
 2. The Adult Educator as Servant Leader
 
-### Learning Outcomes {.unnumbered}
+### Unit Learning Outcomes {.unnumbered}
 
 When you have completed this unit you should be able to:
 
 - Choose and/or design strategies with a critical lens for using information to influence growth and development of learners.
 - Explain how an adult educator can be a servant leader.
 
-### Activity Checklist {.unnumbered}
+### Learning Activities {.unnumbered}
 
-These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it helpful in planning your work.
 
 ::: {.learning-activity}
-
-**Learning Activities**
 
 - Read assigned pages from Wheatley chapters 3, 5 and 7 and take notes in your journal.
 - View Wheatley video [Islands of Sanity](https://youtu.be/LtaYNxp56gs){target="_blank"}.
@@ -79,7 +77,7 @@ In this sense, adult educators are called to be warriors for the human spirit. R
 
 ### Activity: Wheatley Reading and Reflection
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Read Wheatley, M. (2017). *Who Do We Choose to Be? Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler Publishers. Wheatley chapters 3 (pages 100-139), 5 (pages 172-209 ) and 7 (pages 252-270).
 
@@ -92,7 +90,7 @@ Read Wheatley, M. (2017). *Who Do We Choose to Be? Facing Reality, Claiming Lead
 
 ### Activity: Wheatley Video
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 [Watch: Margaret Wheatley's *Islands of Sanity* (42 minutes)](https://www.youtube.com/watch?v=LtaYNxp56gs){target="_blank"}
 
@@ -104,12 +102,6 @@ Bleep bloop: The above video was auto embedded. If it was just a link, I added a
 
 :::
 
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LtaYNxp56gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
-
 **Questions to Consider**
 
 - What is the meaning of your work as a coach/facilitator?
@@ -119,7 +111,7 @@ Bleep bloop: The above video was auto embedded. If it was just a link, I added a
 
 ### Activity: Strategies for Critical Thinking
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Browse the following two resources and choose strategies that could be used to encourage critical thinking about information. Think about how you might adapt these strategies for your context. Jot down your ideas in your reflective journal.
 
@@ -142,7 +134,7 @@ For more information about servant leadership, please see the resource section f
 
 ### Activity: Servant Leadership Video
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Watch the video, *Ali Fett: Servant Leadership - How a jar can change the way you lead and serve*.
 
@@ -154,18 +146,6 @@ Watch the video, *Ali Fett: Servant Leadership - How a jar can change the way yo
 [Watch: Servant Leadership: How a jar can change the way you lead and serve](https://www.youtube.com/watch?v=1vIPrR_clEg){target="_blank"}
 
 {{< video https://www.youtube-nocookie.com/embed/1vIPrR_clEg >}}
-
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
-
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1vIPrR_clEg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
 
 :::
 
@@ -195,7 +175,6 @@ In this unit, you have had the opportunity to learn about the role of informatio
 
 You also explored the concept of the adult educator as servant leader and the importance of intentional practice based on this model of leadership. An adult educator who acts and interacts for the good of learners brings meaning to work and can motivate learners to also find meaning beyond an instrumental, skills-focused view of education. This can lead to a sense of fulfillment and flourishing built on a greater purpose.
 
-## Checking Your Learning {.unnumbered}
 
 ::: {.check}
 
@@ -205,11 +184,3 @@ You also explored the concept of the adult educator as servant leader and the im
 - explain how an adult educator can be a servant leader?
 
 :::
-
-### Resources {.unnumbered}
-
-- Atha, D.L., Castellon, A.R., Strong, H., & Wu, T. (2017). *MA Leadership and MA in Educational Leadership Monograph 2018*. Unpublished Manuscript Trinity Western University, Langley BC, (70), 22–32.
-- Cahalan, K. (2016). Integrative knowing and practica wisdom in Reflective practice: *Formation and supervision in ministry.*
-- Castellon, A. (2017). *Indigenous Integration: 100+ Lesson Ideas for Secondary and College Teachers*. Vic: Tellwell.
-- Greenleaf, R. 1998. *The power of servant-leadership*. San Francisco, CA: Berrett-Koehler.
-- Parris, D.L. & Welty Peachey, J. 20130. A Systematic Literature Review of Servant Leadership Theory in Organizational Contexts. *J. of Bus. Ethics 113*: 377-393.

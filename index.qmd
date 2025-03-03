@@ -1,6 +1,6 @@
 # Welcome {.unnumbered}
 
-This is the course book for **COURSE NUMBER**. This book is divided into thematic units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportunities to practice various skills.
+This is the course book for **LDRS 664**. This book is divided into thematic units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportunities to practice various skills.
 
 ::: {.note icon="true"}
 
@@ -12,7 +12,7 @@ Please read the full course syllabus located on the Course Home page in Moodle. 
 
 Below is some key information on features you may see throughout the course.
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 This box will prompt you to engage in course concepts by:
 

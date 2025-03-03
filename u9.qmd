@@ -17,7 +17,7 @@ In this unit, you will explore the role of trust, confidence and intellectual hu
 1. Learning to Trust Ourselves in Difficult Situations
 2. Approaches to Making a Contribution in an Intellectually Humble Way
 
-### Learning Outcomes: {.unnumbered}
+### Unit Learning Outcomes {.unnumbered}
 
 When you have completed this unit you should be able to:
 
@@ -26,13 +26,11 @@ When you have completed this unit you should be able to:
 - Define intellectual humility in your own words.
 - Describe strategies to foster intellectual humility in yourself and in your learning environment.
 
-### Activity Checklist {.unnumbered}
+### Learning Activities {.unnumbered}
 
-These learning activities will engage you in considering the guiding questions for this unit. As you plan your week, be sure to include time for these important learning activities. *Note that not all activities are required. Your instructor will provide guidance on key activities to complete.*
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it helpful in planning your work.
 
 ::: {.learning-activity}
-
-**Learning Activities**
 - Read assigned pages from Wheatley chapter 8 and Coda. Consider the reflection question.
 - Watch [TedX talk](https://youtu.be/Xlg8zdSVjgg){target="_blank"} by Sam Horn and practice the technique.
 - Read Leary et al. article and engage in self-evaluation. Jot down practices related to intellectual humility.
@@ -69,7 +67,7 @@ Our hope and vision must be rooted in the present (See [Daily Thoughts from Jean
 
 ### Activity: Read and Reflect
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Read Wheatley, M. (2017). *Who Do We Choose to Be?: Facing Reality, Claiming Leadership, Restoring Sanity.* Oakland, CA: Berrett-Koehler Publishers. Chapter 8 (pages 273-288 ) and Coda (pages 292-294).
 
@@ -79,25 +77,13 @@ Read Wheatley, M. (2017). *Who Do We Choose to Be?: Facing Reality, Claiming Lea
 
 ### Activity: Did You Know?
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 We will learn to trust ourselves more and build our confidence if we are able to convince even ourselves of our own self-efficacy! Watch this video (2014) ‘How to create interest and connect with anyone’ by Sam Horn.
 
 [Watch: Intrigue - How to Create Interest and Connect with Anyone: Sam Horn at TEDxBethesdaWomen](https://www.youtube.com/watch?v=Xlg8zdSVjgg){target="_blank"}
 
 {{< video https://www.youtube-nocookie.com/embed/Xlg8zdSVjgg >}}
-
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
-
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Xlg8zdSVjgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
 
 The process described in this TedXtalk teaches the power of three ‘did you know’ questions followed by three attributes or solutions as a way to connect with others and help them understand what’s important to you and how you can help them.
 
@@ -126,7 +112,7 @@ I’ve used my own practice as a Christian educator as an example to give you so
 
 ### Activity: Reading
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 **Read this article:** Leary, Mark & J. Diebels, Kate & K. Davisson, Erin & P. Jongman-Sereno, Katrina & Isherwood, Jennifer & Raimi, Kaitlin & Deffler, Samantha & Hoyle, Rick. (2017). Cognitive and Interpersonal Features of Intellectual Humility. *Personality and Social Psychology Bulletin. 43*. 014616721769769. 10.1177/0146167217697695.
 
@@ -143,7 +129,7 @@ As you read this article, self-evaluate your level of openness, curiosity, toler
 
 ### Activity: Pinsent Videos
 
-::: {.learning-activity}
+::: {.learning-activity time=""}
 
 Watch this video (2016) where Andrew Pinsent, Research Director at Oxford University answers the question: "Why is intellectual humility important for the flourishing of persons?"
 
@@ -151,35 +137,11 @@ Watch this video (2016) where Andrew Pinsent, Research Director at Oxford Univer
 
 {{< video https://www.youtube-nocookie.com/embed/ny5m64sjm14 >}}
 
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
-
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ny5m64sjm14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
-
 Then watch this video (2016) where he answers the question: "What is still interesting about Aquinas’ concept of humility?"
 
 [Watch: Andrew Pinsent - What is still interesting about Aquinas concept of humility?](https://www.youtube.com/watch?v=j25KL5qw_tY){target="_blank"}
 
 {{< video https://www.youtube-nocookie.com/embed/j25KL5qw_tY >}}
-
-::: {.prote}
-
-Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
-
-:::
-
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/j25KL5qw_tY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
 
 **As you view the short video clips jot down some notes in your own words or any questions that you want to explore further about the topic of intellectual humility.**
 
@@ -240,7 +202,6 @@ You will write a draft of the Platform Paper in Unit 8 and post for Peer Review.
 
 :::
 
-## Checking Your Learning {.unnumbered}
 
 ::: {.check}
 
@@ -252,12 +213,3 @@ You will write a draft of the Platform Paper in Unit 8 and post for Peer Review.
 - Can you describe strategies to foster intellectual humility in yourself and in your learning environment?
 
 :::
-
-## References {.unnumbered}
-
-- Arntz, V. 2018. Flannery O’Connor & redemption amidst the grotesque. Available at [https://catholicexchange.com/flannery-oconnor-redemption-amidst-grotesque](https://catholicexchange.com/flannery-oconnor-redemption-amidst-grotesque){target="_blank"}.
-- Brookfield, S. (2013). *Powerful techniques for teaching adults*. San Francisco: Jossey-Bass.
-- Brookfield, S. and Preskill, S. (2016). *The discussion book: 50 great ways to get people talking*. San Francisco: Jossey Bass.
-- Leary, Mark & J. Diebels, Kate & K. Davisson, Erin & P. Jongman-Sereno, Katrina & Isherwood, Jennifer & Raimi, Kaitlin & Deffler, Samantha & Hoyle, Rick. (2017). [Cognitive and interpersonal features of intellectual humility](https://journals-sagepub-com.ezproxy.student.twu.ca/doi/pdf/10.1177/0146167217697695?){target="_blank"}. *Personality and Social Psychology Bulletin. 43*. DOI:10.1177/0146167217697695.
-- Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley.
-- Wheatley, M. (2017). *Who do we choose to be? Facing reality, claiming leadership, restoring sanity.*
