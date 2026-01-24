@@ -8,11 +8,11 @@ Before we consider the models, we first consider the wide variety of learning co
 
 A learning community can be created within a specific course, academic program, or professional context.
 
-#### Learning Communities in Higher Education {.unnumbered}
+**Learning Communities in Higher Education**
 
 Learning communities can be found across university campuses in various formats. One popular format, used at larger universities include a set of interdisciplinary, paired-courses that students take as a cohort. Some graduate programs admit students in a cohort, so students take courses together throughout their program. Residential learning communities are also common for those who live on campus, grounded in residence halls with an integration of living and learning.
 
-#### Professional Learning Communities {.unnumbered}
+**Professional Learning Communities**
 
 Professional learning communities have also emerged as an important force in education and other fields, as colleagues gather around a shared interest, a focus on continuous quality improvement, and a shared discipline. These professional learning communities can be organized in a professional association, in which professionals within a specific field gather at specified intervals in in-person, virtual, or hybrid formats to share best practices and engage in professional development. Professional and personal learning communities have also emerged within social media and online environments, often lead by a thought leader who writes about a specific topic, and engages people in ongoing conversation about that topic.
 
@@ -56,6 +56,7 @@ When you have completed this unit, you will be able to:
 Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
 ::: learning-activity
+
 -   Read "What IS a Learning Community?" (Brower & Dettinger, 1998) and respond in your reflective journal.
 -   Read and reflect on the *Community of Truth Model* (Palmer, 2017).
 -   Read and reflect on the *Community of Inquiry* (Garrison et al., 2000).
