@@ -1,0 +1,286 @@
+# Designing Meaningful Learning Experiences
+
+## Overview {.unnumbered}
+
+As facilitators, you play a critical role in shaping not only what learners know, but how they engage, connect, and grow. In this unit, we will explore theories and principles of adult learning – including andragogy (Knowles, 1980), experiential learning (Kolb, 1984) and transformative learning (Merizow, 1997). We will then focus on applying adult learning principles and theories to create meaningful learning experiences, while reflecting on your own values, leadership theories, and approaches as an educator.
+
+Unit 8 focuses on three guiding questions:
+
+- What theory of adult learning most resonates with my own approach to teaching or facilitation?
+- How does this theory shape my thinking about how adults grow, change, or learn?
+- How can I ensure I teach from depth?
+
+### Topics {.unnumbered}
+
+This unit is divided into the following topics:
+
+1. Theories Guiding Adult Learning
+2. Principles of Adult Learning
+3. Adult Education Methods to Teach from Depth
+4. Web of Relationships and Impact on Values
+
+### Unit Learning Outcomes {.unnumbered}
+
+When you have completed this unit, you will be able to:
+
+- describe core principles of adult learning theory, including Mezirow’s Transformative Learning Theory and Knowles’ Adult Learning Theory (Andragogy).
+- draft beliefs about teaching and facilitating adult learners, forming the foundation of your platform of beliefs.
+- reflect on how relationships, values, and theoretical frameworks shape your approach to teaching and facilitation in organizational and educational contexts.
+
+### Learning Activities {.unnumbered}
+
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+::: {.learning-activity}
+- Follow the prompts designed to help you surface your own values about teaching and learning and then connect them to the foundational principles of adult learning.
+- Read "Workplace ‘Learning’ and Adult Education: Messy Objects, Blurry Maps and Making Difference" (Fenwick, 2010), and relate it to your beliefs by drafting two to three (2–3) belief statements about adult teaching and learning
+- Practice using role play by planning a teaching and learning activity that incorporates it.
+- Read Chapter 6, "Interconnectedness," in *Who Do We Choose to Be: Facing Reality, Claiming Leadership, Restoring Sanity* (Wheatley, 2017), and create a concept map based on your reflections.
+- Follow the step-by-step instructions that helps you see how relationships—between you and your students, among students, and between students and the course content—shape the learning experience.
+
+*Note:* Working through learning activities will help you to meet the learning outcomes and successfully complete your assessments.
+:::
+
+### Assessment {.unnumbered}
+
+See the Assessment section in Moodle for assignment details.
+
+### Resources {.unnumbered}
+
+Here are the resources you will need to complete this unit.
+
+- Wheatly, M. (2023). [*Who do we choose to be?, Second edition : Facing reality, claiming leadership, restoring sanity.*](https://research-ebsco-com.twu.idm.oclc.org/linkprocessor/plink?id=eeef8a8d-c136-3ca8-ac5e-941498abb4ce){target="_blank"} Berrett-Koehler Publishers.
+- Other online resources will be provided in the unit.
+
+## Theories Guiding Adult Learning
+
+To guide our work, we draw on three foundational adult learning theories. Understanding these frameworks helps us see why the principles of adult learning exist and how they can be applied in real-world teaching and training contexts.
+
+#### Andragogy (Knowles, 1980) {.unnumbered}
+
+Knowles' (1980) theory of andragogy emphasizes the distinct characteristics of adult learners. Simply put, adults learn differently than children do—so we need to teach differently, too. Knowles (1980) proposed that adults are self-directed and expect to take responsibility for their learning. They want learning experiences that allow them to use what they already know and apply it to problems that need to be solved. Adults are more self-directed in their learning—they can identify skills or concepts they want (or need) to learn and seek out that learning.
+
+Think, for example, about a time when you ran into a challenge using Microsoft Word or another software system. You likely sought out some kind of solution—asking a co-worker for help, searching out solutions online, calling your IT help desk, or asking artificial intelligence (AI) for assistance. In other words, you identified a problem you needed to solve and were self-directed in solving it, using your prior experience to guide you.
+
+With this theory, Knowles (1980) suggests that those teaching adults must acknowledge how adults learn and teach accordingly.
+
+#### Experiential Learning (Kolb, 1984) {.unnumbered}
+
+Kolb's (1984) model of experiential learning is built on the theory that we learn through experiences. Kolb (1984) identified a four-stage learning cycle: concrete experience (feeling), reflective observation (reflecting), abstract conceptualization (thinking), and active experimentation (acting).
+
+::: {#fig-block_u8_1}
+![](assets/u8/image1.png){.lightbox fig-alt="An infographic of Kolb’s (1984) Learning Cycle illustrates a four-stage process of learning. The first stage is labelled 'Concrete Experience (Feeling)', and the second stage is 'Reflective Observation (Reflecting)'. The third stage is labelled 'Active Experimentation (Acting)', and the last is 'Abstract Conceptualization (Thinking)'"}
+
+Kolb (1984)’s Learning Cycle
+:::
+
+:::text-source
+*Source:* Created by R. Kang and TWU. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){target="_blank"}.
+:::
+
+Kolb (1984) emphasized that learning never ends—that we continue to experience life and continue to learn from life—in our professional, personal, and community life. For example, if we think about software again, we can quickly understand that our learning is greatly enhanced when we engage in experiential learning. We might have someone demonstrate a software to us, but if we can follow along with the demo, selecting the items they suggest, and working through the steps to achieve what we’re trying to accomplish or create, we are more likely to remember how to complete the software task later. By practicing while we are learning, we have more sustained learning.
+
+For further reference, read ["What Is Experiential Learning?"](https://experientiallearninginstitute.org/what-is-experiential-learning/){target="_blank"} (Institute of Experiential Learning, 2025), which illustrates experiential learning theory from its foundational propositions to its applications. Be sure to watch the video, [*This is Experiential Learning*](https://youtu.be/0TeaFPSQsMY){target="_blank"} (Kolb, 2020) in the link above.
+
+As you engage with the content, reflect on the following questions:
+
+- What are the six propositions that the theory was built on, which are shared by the foundational scholars?
+- What are the four step of the experiential learning cycle that David Kolb described as the ideal process of learning?
+
+::: video-container
+{{< video https://www.youtube-nocookie.com/embed/0TeaFPSQsMY >}}
+:::
+
+#### Transformative Learning (Mezirow, 1997) {.unnumbered}
+
+Mezirow's (1997) transformative learning theory focuses on how learners critically reflect on their assumptions and beliefs, leading to a profound shift in perspective. This process involves recognizing and challenging one's own assumptions, engaging in discourse to validate new perspectives, and integrating these insights into one's worldview. Mezirow (1997) argued that transformative learning is essential for personal development and for fostering a more inclusive and open-minded society.
+
+Imagine someone who has always formatted documents in Word using only the toolbar buttons they know. They assume that’s the "right" way. In a workshop, they learn about styles and themes, which makes formatting faster and more consistent. Reflecting on their old approach, they realize there is a better way. By trying it out and discussing with peers, they start to shift their perspective—what once seemed like the only way is replaced by a more efficient, intentional approach. Even a simple task becomes a transformative learning experience when learners reflect, experiment, and integrate new understanding into their practice.
+
+Taken together, these three theories—Knowles’ andragogy, Kolb’s experiential learning, and Mezirow’s transformative learning—illustrate that adult learning is active, reflective, and deeply connected to experience and context. These theories provide a lens for understanding how adult learners engage, apply, and integrate new knowledge, and they help us see the importance of designing experiences that are relevant, meaningful, and collaborative.
+
+With this foundation, we can now explore Knowles’ (1980) Principles of Adult Learning, which translate these theories into practical strategies for creating authentic, engaging, and effective learning experiences for adult.
+
+## Principles of Adult Learning
+
+Adult learners bring a wealth of experience, insight, and perspective to their learning experiences. (Just think for a moment the rich experience you bring to your graduate studies!) Understanding how adults learn allows us to design experiences that are motivating, effective, and resonant.
+
+Knowles (1980) designed what he termed the *principles of andragogy,* encouraging instructors to consider that adults learn in different ways than children, and advocating that we change our approach to teaching so we can support adult learners more effectively in their learning.
+
+Knowles (1980) presented these principles of adult learning that can guide your practice:
+
+- **Need to know:** Adults need to understand why they are learning something before they invest time and energy (Knowles, 1980). As you design learning experiences, think about how you can clarify the purpose and relevance of each learning experience.
+- **Self-directed learning:** Adults often take responsibility for their own learning (Knowles, 1980). Think about how you might offer choice and autonomy, creating spaces where learners can engage in ways that feel authentic and personally meaningful.
+- **Relevance and application:** Adults are deeply motivated when learning feels purposeful and connected to their work or life (Knowles, 1980). As you design learning experiences, consider how learners can immediately apply new knowledge or skills in ways that make a tangible difference.
+- **Building on experience:** Every learner arrives with prior knowledge and lived experiences. With adult learners, that experience is vaster (Knowles, 1980). We’ll explore strategies to connect new learning to what participants already know, so learning becomes a dialogue rather than a one-way transmission of information.
+- **Problem-centered and goal-oriented:** Adults often prefer learning that is focused on solving real challenges (Knowles, 1980). You will practice designing authentic, problem-centered activities that reflect real-world contexts and invite active participation (Knowles, 1980).
+- **Internal motivation:** Internal motivation often drives adult learning more than external rewards (Knowles, 1980). Together, we’ll consider strategies to foster intrinsic motivation, using reflection, dialogue, and collaborative inquiry to deepen engagement.
+
+::: {#fig-block_u8_2}
+![](assets/u8/image2.png){.lightbox fig-alt="A graphic illustrating Knowles (1980)’s Adult Learning Principles with six numbered elements in colored boxes: 1. Need to Know, 2. Self-Directed Learning, 3. Relevance and Application, 4. Building on Experience, 5. Problem-Centered and Goal-Oriented, and 6. Internal Motivation."}
+
+Knowles (1980)’s Adult Learning Principles
+:::
+
+:::text-source
+*Source:* Created by R. Kang and TWU. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){target="_blank"}.
+:::
+
+These principles of adult learning can be applied in real-world teaching and training contexts. In particular, creating authentic learning communities relies on recognizing that adult learners are self-directed, bring rich prior experiences, and are motivated when they believe what they are learning is relevant to their goals (Knowles, 1980). By grounding our design and facilitation in these principles, we can cultivate learning environments where learners actively engage, share knowledge, collaborate meaningfully, and co-construct knowledge together. These theories provide a lens to help us intentionally design experiences that foster connection, reflection, and growth within authentic learning communities.
+
+Knowles (1980) states that adult learning is purposeful, experiential, and grounded in the learner’s context. As facilitators, we can create meaningful learning experiences by honoring learners’ autonomy, building on their prior knowledge, connecting learning to real-world goals, and fostering intrinsic motivation. Applying these principles thoughtfully helps us design experiences that engage, challenge, and empower adult learners.
+
+## Adult Education Methods to Teach from Depth
+
+What does it mean to teach from depth? It connects to the principle of adult learning that adults are internally motivated and build on prior life experience when they learn. Motivation is tapped into and amplified through reflective techniques and critical discussions that help the adult make sense of the new learning and situate it into what they already know. Asking thoughtful questions can lead this inquiry so that the learner constructs their own meaning. The facilitator of adult learning recognizes what Fenwick (2010) refers to as ‘the mess’ of learning and therefore strategically employs different levels of learning, making connections and establishing networks of information, while being aware of context and power dynamics.
+
+Teaching from depth means nurturing and valuing self-awareness, committing to self-reflection and mindfulness and practicing teaching from depth. This last point is important to balance reflection and introspection with action. Ibarra (2015) refers to this as ‘outsight’ (in contrast to insight) and argues that direct experiences and experimentation are important to develop external perspective. In the context of facilitating adult education, this means trying out various strategies and learning through trial, error, refinement and adjustment. Where internal knowledge, past experience and thinking contribute to insight, external knowledge, new experience and acting contribute to outsight. Teaching from depth involves developing insight and outsight—through utilizing both reflective practices and strategies and experiential learning.
+
+One strategy that can be used to teach for depth is called "Stanislavski’s Magic If" (Schuyler, 2014, p. 204). Stanislavski introduced method acting in the early twentieth century. This method, often referred to as role play, is where actors draw from their own life experiences to produce truthful actions and emotions. In the context of adult education, this method can be used by creating learning experiences in which adult learners engage in role plays, analyze case studies, or explore scenarios. Through this process, adult learners can connect course content with their life experience, to apply solutions to real-world challenges. This technique is often applied in the classroom through case studies. Providing the opportunity to bridge the learner’s life experiences and course learning, challenging the learner to construct and integrate new meaning while being solutions-focused.
+
+Brookfield and Preskill’s (2016) *[The Discussion Book](https://research-ebsco-com.twu.idm.oclc.org/c/bljv25/ebook-viewer/epub/kbeav6rq2v?route=details){target="_blank"},* which was used as a learning resource in LDRS 627, includes several strategies that foster teaching for depth including:
+
+- Snowballing (p. 49),
+- Critical Incident Questionnaire (CIQ) (p. 59),
+- Nominating Questions (p. 77), and
+- Writing Discussion (p. 157).
+
+We encourage you to review these strategies. Consider how you could use these strategies to expand your teaching effectiveness.
+
+### Activity: Personal Values and Adult Learning Principles
+
+::: {.learning-activity time="120"}
+
+This activity helps you surface your own values about teaching and learning and then connect them to foundational principles of adult learning.
+
+1. **Personal Reflection**
+    1. Write down five to six (5–6) words, phrases, or short sentences that describe what you value most in teaching and learning.
+    2. Think back to meaningful learning experiences in your own life: What made those experiences powerful (or not)?
+2. **Compare to Adult Learning Principles**
+    1. Review the principles of adult learning covered in this unit
+    2. Create a side-by-side comparison:
+        1. In one column, list your values.
+        2. In the other, note where your values align with (or diverge from) adult learning principles.
+3. **Mini-Reflection Journal (½ page)**
+    1. Which of your values feel reinforced by adult learning theory?
+    2. Were there any surprises or points of tension?
+
+*Note:* This activity will prepare you for the final assessment in this course, in which you will write a personal Platform of Beliefs about adult teaching and learning.
+
+:::
+
+### Activity: Workplace ‘Learning’ and Adult Education
+
+::: {.learning-activity time="60"}
+
+Read ["Workplace ‘Learning’ and Adult Education: Messy Objects, Blurry Maps and Making Difference"](https://rela.ep.liu.se/article/view/3748){target="_blank"} (Fenwick, 2010).
+
+Now that you reflected on your own beliefs and compared them with adult learning theory, this activity invites you to broaden your perspective. You read about eight different ways learning is understood in workplace contexts (Fenwick, 2010, p. 81) and begin shaping belief statements that will support your platform of beliefs that you will design for your final assignment.
+
+Consider how these categories connect with the adult learning principles you looked at in your website analysis assignment.
+
+Read with curiosity. As you read the article, highlight or note:
+
+- how "learning" is described or conceptualized in different workplace contexts
+- different models (or "ontologies") of learning you notice (e.g., individual acquisition, co-participation, collective sense-making)
+- how power, culture, and context are woven into these ideas
+- examples or practices that seem relevant to your own teaching beliefs
+
+:::
+
+#### Connect to Your Beliefs {.unnumbered}
+
+Based on your reflection and discussion, draft two to three (2–3) belief statements about adult teaching and learning that could become part of your Platform of Beliefs. For each statement consider:
+
+- How does this belief connect to the article’s ideas?
+- What does this belief imply for how I should design a learning experience for adult learners?
+
+In this activity, this is the time to play with ideas and see how they evolve. You do not have to submit your platform of beliefs yet, so take some time to explore these ideas and reflect on what matters most to you. Through this process, you will be able to design more authentic beliefs, and prepare yourself to design authentic learning experiences.
+
+### Activity: Role Play
+
+::: {.learning-activity time="30"}
+
+Practice using role play by planning a teaching and learning activity that utilizes it. Consider a discipline of interest to you or a concept of leadership that you want students to engage with further. Sketch out the directions to your future class for a role play activity. Alternatively, you may want to practice role play with a colleague, family member, or friend. Select a topic, such as belonging or community, and develop a role play to teach that concept within an online or face-to-face learning environment. Consider what you want the participants to learn (learning outcomes) from this role play.
+
+Through this activity, you will prepare for your final assignment, in which you will design an adult learning experience that reflects adult learning theory, culturally inclusive practices, and Indigenous ways of knowing.
+
+:::
+
+## Web of Relationships and Impact on Values
+
+As we reflect in this course on our values and beliefs about adult learning, one of the ways we form our values is through our connections with others.
+
+We are who we are partly because of who we associate with. Perhaps you remember your parents cautioning you to choose your friends wisely. Perhaps you are a parent who understands this and has given similar advice to your own children. Even the contemporary business literature recommends that as adults we are aware of whom we choose to associate.
+
+In her book *Executive Presence*, Sylvia Ann Hewlett (2014) emphasizes how connections are fostered through eye contact, ‘commanding a room’ and ‘right-sizing your reputation.’ To deepen gravitas, the chief component of executive presence, she suggests "living intentionally, guided by a set of values… surround[ing] yourself with people who are better than you… [and] empower[ing] others’ presence to build your own" (Hewlett, 2014, pp. 40-41). Our interconnectedness and relationships incrementally construct a living, learning, self-organizing group or organization (Wheatley, 2017, pp. 226-240). Wheatley (2017) encourages us to prioritize collaboration, belonging, and community. As adult educators and servant leaders, we should heed this call to action for the benefit of our learners.
+
+Who we associate with impacts our values and our values have the potential to impact those with whom we associate. Being reliable and consistently following through on commitments is a foundational value that impacts and is impacted by the web of relationships we encounter in our work and life in general. Botelho et al. (2017) did a ten-year study in which the identified specific attributes of high-performing CEOs. I would suggest that one of the attributes in particular can also describe high-performing adult educators and learners, that is, ‘delivering reliably’ (p. 10): "The ability to reliably produce results was possibly the most powerful of the four essential CEO behaviors." (I encourage you to read the article "[What Sets Successful CEOs Apart](https://hbr.org/2017/05/what-sets-successful-ceos-apart){target="_blank"}" to learn more about the other essential behaviors for CEO success: deciding with speed and conviction, engaging for impact and adapting proactively.)
+
+Consider how your values are impacted by your associates and how your values impact others. Wheatley (2017) emphasizes the power of this network: "people adopt the mores of a culture, even those that contradict their personal values. The culture is in control, and most people unconsciously adapt" (p. 229). She encourages us to be conscious in our rebellion and reclaim life-affirming identities by being "fully engaged, carefully observing what’s going on as we do our work, learning from experience, applying those learnings, adapting, changing" (p. 231). How might you foster life-affirming identities in your particular learning environment?
+
+### Activity: Interconnectedness and Relationship Networks
+
+::: {.learning-activity time="150"}
+
+Read Chapter 6, "Interconnectedness," in *Who Do We Choose to Be: Facing Reality, Claiming Leadership, Restoring Sanity* ([Wheatley, 2017](https://research-ebsco-com.twu.idm.oclc.org/plink/dc30dc3c-d319-3080-8c49-3dc07941a845){target="_blank"}).
+
+As you read this chapter, think about Archbishop Desmond Tutu’s comment: "We exist in a bundle of life. We say, ‘A person is a person through other people.’ It is not ‘I think therefore I am’ [but rather] I am human because I belong. I participate, I share" (as cited in Wheatley, 2017, p. 223).
+
+Based on the reading, reflect on the following questions: {.unnumbered}
+
+- Who has influenced you to become the person you are? Who do you depend on as ground and support for your life?
+- Demonstrate your network of relationships and annotate with the key values or wisdom you have learned from each person.
+- Because of the influence of these individuals on your values, choose two strategies from Brookfield and Preskill (2016) and Silberman and Biech (2015) and show how they align with these values. (Choose strategies not previously described in your response.)
+
+Create a concept map to show your networks of relationships using tools such as [bubbl.us](https://bubbl.us/){target="_blank"} or [popplet.com](http://popplet.com/){target="_blank"}, or on paper, take a picture and include it in your post. Reflect on how this relates to your teaching and facilitating work.
+
+*Note:* This activity serves as the discussion prompt for this unit. Share your response and connect with others in the Learning Community to deepen your understanding.
+
+:::
+
+### Activity: Reflecting on your Beliefs
+
+::: {.learning-activity time="90"}
+
+In your first reflection, you drafted some initial beliefs about teaching and facilitating adult learners. Now, you will deepen those beliefs by engaging with additional big ideas we’ve learned in this course—such as the importance of relationships in identifying our values to us, as well as adult learning theory. This activity helps you see how relationships—between you and your students, among students, and between students and the course content—shape the learning experience.
+
+1. **Review key concepts:** Take a moment to review these ideas from this course.
+    1. Teacher authenticity and its influence on learning
+    2. Culturally responsive teaching practices
+    3. Indigenous ways of knowing and their contributions to authentic learning communities
+1. **Revisit your draft beliefs:** Look back at your draft belief statements from the learning. activity. For each belief, ask: How does this belief connect to (or get challenged by) these frameworks (listed above)?
+2. **Refine and expand:** Revise your belief statements so that each one:
+    1. reflects your values,
+    2. aligns with (or thoughtfully resists) adult learning theory, and
+    3. engages with authenticity, culturally responsive teaching, and Indigenous ways of knowing.
+3. **Share Your Beliefs**
+    1. Share one belief statement with a peer in this course, a professional colleague, or someone you are close to. Ask them whether this belief reflects who you are, authentically. Ask yourself if this statement clearly connect values, theory, and course content. Then consider: what could make it stronger?
+4. **Reflective Journal:** In your reflective journal, write one-half to one (½-1) page of notes so you can look back at this activity when you are writing your final paper.
+    1. List the beliefs.
+    2. Which beliefs feel most central to your emerging Platform of Beliefs about adult teaching and learning?
+    3. How would these beliefs shape the way you facilitate authentic learning communities in the future?
+
+*Note:* This activity prepares you for the final assignment in this course, in which you will design a Platform of Beliefs about adult teaching anear learning.
+
+:::
+
+## Summary {.unnumbered}
+
+In this unit, you have had the opportunity to learn about adult learning theories, teaching with depth, and the importance and role of interconnectedness and integrity. You have also engaged in reflection and begun to draft your platform of beliefs about adult teaching and learning. So much of the global culture is superficial. We send quick text messages, we get our news in sound bites and we have become experts at multi-tasking to the point of distraction. As adult educators we can and need to go deeper with our learners by being grounded in who we are and by designing learning that privileges collaboration, values and systems leading to growth and transformation. When we are intentional about doing this, we develop our web of interconnectedness and strengthen our personal and professional integrity. Powerful, indeed!
+
+::: check
+
+Before you move on to the next unit, you may want to check to make sure that you are able to:
+
+- describe core principles of adult learning theory, including Mezirow’s Transformative Learning Theory and Knowles’ Adult Learning Theory (Andragogy).
+- draft beliefs about teaching and facilitating adult learners, forming the foundation of your platform of beliefs.
+- reflect on how relationships, values, and theoretical frameworks shape your approach to teaching and facilitation in organizational and educational contexts.
+
+:::
+
+## References {.unnumbered}
+
+Brookfield, S. and Preskill, S. (2016). *The discussion book: 50 great ways to get people talking.* Jossey Bass.
+
+Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley.

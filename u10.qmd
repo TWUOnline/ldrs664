@@ -1,0 +1,281 @@
+# Bringing It All Together
+
+## Overview {.unnumbered}
+
+In this culminating unit, you will bring together what you have learned about creating authentic learning communities for adult learners. Throughout the course you have explored theoretical foundations of learning communities, evaluated strategies for creating authentic learning communities, and considered how to apply those strategies as a teacher or facilitator. In addition, you have explored teaching and learning through the lens of personal transformation and considered challenges in creating and leading authentic learning communities. Now it is time to develop a learning experience for adult learners, integrating what you now know about adult learning theory, facilitator authenticity, and your own personal beliefs about teaching and learning into your design. Throughout this course, we have explored what it means to be personally authentic and how to lead authentically in a learning environment. As an adult educator, you have the opportunity to be a transformational leader. Learning how to effectively design experiences in which people learn within an authentic learning community is a powerful skill to take with you into your work as a facilitator, teacher, and leader.
+
+Unit 10 focuses on three guiding questions:
+
+- What do I believe about teaching and facilitating adult learners?
+- How can I create learning experiences in which I integrate what I know about adult learning theory, culturally responsive teaching practices, and Indigenous ways of knowing?
+- How can I foster an authentic learning community?
+
+### Topics {.unnumbered}
+
+This unit is divided into the following topics:
+
+1. Building Your Platform of Beliefs
+2. Creating Learning Outcomes
+3. Designing Authentic Learning Experiences
+4. Administrative and Supervisory Aspects of an Adult Educator
+
+### Unit Learning Outcomes {.unnumbered}
+
+When you have completed this unit, you will be able to:
+
+- formulate a Platform of Beliefs about adult teaching and learning.
+- develop learning outcomes.
+- design an authentic learning experience, incorporating adult learning principles.
+- integrate Indigenous ways of knowing into a learning experience.
+
+### Learning Activities {.unnumbered}
+
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+::: {.learning-activity}
+- Follow the step-by-step instructions to help you synthesize your platform and create a journal reflection.
+- Design a learning outcome that will be integrated into your final assignment: Authentic Learning Experience Design.
+- Review Brookfield and Preskill (2016) and Silberman and Biech (2015) and identify strategies that you find useful and plan to incorporate into your learning experience design process.
+- As a closing activity, immerse yourself in poetry, quotes, and music that highlight the sacred nature of the teaching and learning process.
+
+*Note:* Working through learning activities will help you to meet the learning outcomes and successfully complete your assessments.
+:::
+
+### Assessment {.unnumbered}
+
+See the Assessment section in Moodle for assignment details.
+
+### Resources {.unnumbered}
+
+Here are the resources you will need to complete this unit.
+
+- Online resources will be provided in the unit.
+
+## Building Your Platform of Beliefs
+
+Your platform of beliefs is a foundation for how you approach teaching and facilitation as an adult educator. It brings together your values, your understanding of adult learning theories, and your commitment to creating authentic learning communities.
+
+A strong platform of beliefs does more than list abstract ideas—it reflects who you are, how you show up with learners, and how you engage in relationships that support deep, authentic learning.
+
+As you create your platform, you will want to:
+
+- **Anchor your beliefs in authenticity.** Consider how being transparent, present, and genuine in your facilitation shapes learning experiences.
+- **Engage with adult learning theory.** Kolb’s (1984) Experiential Learning Theory, Mezirow’s (1997) Transformative Learning Theory, and Knowles’ (1980) Andragogy offer useful perspectives on how adults learn. Your beliefs may align with some, challenge others, or integrate elements of each.
+- **Draw on culturally responsive teaching.** Reflect on how your beliefs support inclusivity, respect, and responsiveness to the lived experiences of diverse learners.
+- **Include Indigenous ways of knowing.** Ask how your beliefs acknowledge interconnectedness, respect for community, and the relational nature of knowledge.
+
+Your platform of beliefs should not feel static, it will grow as you encounter new contexts and continue reflecting on your practice. The work you already completed in earlier course activities—drafting your initial beliefs, exploring relationships and values, and engaging with adult learning theories—will guide you in shaping your platform for the final assignment in this course.
+
+### Activity: Synthesizing Your Platform
+
+::: {.learning-activity time="90"}
+
+As you prepare for the final course assignment, this activity will help you consolidate your learning from earlier reflections, theories, and course content into a clear foundation for your platform of beliefs. Thinking about your beliefs can be challenging, in a task-driven world that often prioritizes action over reflection. However, as Palmer (2017) urges us to do, taking time for your own personal reflections now can allow you to show up in your classroom later (whether online or on-site) with more presence and authenticity. You are encouraged to create space for reflection. Make yourself a warm drink and curl up on the couch, go for a walk in the forest or a nearby park, or take your reflective journal with you to a coffee shop. Take some time to think deeply about who you want to be as a facilitator or teacher.
+
+1. **Review Your Work So Far**
+    a. Review your reflective journal, including your draft beliefs from earlier learning activities.
+    a. Revisit your notes on Kolb, Mezirow, and Knowles.
+    a. Reflect on what you have learned about authenticity, culturally responsive teaching, and Indigenous ways of knowing in this course, and in your life.
+2. **Identify Patterns and Tensions**
+    a. Which ideas or values keep showing up across your reflections?
+    a. Where do your beliefs align with theory, and where do you find yourself pushing back or adding nuance?
+    a. How have relationships with learners, communities, and knowledge traditions shaped your thinking?
+    a. What kind of learning community do you want to create?
+3. **Draft a Platform-in-Progress**
+    a. Write four to five (4–5) belief statements that feel central to your identity as a facilitator of adult learning.
+    b. Under each belief, briefly note:
+        i. How it reflects your authenticity
+        ii. Which theory or framework it connects to (or resists)
+        iii. How it speaks to culturally responsive or Indigenous approaches
+4. **Creative Expression**
+    a. Represent your beliefs in a format that speaks to you: a concept map, a short video reflection, or even a set of visual images with annotations.
+    b. This creative piece is for you—so you can help clarify your thinking. You may choose to include it in your final assignment, instead of a paper.
+5. **Short Journal Reflection (½ – 1 page)** 
+   a. In your reflective journal, respond to the following prompts:
+        i. Which beliefs feel most solid to you right now?
+        ii. Where do you still feel uncertain or open to growth?
+        iii. How might your Platform guide your facilitation of authentic learning communities?
+
+:::
+
+## Creating Learning Outcomes
+
+Before determining what we will teach, we need to consider what students will learn. As teachers and facilitators, we may be asked to teach a course that already has learning outcomes – or conduct a training for an employer that knows exactly what they want their employees to know at the end of the training. In that case, we can review those learning outcomes, and then design learning experiences that ensure students learn what we want them to learn. However, sometimes we are the ones tasked with developing the learning outcomes—that is, we are responsible for determining what want participants in our course or training to learn. Thus, will review here how to write an effective learning outcome.
+
+Learning outcomes, simply put, encapsulate in a short sentence, what we want students/employees to learn. To consider this, we can begin by asking ourselves this question:
+
+- What essential learning must take place for students to learn the knowledge/skills/values to prepare for higher-level coursework or engage in the profession?
+
+Learning outcomes allow us to ensure that both students and instructors know why they are engaging in the learning process. Our goal, after all, as teachers and facilitators, is not just to teach or facilitate – but for students/employees to learn. As Barr and Tagg (1995) put it, "Our mission is not instruction but rather producing learning with eery student by whatever means works best" (p. 13). When we create learning outcomes, we are thinking then, of what we want students/employees to learn. Only with a strong learning outcome can we move forward to design the learning experience so students/employees are able to achieve that learning outcome.
+
+There is a simple formula we can use to create a measurable learning outcome:
+
+::: {#fig-block_u10_1}
+![](assets/u10/image1.png){.lightbox fig-alt="A graphic titled 'Formula for a Student Learning Outcome' presents a three-part equation for writing an effective learning outcome, as defined by Penfold Navarro, C. (2016). The formula consists of 'Students will be able to' plus an 'Action Verb (Bloom's Word)' and 'What they will be able to do'"}
+
+Formula for a Student Learning Outcome
+:::
+
+:::text-source
+*Source:* Credited by R. Kang and TWU. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){target="_blank"}
+:::
+
+You may have noticed that, in each of your courses at Trinity, there are course learning outcomes (what you will learn in the course) and unit learning outcomes (what you will learn in the unit). These learning outcomes generally follow the formula in Figure 1.
+
+For example, the learning outcomes in this course are:
+
+Students will be able to:
+
+1. Interpret the influence of teacher authenticity on student learning.
+2. Develop a personal philosophy of your role as facilitator in creating authentic learning communities.
+3. Create a platform of beliefs regarding adult learning for a specific organization.
+4. Evaluate strategies for developing learning connections with and between students.
+5. Apply strategies for creating authentic learning communities that include Indigenous ways of knowing.
+6. Analyze the effectiveness of training and employee development.
+
+These learning outcomes follow the formula provided in Figure 1:
+
+1. Each of these learning outcomes begin with "Students will be able to...."
+2. Each outcome has an action verb that clearly states the skill-level a student should have (interpret, develop, create, etc.).
+3. Each outcome includes a short and simple description of what students should learn in this course.
+
+### Activity: Designing a Learning Outcome
+
+::: {.learning-activity time="90"}
+
+In your final assignment in this course, you will design a learning experience for adult learners. To prepare for that assignment, you will begin by considering what you want the adult learners to learn.
+
+1. Review the instructions for Assignment 3: Authentic Learning Experience Design.
+2. In your reflective journal, take some time to consider the following questions:
+    1. What do I want these adult learners to learn?
+    2. Do these learning outcomes align with my platform of beliefs? How?
+    3. Do these learning outcomes match what the organization wants their students/employees to learn?
+3. Design two to three (2-3) learning outcomes for the learning experience you want to create.
+4. Check each of the learning outcomes to ensure they are specific and measurable. In other words, will you be able to measure whether the learners have achieved the learning outcomes?
+
+To learn about Bloom’s Taxonomy of Learning, watch [*Bloom's Taxonomy - Explained in 3 Minutes*](https://www.youtube.com/watch?v=ve-Evb5bGoc){target="_blank"} (Helpful Professor Explains, 2024).
+
+::: video-container
+{{< video https://www.youtube-nocookie.com/embed/ve-Evb5bGoc >}}
+:::
+
+You can also read [Bloom’s Taxonomy for Learning: The Cognitive Domain](https://www.yorku.ca/teachingcommons/wp-content/uploads/sites/38/2023/03/Food_for_Thought-06-Blooms-Taxonomy.pdf){target="_blank"} (Food for Thought, n.d.) to learn more.
+
+If you need help in designing learning outcomes, review the following resources:
+
+- University of British Columbia. (n.d.). *Learning outcomes.* Okanogan Campus. [https://ctl.ok.ubc.ca/teaching/course-design/learning-outcomes/](https://ctl.ok.ubc.ca/teaching/course-design/learning-outcomes/){target="_blank"}
+- Penfold Navarro, C. (2016). *[Designing learning](https://far.twu.ca/ldrs/662/u9/topic-1/Designing-Learning-Penfold-Navarro-2016.pdf){target="_blank"}.* Trinity Western University.
+- Centre for Teaching Support & Innovation. (n.d.). *Developing learning outcomes.* University of Toronto. [https://teaching.utoronto.ca/resources/dlo/](https://teaching.utoronto.ca/resources/dlo/){target="_blank"}
+- University of Saskatchewan. (n.d.) *Writing learning outcomes* [Video]*.* YouTube. [https://www.youtube.com/watch?v=u3ckk51czC4](https://www.youtube.com/watch?v=u3ckk51czC4%20){target="_blank"}
+
+
+::: video-container
+{{< video https://www.youtube-nocookie.com/embed/u3ckk51czC4 >}}
+:::
+
+::: {.prote}
+
+Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
+
+:::
+
+- How to Canvas. (2021). *How to write measurable learning outcomes* [Video]*.* YouTube. [https://www.youtube.com/watch?v=NsPvMDnmWsc](https://www.youtube.com/watch?v=NsPvMDnmWsc){target="_blank"}
+
+::: video-container
+{{< video https://www.youtube-nocookie.com/embed/NsPvMDnmWsc >}}
+:::
+
+::: {.prote}
+
+Bleep bloop: The above video was auto embedded. If it was just a link, I added a title. If you don't like the title, change it, and I'll leave it alone if I come across it again.
+
+:::
+
+:::
+
+## Designing Authentic Learning Experiences
+
+What is your ideal learning environment? What kind of learning environment do you want to create for your adult learners.
+
+To prepare for your assignment, consider what you have learned in this course about authentic learning communities. How will you create learning environment and learning experience in which students experience social presence, instructor presence, and cognitive presence? How will you design active and engaged learning experiences that reflect adult learning principles? How will you incorporate Indigenous ways of knowing into the experiences you design?
+
+### Activity: Ideas to Inspire Connection
+
+::: {.learning-activity time="30"}
+
+Go through the ideas shared in Brookfield and Preskill’s (2016) *The Discussion Book* and Silberman and Biech’s (2015) *Active Training.* If you are reading a hard copy of these books, put a ‘sticky note’ on the pages of strategies that you like and plan to use. If you are using an electronic book, add a highlight or bookmark, or makes some notes in your reflective journal, to identity strategies you could use to create connection in your classes. Think about why you like these facilitation techniques and how they relate to adult learning principles. How can you use these strategies to create an authentic learning community?
+
+:::
+
+## Administrative and Supervisory Aspects of an Adult Educator
+
+Teaching a group of learners also involves non-instructional duties. Sometimes there is a tension between our philosophical beliefs about authentic teaching and learning and the organizational realities we face. In addition to creating authentic learning experiences, your teaching responsibilities will often require you to track and report on learners’ progress, submit grades or summary reports to the organization, order textbooks or supplies, work with an assistant such as a learning coach or teacher assistant, book classrooms…The possibilities are many!
+
+Beyond your own classroom, you may be asked to contribute to committees and other meetings about the operational aspects of the education facility. Few educators work alone. We are almost all part of an organizational context which has implications for our work. Organizations have expectations and the relationship between the adult educator and the organization is important to consider. Sometimes what is asked of us organizationally will conflict with our philosophy of how to carry out assessment or what it means to advise and guide students on their educational journey. The time invested in meetings is important for the organization to flourish and enable the teaching and learning to happen at all yet, this time commitment can detract from planning authentic learning experiences and having the time to give extensive formative feedback. Every organization is driven by a set of values which will apply to the educational environment. If there is an outside funder for example, then reports to demonstrate progress and results will need great care and handling since this is what makes programs possible at all. Educators must not only promote what they consider the best way to do things but also consider what others expect and need from the program.
+
+During this course you have focused on how to develop authentic learning communities. Authentic learning communities take place within organizational contexts. Priorities between these two—developing authentic learning communities and organizational realities—are not always aligned. However, it behooves the critical thinker to figure out how to align them as much as possible. This is a challenge worth embracing to be personally and professionally fulfilled.
+
+> No matter how hopeful our dialogue has been, no matter how many of our colleagues have embraced a new vision, no matter how many practical possibilities we have explored, someone will say, ‘These are wonderful ideas, but every last one of them will be defeated by conditions in my school’ (Palmer, 2017, p. 170).
+
+Palmer (2017) suggests that change begins when we, as individual teachers and facilitators, "make an inward decision to live ‘divided no more,’ finding a center for their lives outside of institutions" and "begin to discover one another and form communities of congruence that offer mutual support and opportunities to develop a shared vision" (pp. 172-173).
+
+### Activity: Closing Song
+
+::: {.learning-activity time="30"}
+
+As a closing activity for this course, take some time to immerse yourself in some poetry, quotes, and music that reminds us of the sacred nature of the teaching and learning process. Let’s pause to reflect on the opportunity we have to create and nurture authentic learning communities. As a teacher or facilitator, you are involved in transforming others’ lives.
+
+Choose one of the following pieces to reflect on:
+
+**Music**
+
+> What would you think if I sang out of tune? Would you stand up and walk out on me? Lend me your ears and I’ll sing you a song, And I’ll try not to sing out of key. I get by with a little help from my friends.
+> 
+> — [*With a Little Help from My Friends*](https://www.youtube.com/watch?v=0C58ttB2-Qg){target="_blank"} (The Beatles, 2018)
+
+**Quote**
+
+> Good teaching cannot be reduced to technique; good teaching comes from the identity and integrity of the teacher.
+> 
+> — *The Courage to Teach* (Parker Palmer, 2017)
+
+**Scripture** 
+
+> Just as a body, though one, has many parts, but all its many parts form one body, so it is with Christ. For we were all baptized by one Spirit so as to form one body—whether Jews or Gentiles, slave or free—and we were all given the one Spirit to drink. Even so the body is not made up of one part but of many. 
+> 
+> — [*1 Corinthians 12:12–27 (NIV)*](https://www.biblegateway.com/passage/?search=1+Corinthians+12%3A12-27&version=NIV){target="_blank"}
+
+**Music** 
+
+> Fresh and green we will remain Bearing fruit to a ripe old age Happy to tell about Your name A blessed endeavour The righteous flourish like the palm And grow like cedars of Lebanon Planted in the courts of God Forever and ever 
+> 
+> The senseless person doesn’t know The wonders of Your glory And yet their hoppers overflow But they don’t understand That folly springs up like the grass And spreads throughout these vast lands But harvesting will come to pass When everything is shown Everything will be exposed Fresh and green… 
+> 
+> It is so good to sing of You At the first light of the morning And at night Your faithfulness review Before I close my eyes And sometimes in the dimming light I stumble on Your glory That overwhelming sudden fright But not the daunting kind It’s so hard to describe. 
+> 
+> — [*Fresh and Green*](https://www.youtube.com/watch?v=uKjVQ5VSaXc){target="_blank"} by Steve Bell.
+
+
+:::
+
+## Summary {.unnumbered}
+
+As you complete this unit, take a moment to reflect on what you have learned in this course. In this unit, you have explored your personal beliefs as a facilitator, connected these beliefs to adult learning theory, practiced designing meaningful learning outcomes, and considered the practical responsibilities of adult education. By engaging with the reflective activity on community, authenticity, and relational learning, you can see how these pieces come together to shape authentic learning experiences. Carry forward the connections you have made here as you move toward your summative assignment, knowing that your Platform of Beliefs, grounded in values and relationships, will guide your growth as an intentional, reflective, and community-centered educator.
+
+In your role as an adult educator, you have the opportunity to change lives and cultivate growth of the mind and spirit. May the work you undertake grow within you a greatness of vision, stir your spirit so that you can see and love the common good more, and create an environment where all whom you serve can thrive.
+
+::: check
+
+Before you move on to the next unit, you may want to check to make sure that you are able to:
+
+- Describe your ideal adult learning environment.
+- Describe the supervisory and/or administrative aspects for which adult educators are accountable.
+- Create a platform of beliefs regarding adult learning for a specific context/organization.
+
+:::
+
+## References {.unnumbered}
+
+Brookfield, S. and Preskill, S. (2016). *The discussion book: 50 great ways to get people talking.* Jossey Bass.
+
+Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley.

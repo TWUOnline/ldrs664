@@ -26,15 +26,15 @@ book:
     - u8.qmd
     - u9.qmd
     - u10.qmd
+    - course_assessment.qmd
 #    - assignment1.qmd
 #    - assignment2.qmd
 #    - assignment3.qmd
-#    - course_assessment.qmd
 #    - cheatsheet.qmd
 
 
 # Note: If you do not have any Zotero references, you should disable the 'references.qmd' file or else it will cause an error when rendering.    
-    - references.qmd
+#    - references.qmd
 
 # References
 bibliography: https://twuonline.github.io/course-materials/quarto/references.bib

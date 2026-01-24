@@ -1,0 +1,349 @@
+# Course Assessment {.unnumbered}
+
+Assessment in this course is designed to support your growth and highlight your learning journey. Learning is a process, and assignments provide valuable opportunities to demonstrate what you have learned and how your skills have developed. Through thoughtful engagement with these tasks, you will gather evidence of your progress and showcase your understanding of the course material.
+
+In the next section, you will find the assignment dropboxes for submitting your work. Be sure to read the instructions carefully in both your syllabus and this section. Additionally, review the grading rubrics provided for each assessment, as they outline clear expectations and offer insight into how your work will be evaluated.
+
++-----------------------------------------------------------------+--------------------------------------+-------------------------------------+
+| **Assignment**                                                  | **Assesses Course Learning Outcome** | **Recommended Due Date\***          |
++=================================================================+======================================+=====================================+
+| Assignment 1: Identity as a Teacher/Facilitator                 | 1, 2, 3                              | End of Unit 3                       |
++-----------------------------------------------------------------+--------------------------------------+-------------------------------------+
+| Assignment 2: Experiential Analysis of Training and Development | 1, 3, 4, 6                           | End of Unit 6                       |
++-----------------------------------------------------------------+--------------------------------------+-------------------------------------+
+| Assignment 3: Authentic Learning Experiences Design             | 1-6                                  | End of Unit 10                      |
++-----------------------------------------------------------------+--------------------------------------+-------------------------------------+
+| Discussions *(Ungraded, but required)*                          | 1-6                                  | End of Units 1, 2, 3, 4, 5, 7, 8, 9 |
++-----------------------------------------------------------------+--------------------------------------+-------------------------------------+
+
+For assignment instructions, grading rubrics, and assessment feedback procedures, see the Assessment Details and Dropboxes.
+
+## Assignment 1: Identity as a Teacher/Facilitator
+
+### Instruction {.unnumbered}
+
+Building on your learning in the first three units, for this assignment you will continue to reflect on your identity as a teacher/facilitator. You will then communicate that identity, in an audio presentation, written paper, or video.
+
+Make connections with the course readings by citing Brown (2017) and Palmer (2017) texts and build on pervious learning activities (particularly the reflective discussion activity in Unit 1). You are welcome to refer to other resources from your graduate coursework.
+
+You have the choice to complete this assignment in one (1) of three (3) formats:
+
+-   **Audio presentation:** 4–5-minute audio presentation (with a written transcript and reference list)
+-   **Written paper:** 3-4 pages, double spaced (with a cover page and reference list)
+-   **Video:** 4–5-minute video (with a written transcript and reference list)
+
+You should include the following:
+
+1.  Introduction
+2.  Statement of your identity as a teacher/facilitator (1 page, 250-300 words). You may wish to present this as a list, such as "I am a teacher who..." or "As a facilitator, I am..."
+3.  A discussion of three (3) important aspects of your identity
+4.  Conclusion: Include a discussion of how you will use your identity to create authentic spaces for learning in the courses you facilitate or teach.
+
+### Grading Rubric {.unnumbered}
+
++--------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| **Course Learning Outcomes** *(I can...)*                                                                    | **Proficiency Criteria** *(This means I can…)*                                                                 |
++==============================================================================================================+================================================================================================================+
+| LO 1: Interpret the influence of teacher authenticity on student learning.                                   | Explain how I will use identity to create authentic spaces for learning.                                       |
++--------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| LO 2: Develop a personal philosophy of their role as facilitator in creating authentic learning communities. | Clearly state key elements of my identity as a teacher/facilitator.                                            |
++--------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| LO 3: Create a platform of beliefs regarding adult learning for a specific organization.                     | Elaborate on at least three aspects of teacher/facilitator identity, preparing to write a platform of beliefs. |
++--------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+
+## Assignment 2: Experiential Analysis of Training & Development
+
+In this assignment, you will critically analyze real-world training or professional development experience. You will evaluate how the learning experience facilitates authentic learning and connects learners with each other and the instructors. You will also reflect on belonging, authenticity, facilitator strategies, and your own values as they connect to professional learning.
+
+### Instruction {.unnumbered}
+
+1.  **Select a training or development experience.** Choose a training that is accessible and relevant. Options include:
+
+-   a short online course or module (e.g., LinkedIn Learning, Coursera, professional association training)
+-   a live webinar, workshop, or faculty development session
+-   a workplace training program (e.g., compliance training, onboarding, skills development)
+-   a recorded training (e.g., video, podcast, open educational resource)
+
+1.  **Engage with the training.** Complete the training, paying attention to the learning design, facilitation, and organizational culture it represents.
+   
+2.  **Submit evidence of completion.** Provide documentation showing your engagement with the training. Acceptable forms include:
+
+    -   a LinkedIn Learning or Coursera badge/certificate
+    -   a screenshot of a "completed" status page
+    -   a certificate of participation
+    -   a copy of the agenda or slides with a brief note on your attendance
+    -   for workplace-required trainings, a screenshot or note from your HR/training portal
+
+3.  **Write a 4–6-page APA-formatted paper** in which you:
+
+    -   Describe the training format and access (live, asynchronous, badge-based, webinar, workshop) and how it shaped opportunities for belonging and connection.
+    -   Analyze how the training fostered (or failed to foster) a sense of community and belonging with the instructors and/or other participants.
+    -   Interpret the influence of facilitator authenticity and use of discussion strategies or provocative questions for depth.
+    -   Evaluate strategies that supported connections among participants and with the facilitator, either in real-time or asynchronously.
+    -   Analyze how the training reflects organizational culture and impacts employee/faculty development.
+    -   Articulate your own "web of relationships" that influenced how you interpreted the training and explain how your values shaped your perspective.
+    -   Assess the overall effectiveness of the training in supporting authentic professional growth and development.
+
+4.  **Use evidence**
+
+    -   Incorporate at least five scholarly sources from the course or other research to support your analysis.
+
+5.  **Submit the following:**
+
+    -   A 4–6-page APA-formatted paper (with a title page and reference list)
+    -   Evidence of training completion (e.g., badge, certificate, screenshot, agenda, other documentation)
+
+### Grading Rubric {.unnumbered}
+
++------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Course Learning Outcomes** *(I can...)*                                                | **Proficiency Criteria** *(This means I can…)*                                                                                                                                                                                                              |
++==========================================================================================+=============================================================================================================================================================================================================================================================+
+| LO 1: Interpret the influence of teacher authenticity on student learning.               | Provide nuanced interpretation of how facilitator authenticity shaped participant engagement and learning; support claims with examples from the training and scholarly sources. Clear, reasoned analysis of authenticity’s influence on learning outcomes. |
++------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| LO 3: Create a platform of beliefs regarding adult learning for a specific organization. | Thoroughly analyze adult training and development course, considering how values shaped analysis.                                                                                                                                                           |
++------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| LO 4: Evaluate strategies for developing learning connections with and between students. | Insightfully evaluate specific strategies used in the training to foster connections among participants; provide examples and evidence of effectiveness. Support analysis with scholarly literature.                                                        |
++------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| LO 6: Analyze the effectiveness of training and employee development.                    | Provide a comprehensive evaluation of the training’s overall effectiveness; integrate evidence, examples, and scholarly support; identify strengths and areas for improvement.                                                                              |
++------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+## Assignment 3: Authentic Learning Experience Design
+
+In this assignment, you have the opportunity to integrate your personal platform of beliefs, adult learning theory, facilitator authenticity, and culturally responsive practices into the design of a learning experience for adult learners. You will demonstrate your ability to interpret theory, apply strategies, and critically reflect on how authentic learning communities can be created in real-world contexts.
+
+### Instruction {.unnumbered}
+
+You will design an authentic learning experience for adult learners (real or hypothetical) within an organizational setting. The design will be grounded in your personal beliefs about teaching and leadership, informed by adult learning theory, and shaped by strategies for building authentic learning communities.
+
+Your submission will include four components:
+
+**1. Reflective Introduction (2–3 pages)**
+
+Present your platform of beliefs. This will include 4 5 beliefs you have regarding teaching and facilitating adult learners. Your platform can be presented in a paper format, as a concept map, a short video reflection, or in a set of visual images and annotations.
+
+-   Explain how your authenticity as a facilitator can deepen the learning experiences of your students.
+-   Explain how your beliefs relate to adult learning theory, culturally responsive teaching practices, and Indigenous ways of knowing
+
+**2. Learning Experience Design (5–7 pages)**
+
+Develop a detailed design for a learning experience in an organizational context.
+
+Include:
+
+-   2-3 learning outcomes for the learning experience you are designing. Explain how these learning outcomes align with your platform of beliefs and organizational needs.
+-   A detailed description of the learning experience, including the various learning activities you will include (conversation, video, discussion about a reading. Etc.)
+-   A detailed description of how you will facilitate the learning, including:
+    -   one (1) specific teaching/facilitation strategy you will use to foster an authentic learning community, providing a rationale
+    -   one (1) specific teaching/facilitation strategy you will use that reflects adult learning principles, providing a rationale
+    -   one (1) specific teaching/facilitation strategy you will use that reflects Indigenous ways of knowing, providing a rationale
+-   A detailed description of how you will measure learner engagement and the effectiveness of the learning experience.
+
+**3. Learning Design Map (Visual Artifact)**
+
+Create a visual representation of the process you went through to develop your platform of beliefs and design the learning experience. Through this artifact, we want to be able to see your thought process, including how you determined the beliefs that matter most to you about adult teaching and learning.
+
+The learning artifact should illustrate:
+
+-   How you identified what to include in your platform of beliefs, including the resources used.
+-   The process you engaged in to design the adult learning experience, including the resources used.
+-   The artifact can be submitted in any format you choose. Examples include a concept map, annotated diagram, infographic, or storyboard. You could make a video diary of the process, take photos of yourself at your desk thinking about your beliefs, or include a link to a LinkedIn post you wrote about the process. You can be creative here, but the goal is to make your
+
+your thinking visible. Be sure to clearly show how you developed your platform of beliefs and how those beliefs and the theories and strategies you learned about in this course shaped your design of the learning experience. (Note: You can use AI tools to assist with visuals, but annotations and reflections must be authored by you.)
+
+**4. Critical Reflection (2–3 pages)**
+
+-   Analyze how the learning experience you designed demonstrates achievement of the learning outcomes for this course. (Refer to the Course Overview to refresh yourself on the course learning outcomes).
+-   Reflect on how your platform of beliefs will influence your future teaching and facilitation of adult learners.
+-   Identify areas in which you hope to continue to grow and learn as a teacher/facilitator, so you can create and facilitate authentic learning communities.
+
+**Guidelines for the use of AI in this assignment**
+
+-   You may use AI tools for brainstorming, drafting, or creating visuals.
+-   All AI-assisted work must be clearly annotated or acknowledged.
+-   The platform of beliefs, learning experience, and critical reflection must be authored by you. The value of this assignment lies in your human insight and application of course concepts.
+
+### Grading Rubric {.unnumbered}
+
++--------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Course Learning Outcomes** *(I can...)*                                                                    | **Proficiency Criteria** *(This means I can…)*                                                                                                                |
++==============================================================================================================+===============================================================================================================================================================+
+| LO 1: Interpret the influence of teacher authenticity on student learning.                                   | Explain how your authenticity as a facilitator can deepen the learning experiences of your students (Reflective introduction).                                |
++--------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| LO 2: Develop a personal philosophy of their role as facilitator in creating authentic learning communities. | Present a platform of beliefs (4–5 beliefs) that reflect your philosophy of teaching and facilitation of adult learners (Reflective introduction).            |
++--------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| LO 3: Create a platform of beliefs regarding adult learning for a specific organization.                     | Align the learning outcomes of your designed experience with your platform of beliefs and organizational needs (Learning experience design).                  |
++--------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| LO 4: Evaluate strategies for developing learning connections with and between students.                     | Identify and justify at least one strategy for fostering authentic learning communities (Learning experience design).                                         |
++--------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| LO 5: Apply strategies for creating authentic learning communities that include indigenous ways of knowing.  | Integrate at least one adult learning strategy and one Indigenous-informed strategy into your designed learning experience (Learning experience design).      |
++--------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| LO 6: Analyze the effectiveness of training and employee development.                                        | Propose methods for measuring learner engagement and effectiveness of your designed learning experience (Learning experience design and critical reflection). |
++--------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+## Discussions {.unnumbered}
+
+### Unit 1 Discussion {.unnumbered}
+
+#### Activity: Reflective Discussion {.unnumbered}
+
+::: {.learning-activity time="75"}
+
+After completing this unit, including the learning activities, you will write in your Reflective Journal. This activity will prepare you for future activities in this course, including your final assignment. Use the following to guide your reflection and writing:
+
+**Part 1:** Incorporating the readings in Unit 1, write a 150-250-word discussion post that addresses the following:
+
+-   List and describe three values you hold related to teaching and learning.
+-   Write a personal statement about your identity as a teacher, coach, or facilitator.
+
+**Part 2:** For the second part of your discussion, write a 150-250 response to the following:
+
+-   Consider the key elements of authentic learning spaces, outlined by Palmer (2017) in Chapter 3. Select two of these elements that you consider to be important.
+-   Introduce the element and discuss some practical steps you could take to create an authentic learning space.
+
+Be sure to cite Palmer (2017) and other authors in your journal to demonstrate ways in which your thinking aligns with, contrasts with, or builds on the writing of the authors.
+
+*Note:* This activity serves as the discussion prompt for this unit. Share your response and connect with others in the Learning Community to deepen your understanding.
+
+:::
+
+### Unit 2 Discussion {.unnumbered}
+
+#### Activity: Who Are You? {.unnumbered}
+
+::: {.learning-activity time="45"}
+
+For this activity, you are asked to share a little more about yourself with your learning community. First, find a quote about either identity or integrity. For example, you may want to perform a Google image search for "identity quote." Find one that resonates with you and then include a picture of something that tells us something about you. Post the quote and your image to the learning community or your preferred social network service with a 1-2 sentence explanation.
+
+*Note:* This activity serves as the discussion prompt for this unit. Share your response and connect with others in the Learning Community to deepen your understanding.
+
+:::
+
+### Unit 3 Discussion {.unnumbered}
+
+#### Activity: Belonging Learning Activity {.unnumbered}
+
+::: {.learning-activity time="60"}
+
+Based on the learning activities in this unit, create a learning activity you would use in a course that incorporates elements of belonging, discussed in the course readings and your blog posts. Include the learning outcome for the activity, the learning activity, and a discussion of how the different elements of the learning activity would serve to support a sense of belonging for students.
+
+*Note:* This activity serves as the discussion prompt for this unit. Share your response and connect with others in the Learning Community to deepen your understanding.
+
+:::
+
+### Unit 4 Discussion {.unnumbered}
+
+#### Activity: Reflection & Discussion {.unnumbered}
+
+::: {.learning-activity time="60"}
+
+After completing this unit, including the learning activities, you will write a 250-word reflective notes on the following:
+
+-   Provide a brief description of each of the three models (with citations as appropriate).
+-   Select the learning community model that most closely aligns with your identity and values as a teacher/facilitator. Describe the strengths you see in this model, explaining why it resonates with your concepts of teaching and learning.
+
+*Note: This activity serves as the discussion prompt for this unit. Share your response and connect with others in the Learning Community to deepen your understanding.*
+
+:::
+
+### Unit 5 Discussion
+
+#### Activity: Appreciative Interview {.unnumbered}
+
+::: {.learning-activity time="120"}
+
+In this discussion, you will interview a friend or colleague. Select someone who is also a coach, teacher or facilitator—or select another student. You may also choose to complete this interview with a group. By conducting an appreciative interview, you will explore strategies for creating inclusive, collaborative learning communities.
+
+**Part 1**
+
+Read the article, "[Appreciative Interviews (AI)"](https://www.liberatingstructures.com/5-appreciative-interviews-ai/){target="_blank"} (Liberating Structures, n.d.). As you read, you will see that these instructions are developed for groups. However, if you are conducting your interview with an individual, you may still find these instructions helpful.
+
+Next, read "[119+ Appreciative Inquiry Interview Questions and Examples"](https://positivepsychology.com/appreciative-inquiry-questions/){target="_blank"} (Moore, 2019).
+
+First, develop a minimum of five questions to guide the interview process. The questions should be developed based on your course learning to date, and should integrate the articles, TED talks, short films, and other resources we have reviewed together. Building on your learning, develop at least five questions that you will ask another learner, to answer the guiding questions of this unit:
+
+-   What strategies invite students to engage in collaborative learning?
+-   What strategies can you use in online learning environments to support connections between students?
+
+**Part 2**
+
+Then, contact your friend or colleague and schedule a time to meet, preferably face-to-face, or through zoom, skype, some other form of video conferencing, or by phone.
+
+**Part 3**
+
+After you have completed the interview, prepare a 250-word reflection on what you have learned from the interview, identifying at least three strategies you can use to engage students in collaborative learning as well as strategies you can use to support connections between students in online learning environments. Be sure to reference the other learner for her/his original ideas.
+
+*Note:* This activity serves as the discussion prompt for this unit. Share your response and connect with others in the Learning Community to deepen your understanding.
+
+:::
+
+### Unit 7 Discussion {.unnumbered}
+
+#### Activity: Servant Leadership Video {.unnumbered}
+
+::: {.learning-activity time="30"}
+
+Watch ["Servant Leadership: How a jar can change the way you lead and serve"](https://www.youtube.com/watch?v=1vIPrR_clEg){target="_blank"} (TEDx Talks, 2017). As you watch the video, consider: How might assumption and perceptions impact your role as an adult educator? How are adult educators servant leaders?
+
+**Questions to Consider**
+
+-   How are you going to live out the seven concepts of intentional practice Frett outlines? List each of the concepts and how you could live each one.
+-   Reference the Silberman and Brookfield texts and find one strategy to apply to each of the seven concepts. List each concept of intentional practice and your chosen strategy beside it, include a brief description of the strategy.
+-   In a general manner, explain how to use the strategies with intentionality to be a servant leader in the adult learning environment.
+
+*Note:* This activity serves as the discussion prompt for this unit. Share your response and connect with others in the Learning Community to deepen your understanding.
+
+:::
+
+### Unit 8 Discussion {.unnumbered}
+
+#### Activity: Interconnectedness and Relationship Networks {.unnumbered}
+
+::: {.learning-activity time="150"}
+
+Read Chapter 6, "Interconnectedness," in *Who Do We Choose to Be: Facing Reality, Claiming Leadership, Restoring Sanity* ([Wheatley, 2017](https://research-ebsco-com.twu.idm.oclc.org/plink/dc30dc3c-d319-3080-8c49-3dc07941a845){target="_blank"}).
+
+As you read this chapter, think about Archbishop Desmond Tutu’s comment: "We exist in a bundle of life. We say, ‘A person is a person through other people.’ It is not ‘I think therefore I am’ [but rather] I am human because I belong. I participate, I share" (as cited in Wheatley, 2017, p. 223).
+
+Based on the reading, reflect on the following questions:
+
+-   Who has influenced you to become the person you are? Who do you depend on as ground and support for your life?
+-   Demonstrate your network of relationships and annotate with the key values or wisdom you have learned from each person.
+-   Because of the influence of these individuals on your values, choose two strategies from Brookfield or Silberman and show how they align with these values. (Choose strategies not previously described in your response.)
+
+Create a concept map to show your networks of relationships using tools such as [bubbl.us](https://bubbl.us/){target="_blank"} or [popplet.com](http://popplet.com/){target="_blank"}, or on paper, take a picture and include it in your post. Reflect on how this relates to your teaching/facilitating work.
+
+*Note:* This activity serves as the discussion prompt for this unit. Share your response and connect with others in the Learning Community to deepen your understanding.
+
+:::
+
+### Unit 9 Discussion {.unnumbered}
+
+#### Activity: Reflection and Discussion {.unnumbered}
+
+::: {.learning-activity time="75"}
+
+As we finish this unit, let’s pause and turn inward. Self-awareness and intellectual humility are not only ideas to think about — they are also practices we can feel and live in our bodies.
+
+**Personal Reflection (choose one):** Take 10–15 minutes to engage in a quiet activity that helps you center yourself. You might:
+
+-   Take a short walk outdoors, noticing what comes into awareness with each step.
+-   Brew a cup of tea or coffee, paying attention to the ritual of preparing and savoring it.
+-   Sit quietly and take three deep breaths, noticing the rhythm of your body.
+-   Sketch or doodle freely for a few minutes, letting your hand move without judgment.
+
+As you engage in this reflective experience, hold in mind these questions:
+
+-   Who am I becoming as an educator?
+-   How can I hold both confidence and humility in this role?
+
+**Share your insight:** After your reflection, share the following in the learning community:
+
+-   one insight you discovered about yourself through the practice
+-   how that insight might influence the contribution you want to make as an adult educator
+-   a way you plan to nurture intellectual humility in your teaching or learning environment
+
+**Engage with others:** Read the reflections of your peers. Notice what resonates with you or expands your perspective. Respond to at least two (2) peers, practicing humility by naming what you learned from their insights or how their experience challenged or enriched your own.
+
+*Note:* This activity serves as the discussion prompt for this unit. Share your response and connect with others in the Learning Community to deepen your understanding.
+
+:::
