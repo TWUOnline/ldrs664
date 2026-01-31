@@ -2,7 +2,7 @@
 
 ## Overview {.unnumbered}
 
-As we began to explore in Unit 1, creating authentic learning communities begins with personal authenticity – with knowing oneself. Palmer (2017) argues that "good teaching comes from the identity and integrity of the teacher" (p. 13).
+As we began to explore in Unit 1, creating authentic learning communities begins with personal authenticity – with knowing oneself. Palmer [-@palmerCourageTeachExploring2017] argues that "good teaching comes from the identity and integrity of the teacher" (p. 13).
 
 In this unit, we will explore the importance of identity and integrity as engage in teaching, coaching or facilitation. We will consider our own sense of identity in these roles, and what it means to belong to oneself.
 
@@ -33,13 +33,13 @@ Here is a list of learning activities that will benefit you in completing this u
 ::: {.learning-activity}
 
 - Search for a quote about identity that reflects something about you and share it with your learning community along with a brief explanation.
-- Read Chapter 1, "Everywhere and Nowhere" in *Braving the Wilderness* (Brown, 2017). Then, watch video resources on identity, integrity, and belonging.
+- Read Chapter 1, "Everywhere and Nowhere" in *Braving the Wilderness* [@brownBravingWildernessQuest2017]. Then, watch video resources on identity, integrity, and belonging.
 - Watch TED Talk *The Power of Vulnerability* by Brené Brown and consider reflective questions.
-- Read Chapter 2, "The Quest for True Belonging," in *Braving the Wilderness* (Brown, 2017) and respond to the questions in your Reflective Journal.
+- Read Chapter 2, "The Quest for True Belonging," in *Braving the Wilderness* [@brownBravingWildernessQuest2017] and respond to the questions in your Reflective Journal.
 - Write a reflective journal entry about a time when you felt you were your "true self".
 - Watch the music videos and consider your own experiences of bravery and courage in expressing yourself authentically.
 - Take the "Clance Imposter Phenomenon Test".
-- Read "Can You See the Real Me" (Gardner et al., 2005) and respond to the reflection questions.
+- Read "Can You See the Real Me" [@gardnerCanYouSee2005] and respond to the reflection questions.
 - Review the "Liberating Structures" and consider the questions provided.
 
 *Note:* Working through learning activities will help you to meet the learning outcomes and successfully complete your assessments.
@@ -53,8 +53,8 @@ See the Assessment section in Moodle for assignment details.
 
 Here are the resources you will need to complete this unit.
 
-- Brown, B. (2017). *Braving the wilderness: The quest for true belonging and the courage to stand alone.* Random House.
-- Palmer, P. J. (2017). *The courage to teach: Exploring the inner landscape of a teacher's life*. Jossey-Bass.
+- Brown, B. [@brownBravingWildernessQuest2017]. *Braving the wilderness: The quest for true belonging and the courage to stand alone.* Random House.
+- Palmer, P. J. [@palmerCourageTeachExploring2017]. *The courage to teach: Exploring the inner landscape of a teacher's life*. Jossey-Bass.
 - Other online resources will be provided in the unit.
 
 ## Belonging to Myself
@@ -63,19 +63,19 @@ To create authentic, safe learning spaces for others, we must first be comfortab
 
 **Identity and Integrity**
 
-*Identity:* Knowing ourselves as teachers means that we must explore what Palmer (2017) calls the "inner landscape." We must be aware of the character traits, personal experiences, values, beliefs, and cultural environment in which we were raised and now live. We must be aware of our personal values, our strengths, and our weaknesses. These elements are part of our identity – and we bring our identity with us into the classroom and learning spaces in which we coach and teach others (Palmer, 2017).
+*Identity:* Knowing ourselves as teachers means that we must explore what Palmer [@palmerCourageTeachExploring2017] calls the "inner landscape." We must be aware of the character traits, personal experiences, values, beliefs, and cultural environment in which we were raised and now live. We must be aware of our personal values, our strengths, and our weaknesses. These elements are part of our identity – and we bring our identity with us into the classroom and learning spaces in which we coach and teach others [@palmerCourageTeachExploring2017].
 
-*Integrity:* So, too, our integrity comes with us into the learning spaces in which we teach. Integrity, from Palmer’s (2017) discussion, is not just about ethics, but about an integrated sense of self – a self that is whole, integrating life experiences and values and beliefs in a meaningful, authentic way. When we live, teach, coach, and facilitate in a manner that aligns with our personal values and beliefs, we do so with integrity.
+*Integrity:* So, too, our integrity comes with us into the learning spaces in which we teach. Integrity, from Palmer’s [-@palmerCourageTeachExploring2017] discussion, is not just about ethics, but about an integrated sense of self – a self that is whole, integrating life experiences and values and beliefs in a meaningful, authentic way. When we live, teach, coach, and facilitate in a manner that aligns with our personal values and beliefs, we do so with integrity.
 
 Whether we are aware of it or not, our integrity and identity are part of who we are as teachers, leaders, or facilitators. It is on this foundation that we build connections with students and can invite them into spaces where personal transformation and authentic learning will take place.
 
 **Authenticity**
 
-*Authenticity* is also an essential ingredient for effective teaching and leadership. Authentic leadership includes elements of both self-knowledge and identity, as well as collaboration with others within the context of relationship (Northouse, 2022). Avolio et al. (2008) provide a model of authentic leadership that includes "self-awareness, internalized moral perspective, balanced processing, and relational transparency" (as cited in Northouse, 2022, p. 198).
+*Authenticity* is also an essential ingredient for effective teaching and leadership. Authentic leadership includes elements of both self-knowledge and identity, as well as collaboration with others within the context of relationship [@northouseLeadershipTheoryPractice2022]. Avolio et al. (2008) provide a model of authentic leadership that includes "self-awareness, internalized moral perspective, balanced processing, and relational transparency" (as cited in Northouse, 2022, p. 198).
 
 Northouse (2027) describes self-awareness as a "process in which individuals understand themselves, including their strengths and weaknesses, and the impact they have on others. Self-awareness includes reflecting on your core values, identity, emotions, motives, and goals, and coming to grips with who you really are at the deepest level" (p. 227).
 
-This self-awareness provides a solid foundation on which to lead. Further, the "internalized moral perspective refers to a self-regulatory process whereby individuals use their internal moral standards and values to guide their behavior rather than allow outside pressures to control them" (Northouse, 2022, p. 228).
+This self-awareness provides a solid foundation on which to lead. Further, the "internalized moral perspective refers to a self-regulatory process whereby individuals use their internal moral standards and values to guide their behavior rather than allow outside pressures to control them" [@northouseLeadershipTheoryPractice2022, p. 228].
 
 **Connecting Values and Identity with Purpose**
 
@@ -85,11 +85,11 @@ An essential question for adult educators to reflect on is: What is my purpose i
 
 Discovering and acting upon a purpose beyond oneself brings meaning to work and can motivate learners to find meaning also. This leads to a deeper commitment and sense of fulfillment. Having a greater purpose creates unity and fights fragmentation in the activities of life. The words of Jean Vanier are a call to action for all adult educators:
 
-> It is always good for individuals, communities and indeed nations, to remember that their present situation is a result of the thousands of gestures of love or hate that came before. This obliges us to remember that the community of tomorrow is being born of our fidelity to the present. We discover that we are at the same time very insignificant and very important because each of our actions is preparing the humanity of tomorrow; it is a tiny contribution to the huge and glorious final humanity. (Vanier, 1989, p.152)
+> It is always good for individuals, communities and indeed nations, to remember that their present situation is a result of the thousands of gestures of love or hate that came before. This obliges us to remember that the community of tomorrow is being born of our fidelity to the present. We discover that we are at the same time very insignificant and very important because each of our actions is preparing the humanity of tomorrow; it is a tiny contribution to the huge and glorious final humanity [@vanierCommunityGrowth1989, p. 152].
 
 Adult educators have a privileged position in the lives of their students that can be leveraged to help these students develop the skills, attitudes and dispositions they need to improve their lives and those of others. In this sense, an adult educator is a leader of self and a leader in the classroom. Who we are matters.
 
-Figuring out how our identity impacts the learning environment involves discerning our personal values through self-reflection. What makes us act and react the way we do? Through what screens do we view and respond to life? On what basis do we make decisions? Questions, like those in the following list (Atha et al., 2018, p. 26), can assist with the values and identity discernment process:
+Figuring out how our identity impacts the learning environment involves discerning our personal values through self-reflection. What makes us act and react the way we do? Through what screens do we view and respond to life? On what basis do we make decisions? Questions, like those in the following list [@athaLeadershipMAEducational2017, p. 26], can assist with the values and identity discernment process:
 
 - What is important to me?
 - What makes me feel fulfilled?
@@ -104,15 +104,15 @@ Figuring out how our identity impacts the learning environment involves discerni
 
 However, even when we know ourselves (e.g., our values, our identity, our purpose) and even when we long to be vulnerable and authentic within our roles as teachers or leaders, we are often challenged by our own desire to project competence and strength, thinking that vulnerability and strength are mutually exclusive. Despite our need for authentic leaders and teachers, many of us remain reluctant to share any level of vulnerability – perhaps even more so when we are in positions of influence, as teachers, coaches, or leaders. We often hesitate to share anything about ourselves, even though that sharing can lead to a deeper sense of community, even if it is a small thing.
 
-In her book, *Imposter Phenomenon: When Success Makes You Feel Like a Fake (*Clance, 1985), argues that many of us enter the arena of public engagement and career with concerns about whether we really belong. This fear often means we are afraid that being vulnerable or authentic will reveal to others that we do not truly "belong" in our roles.
+In her book, *Imposter Phenomenon: When Success Makes You Feel Like a Fake*, argues that many of us enter the arena of public engagement and career with concerns about whether we really belong. This fear often means we are afraid that being vulnerable or authentic will reveal to others that we do not truly "belong" in our roles [@clanceImpostorPhenomenonWhen1985].
 
-The first step to belonging, as seen in the work of Brown (2017) and Palmer (2017) is a sense of our own identity—including both our strengths and our areas of disconnection or discontent. Both these scholars urge us to understand our own humanity—to "learn to trust ourselves and trust others" (Brown, 2017, p. 37).
+The first step to belonging, as seen in the work of Brown [-@brownBravingWildernessQuest2017] and Palmer [-@palmerCourageTeachExploring2017] is a sense of our own identity—including both our strengths and our areas of disconnection or discontent. Both these scholars urge us to understand our own humanity—to "learn to trust ourselves and trust others" [@brownBravingWildernessQuest2017, p. 37].
 
 As poet [Maya Angelou](http://billmoyers.com/content/conversation-maya-angelou/){target="_blank"} discusses, belonging to one’s self is an ongoing journey, a journey that is not always easy.
 
 > "You only are free when you realize you belong no place—you belong every place... I belong to myself." – Maya Angelou, 1973
 
-What Angelou (1973) so powerfully portrays is that to feel like we belong to others, or in other spaces, we must first have a sense of who we are. We must first belong to ourselves.
+What Angelou [-@angelouConversationMayaAngelou1973] so powerfully portrays is that to feel like we belong to others, or in other spaces, we must first have a sense of who we are. We must first belong to ourselves.
 
 ### Activity: Who Are You?
 
@@ -131,7 +131,7 @@ For this activity, you are asked to share a little more about yourself with your
 View the following resources and reflect on your learning:
 
 - Read Chapter 1, "Everywhere and Nowhere," in *Braving the Wilderness* (Brown, 2017).
-- Watch ["The House of Belonging" (00:50)](https://www.youtube.com/watch?v=PjrVTPjRryY){target="_blank"} (Whyte, D., 2024).
+- Watch ["The House of Belonging" (00:50)](https://www.youtube.com/watch?v=PjrVTPjRryY){target="_blank"} [@whyteHouseBelonging2024].
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/PjrVTPjRryY >}}
@@ -143,7 +143,7 @@ Bleep bloop: The above video was auto embedded. If it was just a link, I added a
 
 :::
 
-- Watch ["A Conversation with Maya Angelous" (6:59)](https://billmoyers.com/content/conversation-maya-angelou/){target="_blank"} (Maya Angelou, 1973).
+- Watch ["A Conversation with Maya Angelous" (6:59)](https://billmoyers.com/content/conversation-maya-angelou/){target="_blank"} [@angelouConversationMayaAngelou1973].
 
 :::
 
@@ -152,11 +152,11 @@ Bleep bloop: The above video was auto embedded. If it was just a link, I added a
 
 Learning to be vulnerable enough to share our authentic selves can be challenging—and knowing how much to be vulnerable, and when, also poses a challenge, both in teaching and leadership. Students also wrestle with similar questions—How much of myself should I share in this class? This paper? This learning community? Is this a safe space to express my own feelings of vulnerability?
 
-**Authenticity is built on trust**—spaces in which you are comfortable enough to share your true self your identity. Brown (2017) argues that "self-trust" provides a foundation for belonging.
+**Authenticity is built on trust**—spaces in which you are comfortable enough to share your true self your identity. Brown [-@brownBravingWildernessQuest2017] argues that "self-trust" provides a foundation for belonging.
 
 > Authenticity involves both owning one’s personal experiences (values, thoughts, emotions and beliefs) and acting in accordance with one’s true self (expressing what you really think and believe and behaving accordingly) (Harter, 2002, as cited in Gardner et al., 2005, pp. 344-345).
 
-Gardner et al. (2005) argue that authentic leadership is demonstrated when "relationships are characterized by: (a) transparency, openness, and trust, (b) guidance toward worthy objectives, and (c) an emphasis on follower development" (p. 345).
+Gardner et al. [-@gardnerCanYouSee2005] argue that authentic leadership is demonstrated when "relationships are characterized by: (a) transparency, openness, and trust, (b) guidance toward worthy objectives, and (c) an emphasis on follower development" (p. 345).
 
 If effective relationships include these characteristics, then authentic teachers and leaders must consider what it means to be transparent and open, as well as what it means to extend trust.
 
@@ -164,7 +164,7 @@ If effective relationships include these characteristics, then authentic teacher
 
 ::: {.learning-activity time="50"}
 
-Watch the TED Talk, ["The Power of Vulnerability" (20:50)](https://www.youtube.com/watch?v=iCvmsMzlF7o){target="_blank"} (TED, 2011) by Brené Brown.
+Watch the TED Talk, ["The Power of Vulnerability" (20:50)](https://www.youtube.com/watch?v=iCvmsMzlF7o){target="_blank"} by Brené Brown [-@brownPowerVulnerability2011].
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/iCvmsMzlF7o >}}
@@ -184,11 +184,11 @@ Watch the TED Talk, ["The Power of Vulnerability" (20:50)](https://www.youtube.c
 
 ::: {.learning-activity time="60"}
 
-Brown (2017) argues that authenticity is essential to belonging.
+Brown [-@brownBravingWildernessQuest2017] argues that authenticity is essential to belonging.
 
-> "You will always belong anywhere you show up as yourself and talk about yourself and your work in a real way" (Brown, 2017, p. 26).
+> "You will always belong anywhere you show up as yourself and talk about yourself and your work in a real way" [@brownBravingWildernessQuest2017, p. 26].
 
-Read Brown (2017) Chapter 2 and answer the following questions in your reflective journal:
+Read Brown [-@brownBravingWildernessQuest2017] Chapter 2 and answer the following questions in your reflective journal:
 
 - Write a summary sentence for each major idea or concept that relates to belonging.
 - Choose the concept that you would like to apply in your own learning communities, as a student and teacher/facilitator.
@@ -213,7 +213,7 @@ In our role as teachers, leaders, or facilitators, we are asked to connect stude
 
 > "Good teachers join self and subject and students in the fabric of life" (Palmer, 1998, p. 11)
 
-Leadership, like teaching, relies not just on the relationships that teachers or leaders form with learners, but also on the identity of the teacher or facilitators. "Authentic leaders understand their own values and behave toward others based on these values" (Northouse, 2019, p. 201).
+Leadership, like teaching, relies not just on the relationships that teachers or leaders form with learners, but also on the identity of the teacher or facilitators. "Authentic leaders understand their own values and behave toward others based on these values" [@northouseLeadershipTheoryPractice2019, p. 201].
 
 These relationships will form the basis for learning in the classroom or learning space. Learning is, at its heart, a personal activity. Learners often experience vulnerability as they enter and continue through the learning experience, wondering if they belong, if they are up to the challenge, and if they will succeed.
 

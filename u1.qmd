@@ -4,7 +4,7 @@
 
 As humans, we long for authenticity in our relationships. We want to feel "at home" in the organizations that we are part of—our families, schools, communities, places of worship. We seek connection. We search for a place where we are known.
 
-This sense of being "at home" is essential to our experience as learners. Deep, authentic learning happens in spaces where we feel connected with others—places and spaces where we are known. Palmer (2017) refers to this as the "spiritual quest for connectedness" (p. 5).
+This sense of being "at home" is essential to our experience as learners. Deep, authentic learning happens in spaces where we feel connected with others—places and spaces where we are known. Palmer [-@palmerCourageTeachExploring2017] refers to this as the "spiritual quest for connectedness" (p. 5).
 
 In this course, we will explore together the theoretical foundations of learning communities, evaluating key elements essential to creating authentic learning communities, where learners are known and learning is authentic. Our hope is that, in this course, together we will expand our expertise in creating authentic learning communities, where all learners know they belong—and where all members of the learning community engage in deep learning.
 
@@ -38,9 +38,9 @@ Here is a list of learning activities that will benefit you in completing this u
 
 ::: {.learning-activity}
 
-- Read Chapter 1, "The Heart of a Teacher: Identity and Integrity in Teaching," in *The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life* (Palmer, 2017) and write your reflective journal entry.
+- Read Chapter 1, "The Heart of a Teacher: Identity and Integrity in Teaching," in *The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life* [@palmerCourageTeachExploring2017] and write your reflective journal entry.
 - Complete the value sort activity to discover what is truly important to you and others.
-- Rank the strategies listed for creating an authentic learning space that is hospitable and open. Then, read Herrington and Oliver (2000) and Oliver et al. (2007) to deepen your understanding.
+- Rank the strategies listed for creating an authentic learning space that is hospitable and open. Then, read Herrington and Oliver [-@herringtonInstructionalDesignFramework2000] and Oliver et al. [-@oliverRepresentingAuthenticLearning2007] to deepen your understanding.
 - Write your learning journal entries based on the reflective prompts provided.
 
 *Note:* Working through learning activities will help you to meet the learning outcomes and successfully complete your assessments.
@@ -54,7 +54,7 @@ See the Assessment section in Moodle for assignment details.
 
 Here are the resources you will need to complete this unit.
 
-- Palmer, P. J. (2017). *The courage to teach: Exploring the inner landscape of a teacher's life*. Jossey-Bass.
+- Palmer, P. J. [-@palmerCourageTeachExploring2017]. *The courage to teach: Exploring the inner landscape of a teacher's life*. Jossey-Bass.
 - Other online resources will be provided in the unit.
 
 *Note:* The e-book of this book title may be available through the [TWU library](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1571339&site=eds-live&scope=site){target="_blank"}.
@@ -65,7 +65,7 @@ For this course, you will keep a reflective journal which can be useful as a lea
 
 If you would like to set up an online space for reflective journaling, platforms such as OneNote, Google Site, and WordPress are good options to consider. If you choose WordPress, you can create a site using your TWU student account.
 
-- [WordPress - Creating a Site](https://servicehub.twu.ca/TDClient/1904/Portal/KB/ArticleDet?ID=161499){target="_blank"} (TWU Service Hub, n.d.)
+- [WordPress - Creating a Site](https://servicehub.twu.ca/TDClient/1904/Portal/KB/ArticleDet?ID=161499){target="_blank"} [@twuservicehubWordPressCreatingSite]
 
 ### Activity: Starting with Purpose
 
@@ -92,18 +92,18 @@ Authentic Learners and Authentic Teachers Model
 :::
 
 ::: text-source
-*Source:* From *Authentic learners and authentic teachers model* (Penfold Navarro, C., 2018)
+*Source:* From *Authentic learners and authentic teachers model* [@penfoldnavarroAuthenticLearnersAuthentic2018]
 :::
 
-In his book, *The Courage to Teach: Exploring the Inner Landscape of a Teacher’s Life*, Parker Palmer (2017) argues that the "inner landscape of teaching" is an essential foundation out of which authentic learning experiences emerge.
+In his book, *The Courage to Teach: Exploring the Inner Landscape of a Teacher’s Life*, Parker Palmer [-@palmerCourageTeachExploring2017] argues that the "inner landscape of teaching" is an essential foundation out of which authentic learning experiences emerge.
 
-> Teachers possess the power to create conditions that can help students learn a great deal – or keep them from learning much at all. Teaching is the intentional act of creating those conditions, and good teaching requires that we understand the inner sources of both the intent and the act. (Palmer, 2017, p. 7)
+> Teachers possess the power to create conditions that can help students learn a great deal – or keep them from learning much at all. Teaching is the intentional act of creating those conditions, and good teaching requires that we understand the inner sources of both the intent and the act. [@palmerCourageTeachExploring2017, p. 7]
 
 ### Activity: The Heart of a Teacher
 
 ::: {.learning-activity time="60"}
 
-As we explore the importance of the "inner life of the teacher" as a foundation for authentic learning, read Chapter 1, "The Heart of a Teacher: Identity and Integrity in Teaching," in *The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life* (Palmer, 2017).
+As we explore the importance of the "inner life of the teacher" as a foundation for authentic learning, read Chapter 1, "The Heart of a Teacher: Identity and Integrity in Teaching," in *The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life* [@palmerCourageTeachExploring2017].
 
 As you read, consider the following questions:
 
@@ -118,13 +118,13 @@ As you read, consider the following questions:
 
 Identity and integrity are foundational to good teaching, facilitation, and leadership. This means we must endeavour to know ourselves to create learning spaces that foster integrity in our students, clients, or team members, allowing them to authentically engage with each other, with us, and with the discipline we are studying.
 
-To have integrity, we must know our own values and strengths, our own beliefs about teaching and learning, and our own perspective on the work we are doing. "If the work we do lacks integrity for us, then we, the work, and the people we do it with will suffer" (Palmer, 2017, p. 16)
+To have integrity, we must know our own values and strengths, our own beliefs about teaching and learning, and our own perspective on the work we are doing. "If the work we do lacks integrity for us, then we, the work, and the people we do it with will suffer" [@palmerCourageTeachExploring2017, p. 16].
 
 ### Activity: Value Sort
 
 ::: {.learning-activity time="45"}
 
-As a teacher, coach, or facilitator, it is important to identify and reflect on your own values. Complete [this value sort activity](https://www.thegoodproject.org/value-sort){target="_blank"} (The Good Project, n.d.) to find out what is truly important to you and others.
+As a teacher, coach, or facilitator, it is important to identify and reflect on your own values. Complete [this value sort activity](https://www.thegoodproject.org/value-sort){target="_blank"} [@thegoodprojectValueSortActivity] to find out what is truly important to you and others.
 
 After the activity, take some time to answer the questions below in your reflective learning journal:
 
@@ -140,11 +140,11 @@ After the activity, take some time to answer the questions below in your reflect
 
 As we begin thinking about creating authentic learning spaces, consider a time when you have felt "at home" within a learning community, whether in formal education, your faith community, or your employment. What elements made that learning space feel like "home?"
 
-In the song, "[Home](https://www.youtube.com/watch?v=HoRkntoHkIE){target="_blank"}" (Phillip Phillips, 2012), Phillip Phillips sings about the universal need we share as humans to "belong." Take a moment now to listen to this song, considering what the lyrics say about what it means to belong.
+In the song, "[Home](https://www.youtube.com/watch?v=HoRkntoHkIE){target="_blank"}" [@phillipphillipsPhillipPhillipsHome2012], Phillip Phillips sings about the universal need we share as humans to "belong." Take a moment now to listen to this song, considering what the lyrics say about what it means to belong.
 
 > Just know you’re not alone, ’Cause I’m going to make this place your home. – Phillip Phillips
 
-[Watch: *Phillip Phillips - Home*](https://www.youtube.com/watch?v=HoRkntoHkIE){target="_blank"}
+[Watch: *Phillip Phillips - Home*](https://www.youtube.com/watch?v=HoRkntoHkIE){target="_blank"} [-@phillipphillipsPhillipPhillipsHome2012]
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/HoRkntoHkIE >}}
@@ -156,15 +156,16 @@ Bleep bloop: The above video was auto embedded. If it was just a link, I added a
 
 :::
 
-For students to authentically learn, we must create learning spaces that are safe, where students know and feel that they belong. Palmer (2017) refers to this need for belonging as the "spiritual quest for connectedness" (p.5).
+For students to authentically learn, we must create learning spaces that are safe, where students know and feel that they belong. Palmer [-@palmerCourageTeachExploring2017] refers to this need for belonging as the "spiritual quest for connectedness" (p.5).
 
 If a sense of belonging provides a foundation for learning, then in our role as teachers, facilitators, or coaches, we must endeavour to create spaces where students know and feel that they belong.
 
-> Good teachers possess a capacity for connectedness. They are able to weave a complex web of connections among themselves, their subjects, and their students so that students can learn to weave a world for themselves. (Palmer,2017, p. 11)
+> Good teachers possess a capacity for connectedness. They are able to weave a complex web of connections among themselves, their subjects, and their students so that students can learn to weave a world for themselves [@palmerCourageTeachExploring2017, p. 11].
+> Good teachers possess a capacity for connectedness. They are able to weave a complex web of connections among themselves, their subjects, and their students so that students can learn to weave a world for themselves [@palmerCourageTeachExploring2017, p. 11].
 
 But how is this done?
 
-In "To Know as We Are Known," Palmer (1993) suggests that learning spaces must include openness, boundaries, and an air of hospitality. These learning spaces, according to Palmer (1993) can be spaces "both to be and to become" (p. 71).
+In "To Know as We Are Known," Palmer [-@palmerKnowWeAre1993] suggests that learning spaces must include openness, boundaries, and an air of hospitality. These learning spaces, according to Palmer [-@palmerKnowWeAre1993] can be spaces "both to be and to become" (p. 71).
 
 ### Activity: Strategies for Creating an Authentic Learning Environment
 
@@ -181,10 +182,10 @@ Rank the following strategies according to your comfort level. For each strategy
 5. Providing information/theories that open doors
 6. Encouraging students to help each other learn
 
-Next, read the discussion of authentic learning environments in Herrington and Oliver (2000) and Oliver et al. (2007) and consider how the elements they discuss align with or differ from Palmer’s (2017) description of learning communities.
+Next, read the discussion of authentic learning environments in Herrington and Oliver [-@herringtonInstructionalDesignFramework2000] and Oliver et al. [-@oliverRepresentingAuthenticLearning2007] and consider how the elements they discuss align with or differ from Palmer’s [-@palmerCourageTeachExploring2017] description of learning communities.
 
-- Herrington, J. and Oliver, R. (2000). [An instructional design framework for authentic learning environments](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsjsr&AN=edsjsr.30220266&site=eds-live&scope=site){target="_blank"}.*Educational Technology Research and Development, 48*(3), 23–48. [https://research.ebsco.com/linkprocessor/plink?id=0b590818-9d5a-3ec3-9b67-01281ae9f03d](https://research.ebsco.com/linkprocessor/plink?id=0b590818-9d5a-3ec3-9b67-01281ae9f03d){target="_blank"}
-- Oliver R., Herrington, A. Herrington, J. & Reeves, T.C. (2007). [Representing authentic learning designs supporting the development of online communities of learners](https://eric.ed.gov/?q=EJ903906&id=EJ903906){target="_blank"}. *Journal of Learning Design, 2*(2)*, 1-21.*
+- Herrington, J. and Oliver, R. [-@herringtonInstructionalDesignFramework2000]. [An instructional design framework for authentic learning environments](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsjsr&AN=edsjsr.30220266&site=eds-live&scope=site){target="_blank"}.*Educational Technology Research and Development, 48*(3), 23–48. [https://research.ebsco.com/linkprocessor/plink?id=0b590818-9d5a-3ec3-9b67-01281ae9f03d](https://research.ebsco.com/linkprocessor/plink?id=0b590818-9d5a-3ec3-9b67-01281ae9f03d){target="_blank"}
+- Oliver R., Herrington, A. Herrington, J. & Reeves, T.C. [-@oliverRepresentingAuthenticLearning2007]. [Representing authentic learning designs supporting the development of online communities of learners](https://eric.ed.gov/?q=EJ903906&id=EJ903906){target="_blank"}. *Journal of Learning Design, 2*(2)*, 1-21.*
 
 **Questions to Consider**
 
@@ -208,10 +209,10 @@ After completing this unit, including the learning activities, you are asked to 
 
 **Part 2:** For the second part of your discussion, write a 150-250 response to the following:
 
-- Consider the key elements of authentic learning spaces, outlined by Palmer (2017) in Chapter 3. Select two of these elements that you consider to be important.
+- Consider the key elements of authentic learning spaces, outlined by Palmer [-@palmerCourageTeachExploring2017] in Chapter 3. Select two of these elements that you consider to be important.
 - Introduce the element and discuss some practical steps you could take to create an authentic learning space.
 
-Be sure to cite Palmer (2017) and other authors in your journal to demonstrate ways in which your thinking aligns with, contrasts with, or builds on the writing of the authors.
+Be sure to cite Palmer [-@palmerCourageTeachExploring2017] and other authors in your journal to demonstrate ways in which your thinking aligns with, contrasts with, or builds on the writing of the authors.
 
 *Note:* This activity serves as the discussion prompt for this unit. Share your response and connect with others in the Learning Community to deepen your understanding.
 

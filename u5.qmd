@@ -29,10 +29,10 @@ Here is a list of learning activities that will benefit you in completing this u
 
 ::: {.learning-activity}
 
-- Read Chapters 5–7 in *The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life* (Palmer, 2017) and respond to the reflective questions.
+- Read Chapters 5–7 in *The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life* [@palmerCourageTeachExploring2017] and respond to the reflective questions.
 - Review the resources on appreciative inquiry and write a discussion post in the learning community.
 - Conduct the appreciative interview based on the provided resources and share your reflections and insights with the learning community.
-- Watch "[Identity SHORT FILM (Award-Winning Inspirational Short)](https://www.youtube.com/watch?v=ikGVWEvUzNM){target="_blank"}" (5:18) (Kj Adames, 2012) and "[Brave](https://www.youtube.com/watch?v=QUQsqBqxoR4){target="_blank"}" (3:57) (Sara Bareilles, 2013), then read Chapter 6 in *Braving the Wilderness* (Brown, 2017). Afterwards, reflect on your own experience as a learner.
+- Watch "[Identity SHORT FILM (Award-Winning Inspirational Short)](https://www.youtube.com/watch?v=ikGVWEvUzNM){target="_blank"}" (5:18) [@kjadamesIdentityShortFilm2012] and "[Brave](https://www.youtube.com/watch?v=QUQsqBqxoR4){target="_blank"}" (3:57) [@bareillesBraveOfficialVideo2013], then read Chapter 6 in *Braving the Wilderness* [@brownBravingWildernessQuest2017]. Afterwards, reflect on your own experience as a learner.
 - Read the suggested articles and create an action plan for your own teaching and facilitation.
 
 *Note:* Working through learning activities will help you to meet the learning outcomes and successfully complete your assessments.
@@ -46,31 +46,31 @@ See the Assessment section in Moodle for assignment details.
 
 Here are the resources you will need to complete this unit.
 
-- Palmer, P. J. (2017). *The courage to teach: Exploring the inner landscape of a teacher's life*. Jossey-Bass.
-- Brown, B. (2017). *Braving the wilderness: The quest for true belonging and the courage to stand alone.* Random House.
+- Palmer, P. J. [-@palmerCourageTeachExploring2017]. *The courage to teach: Exploring the inner landscape of a teacher's life*. Jossey-Bass.
+- Brown, B. [-@brownBravingWildernessQuest2017]. *Braving the wilderness: The quest for true belonging and the courage to stand alone.* Random House.
 - Other online resources will be provided in the unit.
 
 ## Creating Collaborative Learning in an Online Environment
 
-In our roles as teachers or facilitators, we are engaged in leading learners through a transformational educational process. "Collaborative Inquiry" is a process through which we, as educators, engage in learning about the practice of teaching through collaborative inquiry and reflection (Donohoo & Velasco, 2016).
+In our roles as teachers or facilitators, we are engaged in leading learners through a transformational educational process. "Collaborative Inquiry" is a process through which we, as educators, engage in learning about the practice of teaching through collaborative inquiry and reflection [@donohooTransformativePowerCollaborative2016].
 
-Athabasca University defines a community of inquiry as "a group of individuals who collaboratively engage in purposeful critical discourse and reflection to construct personal meaning and confirm mutual understanding" (Athabasca University, n.d.).
+Athabasca University defines a community of inquiry as "a group of individuals who collaboratively engage in purposeful critical discourse and reflection to construct personal meaning and confirm mutual understanding" [@athabascauniversityCoIFramework].
 
 While collaborative inquiry is often used to describe a process used by professional learning communities to guide organizational change, or to describe communities of practice among educators, collaborative inquiry is also a practice that can be implemented within classrooms.
 
-The fields of collaborative inquiry (Donohoo & Velasco, 2016) and appreciative inquiry (Whitney & Trosten-Bloom, 2010) are built on the premise that we must all collaborate together in a community of learners, and that by doing so, we can generate learning that goes beyond what we might learn on our own. This also aligns with the concept of Palmer’s (2017) community of truth.
+The fields of collaborative inquiry [@donohooTransformativePowerCollaborative2016] and appreciative inquiry [@whitneyPowerAppreciativeInquiry2010] are built on the premise that we must all collaborate together in a community of learners, and that by doing so, we can generate learning that goes beyond what we might learn on our own. This also aligns with the concept of Palmer’s [-@palmerCourageTeachExploring2017] community of truth.
 
 Collaborative inquiry is a strengths-based approach to learning and change that has been described as "unifying moments when joy touches joy, strength touches strength, health touches health, inspiration combines with inspiration—and how to make the combinations happen more rapidly and frequently" (Cooperrider, as cited in in Whitney & Trosten-Bloom, 2010, p. xiii).
 
-Palmer’s (2017) "community of truth" that we explored in the last unit, incorporates the essence of collaborative learning, underscoring the importance of relationships within education.
+Palmer’s [-@palmerCourageTeachExploring2017] "community of truth" that we explored in the last unit, incorporates the essence of collaborative learning, underscoring the importance of relationships within education.
 
-Palmer (2017) writes,
+Palmer [-@palmerCourageTeachExploring2017] writes,
 
 > What seems right for me, after many years of searching, is to sit in a circle with my students (or try to relate to the crowd in a lecture hall as if we were in a circle) and lead an inquiry into the great thing in our midst, But there are other ways to create community in the classroom, and some of them look nothing like the interactive encounter we normally associate with that word. (p. 139)
 
-Whitney and Trosten-Bloom (2010) cast a compelling vision for collaborative environments where the act of engaging in appreciative inquiry can transform communities. They write: "Appreciative Inquiry transforms organizations into places that are free and alive, where people are eager and filled with positive power, and where the creativity of the whole never ceases to amaze, surprise, and innovate" (Cooperrider, as cited in Whitney & Trosten-Bloom, 2010, p. xi). Learning communities, too, can become places that are free and alive, where all members of the community engage in challenging, authentic learning.
+Whitney and Trosten-Bloom [-@whitneyPowerAppreciativeInquiry2010] cast a compelling vision for collaborative environments where the act of engaging in appreciative inquiry can transform communities. They write: "Appreciative Inquiry transforms organizations into places that are free and alive, where people are eager and filled with positive power, and where the creativity of the whole never ceases to amaze, surprise, and innovate" (Cooperrider, as cited in Whitney & Trosten-Bloom, 2010, p. xi). Learning communities, too, can become places that are free and alive, where all members of the community engage in challenging, authentic learning.
 
-Appreciative Inquiry (Whitney & Trosten-Bloom, 2010) is built on eight principles, which can inform the way we support learners in an online learning context.
+Appreciative Inquiry [@whitneyPowerAppreciativeInquiry2010] is built on eight principles, which can inform the way we support learners in an online learning context.
 
 These include:
 
@@ -83,17 +83,17 @@ These include:
 7. The enactment principle
 8. The free-choice principle
 
-(Whitney & Trosten-Bloom, 2010, p. 52)
+[@whitneyPowerAppreciativeInquiry2010, p. 52]
 
-These principles can serve as a guide for facilitating online discussions, designing lessons, and providing formative feedback to learners. For example, the "simultaneity principle" is based on the premise that by its nature, asking questions not only leads to change, but the very act of engaging in inquiry is, in fact, the first step in change. According to this principle, "the moment we ask a question, we begin to create a change" (Whitney & Trosten-Bloom, 2010, p. 52).
+These principles can serve as a guide for facilitating online discussions, designing lessons, and providing formative feedback to learners. For example, the "simultaneity principle" is based on the premise that by its nature, asking questions not only leads to change, but the very act of engaging in inquiry is, in fact, the first step in change. According to this principle, "the moment we ask a question, we begin to create a change" [@whitneyPowerAppreciativeInquiry2010, p. 52].
 
-Likewise, the "free-choice principle" contends that "people perform better and are more committed when they have freedom to choose how and what they contribute" (Whitney & Trosten-Bloom, 2010, p. 52). Facilitating discussions that allow learners to engage in conversation (whether face-to-face or online), determine some aspects of their assignments, such as selecting topics, can have a powerful influence on student engagement with learning.
+Likewise, the "free-choice principle" contends that "people perform better and are more committed when they have freedom to choose how and what they contribute" [@whitneyPowerAppreciativeInquiry2010, p. 52]. Facilitating discussions that allow learners to engage in conversation (whether face-to-face or online), determine some aspects of their assignments, such as selecting topics, can have a powerful influence on student engagement with learning.
 
 ### Activity: Community of Truth
 
 ::: {.learning-activity time="90"}
 
-Read the following chapters in *The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life* (Palmer, 2017):
+Read the following chapters in *The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life* [@palmerCourageTeachExploring2017]:
 
 - Chapter 5, "Teaching in Community"
 - Chapter 6, "Learning in Community"
@@ -112,12 +112,12 @@ In your reflective journal, make notes on the following questions:
 
 Review the following resources on Appreciative Inquiry:
 
-- [Introduction to Appreciative Inquiry](https://drive.google.com/file/d/1oTJ7kmHDut0eBb4eK3lpJJHhO5bsb7Sz/view){target="_blank"} (Cooperider Center for Appreciative Inquiry, 2023)
-- [About Appreciative Inquiry](https://appreciativeinquiry.champlain.edu/about-appreciative-inquiry/){target="_blank"} (Cooperider Center for Appreciative Inquiry, n.d.)
-- [What is Appreciative Inquiry (AI)?](https://centerforappreciativeinquiry.net/resources/what-is-appreciative-inquiry-ai/){target="_blank"} (The Center for Appreciative Inquiry, n.d.)
-- [Generic Process of Appreciative Inquiry](https://centerforappreciativeinquiry.net/resources/the-generic-processes-of-appreciative-inquiry-5ds/){target="_blank"} (The Center for Appreciative Inquiry, n.d.)
+- [Introduction to Appreciative Inquiry](https://drive.google.com/file/d/1oTJ7kmHDut0eBb4eK3lpJJHhO5bsb7Sz/view){target="_blank"} [@cooperidercenterforappreciativeinquiryIntroductoryGuideAppreciative2023]
+- [About Appreciative Inquiry](https://appreciativeinquiry.champlain.edu/about-appreciative-inquiry/){target="_blank"} [@cooperidercenterforappreciativeinquiryAppreciativeInquiry]
+- [What is Appreciative Inquiry (AI)?](https://centerforappreciativeinquiry.net/resources/what-is-appreciative-inquiry-ai/){target="_blank"} [@thecenterforappreciativeinquiryWhatAppreciativeInquiry2024]
+- [Generic Process of Appreciative Inquiry](https://centerforappreciativeinquiry.net/resources/the-generic-processes-of-appreciative-inquiry-5ds/){target="_blank"} [@thecenterforappreciativeinquiryGenericProcessAppreciativea]
 
-If you would like to explore Appreciative Inquiry further, be sure to explore in *The power of appreciative inquiry: A practical guide to positive change* (Whitney & Trosten-Bloom, 2010).
+If you would like to explore Appreciative Inquiry further, be sure to explore in *The power of appreciative inquiry: A practical guide to positive change* [@whitneyPowerAppreciativeInquiry2010].
 
 - Select two (2) of the Principles of Appreciative Inquiry.
 - In a 250-word discussion post, describe a learning activity you would conduct with your class that integrates both principles. For example, how would you design a writing assignment that included the "positive principle"?
@@ -133,9 +133,9 @@ In this discussion, you will interview a friend or colleague. Select someone who
 
 **Part 1**
 
-Read the article, "[Appreciative Interviews (AI)"](https://www.liberatingstructures.com/5-appreciative-interviews-ai/){target="_blank"} (Liberating Structures, n.d.). As you read, you will see that these instructions are developed for groups. However, if you are conducting your interview with an individual, you may still find these instructions helpful.
+Read the article, "[Appreciative Interviews (AI)"](https://www.liberatingstructures.com/5-appreciative-interviews-ai/){target="_blank"} [@liberatingstructuresAppreciativeInterviewsAI]. As you read, you will see that these instructions are developed for groups. However, if you are conducting your interview with an individual, you may still find these instructions helpful.
 
-Next, read "[119+ Appreciative Inquiry Interview Questions and Examples"](https://positivepsychology.com/appreciative-inquiry-questions/){target="_blank"} (Moore, 2019).
+Next, read "[119+ Appreciative Inquiry Interview Questions and Examples"](https://positivepsychology.com/appreciative-inquiry-questions/){target="_blank"} [@moore119AppreciativeInquiry2019].
 
 First, develop a minimum of five (5) questions to guide the interview process. The questions should be developed based on your course learning to date, and should integrate the articles, TED talks, short films, and other resources we have reviewed together. Building on your learning, develop at least five questions that you will ask another learner, to answer the guiding questions of this unit:
 
@@ -158,9 +158,9 @@ After you have completed the interview, prepare a 250-word reflection on what yo
 
 Creating a positive, open, learning environment is a critical component for fostering authentic learning – a place where we can both belong to ourselves and to others.
 
-Brown (2017) poses these questions: "Are we willing to show up and be seen when we can’t control the outcome? Are we willing to create courageous spaces so we can be fully seen?" (p. 154).
+Brown [-@brownBravingWildernessQuest2017] poses these questions: "Are we willing to show up and be seen when we can’t control the outcome? Are we willing to create courageous spaces so we can be fully seen?" (p. 154).
 
-Palmer (2017) offers five suggestions for ways in which teachers can prepare students for engagement in authentic communities, in education, our places of work, and in our communities.
+Palmer [-@palmerCourageTeachExploring2017] offers five suggestions for ways in which teachers can prepare students for engagement in authentic communities, in education, our places of work, and in our communities.
 
 Teachers must
 
@@ -170,19 +170,19 @@ Teachers must
 4. teach them how to cultivate community or the sake of both knowing and doing.
 5. teach and model for students what is meant to be on the journey toward "an undivided life" (p. 205).
 
-In this course, you are exploring concepts of education that include our emotional experiences with learning, the importance of community, the nature of knowledge, and the foundational importance of the teacher’s authenticity. For some academics, the acknowledgement of the emotional experience of education can be challenging, according to Palmer (2017), who argues that the feelings we have influence our learning.
+In this course, you are exploring concepts of education that include our emotional experiences with learning, the importance of community, the nature of knowledge, and the foundational importance of the teacher’s authenticity. For some academics, the acknowledgement of the emotional experience of education can be challenging, according to Palmer [-@palmerCourageTeachExploring2017], who argues that the feelings we have influence our learning.
 
-Donohoo and Velasco (2016), in their work on collaborative inquiry, also underscore the importance of acknowledging the emotional experiences of student. "There is no doubt that learning is interrupted when negative emotions and attitudes surface, as such feelings hinder our ability to make sense of things" (Donohoo &Velasco, 2016, p. 36). Other scholars also argue for a more integrated approach to the teaching and learning process. "Indigenous worldviews see the whole person (physical, emotional, spiritual, and intellectual) as interconnected to land and in relationship to others (family, communities, nations)"(Cull et al., 2018)
+Donohoo and Velasco [-@donohooTransformativePowerCollaborative2016], in their work on collaborative inquiry, also underscore the importance of acknowledging the emotional experiences of student. "There is no doubt that learning is interrupted when negative emotions and attitudes surface, as such feelings hinder our ability to make sense of things" [@donohooTransformativePowerCollaborative2016, p. 36]. Other scholars also argue for a more integrated approach to the teaching and learning process. "Indigenous worldviews see the whole person (physical, emotional, spiritual, and intellectual) as interconnected to land and in relationship to others (family, communities, nations)" [@cullPullingTogetherGuide2018].
 
 #### Sentipensante Pedagogy {.unnumbered}
 
-Learning communities that support deep connections between learners, as well as reflective practice, lead us to a more integrated learning experience. According to Rendon (2014), "Our modern culture remains obsessed with separating the workings of the mind from intuition, which is unexplained knowledge achieved through breakthrough insights, often occurring through contemplative means such as dreams, mandalas, and meditation, among others" (p. 132). In an online learning environment, learners can often feel unengaged or disconnected—not just from other students or their teacher, but also from the learning themselves. Staring at a screen, instead of engaging with other human beings in the same room, we can focus on the tasks to be done, instead of the deep learning. And, of course, it is the deep learning—the reflection, the contemplation, the conversations—that are of the greatest value.
+Learning communities that support deep connections between learners, as well as reflective practice, lead us to a more integrated learning experience. According to Rendon [-@rendonSentipensanteSensingThinking2014], "Our modern culture remains obsessed with separating the workings of the mind from intuition, which is unexplained knowledge achieved through breakthrough insights, often occurring through contemplative means such as dreams, mandalas, and meditation, among others" (p. 132). In an online learning environment, learners can often feel unengaged or disconnected—not just from other students or their teacher, but also from the learning themselves. Staring at a screen, instead of engaging with other human beings in the same room, we can focus on the tasks to be done, instead of the deep learning. And, of course, it is the deep learning—the reflection, the contemplation, the conversations—that are of the greatest value.
 
-Rendon (2014) argues that we need to facilitate learning experiences that allow and encourage learners to bring their whole selves into the learning experience. She terms this teaching approach as "sentipensante pedagogy"—an approach to teaching that marries heart and mind and "represents the reunification of sensing and thinking to foster the acquisition of knowledge and wisdom (p. 134).
+Rendon [-@rendonSentipensanteSensingThinking2014] argues that we need to facilitate learning experiences that allow and encourage learners to bring their whole selves into the learning experience. She terms this teaching approach as "sentipensante pedagogy"—an approach to teaching that marries heart and mind and "represents the reunification of sensing and thinking to foster the acquisition of knowledge and wisdom (p. 134).
 
-Thus, Rendon (2014) suggests that we create learning experiences for students that ensure "the learner is actively connected to what is being learned, and diverse forms of contemplative practice become conduits to elicit deep awareness, focus, compassion, social change, transformation, creativity, and inspiration, as well as intellectual understandings" (pp. 134-135).
+Thus, Rendon [-@rendonSentipensanteSensingThinking2014] suggests that we create learning experiences for students that ensure "the learner is actively connected to what is being learned, and diverse forms of contemplative practice become conduits to elicit deep awareness, focus, compassion, social change, transformation, creativity, and inspiration, as well as intellectual understandings" (pp. 134-135).
 
-By bringing music or poetry into the learning experience, for example, we allow students can engage with and express their emotions and learning in different ways. In this course, you may have noticed prompts that encourage you to reflect, either on academic sources or music. These are designed to deepen your opportunity to reflect and engage with what you are learning. As you reflect on your learning in this course, you may consider using some of the contemplative practices which Rendon (2014) recommends, including "stillness, movement, creation process, activist, generative, ritual/cyclical, and relational" (p. 137).
+By bringing music or poetry into the learning experience, for example, we allow students can engage with and express their emotions and learning in different ways. In this course, you may have noticed prompts that encourage you to reflect, either on academic sources or music. These are designed to deepen your opportunity to reflect and engage with what you are learning. As you reflect on your learning in this course, you may consider using some of the contemplative practices which Rendon [-@rendonSentipensanteSensingThinking2014] recommends, including "stillness, movement, creation process, activist, generative, ritual/cyclical, and relational" (p. 137).
 
 ### Activity: Reflection on Your Own Experience as a Learner
 
@@ -190,14 +190,14 @@ By bringing music or poetry into the learning experience, for example, we allow 
 
 For this activity, you will spend some time reflecting on your own experience as a learner. By remembering your own experiences as a learner, you may be able to consider the needs of the students more efficiently as you lead in online and face-to-face learning environments. So, pick up your reflective learning journal or grab your laptop, and settle down into a comfortable chair (or sit among some trees).
 
-- First, watch "[Identity SHORT FILM (Award Winning Inspirational Short)"](https://www.youtube.com/watch?v=ikGVWEvUzNM){target="_blank"} (Kj Admes, 2012).
+- First, watch "[Identity SHORT FILM (Award Winning Inspirational Short)"](https://www.youtube.com/watch?v=ikGVWEvUzNM){target="_blank"} [-@kjadamesIdentityShortFilm2012].
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/ikGVWEvUzNM >}}
 :::
 
-- Listen ["Brave"](https://youtu.be/QUQsqBqxoR4){target="_blank"} (Sara Bareilles, 2013).
-- Read Chapter 6, "Hold Hands with Strangers," in *Braving the Wilderness* (Brown, 2017).
+- Listen ["Brave"](https://youtu.be/QUQsqBqxoR4){target="_blank"} [-@bareillesBraveOfficialVideo2013].
+- Read Chapter 6, "Hold Hands with Strangers," in *Braving the Wilderness* [@brownBravingWildernessQuest2017].
 
 Jot down some of your notes describing your own identity as a student.
 
@@ -213,10 +213,12 @@ Jot down some of your notes describing your own identity as a student.
 
 Read the articles while considering the reflective questions that follow:
 
-- [*On Online Practices of Hospitality in Higher Education*](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ1315405&site=eds-live&scope=site){target="_blank"} (Imperiale at al., 2021)
-- [*Managing Online Small-group Learning: Effects of Facilitation Style and Type of Group Reward*](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S0268401225000416&site=eds-live&scope=site){target="_blank"} (Chi-Wai Kwok et al., 2025)
+- [*On Online Practices of Hospitality in Higher Education*](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ1315405&site=eds-live&scope=site){target="_blank"} [@imperialeOnlinePracticesHospitality2021]
+- [*Managing Online Small-group Learning: Effects of Facilitation Style and Type of Group Reward*](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S0268401225000416&site=eds-live&scope=site){target="_blank"} [@kwokManagingOnlineSmallgroup2025]
 
 In your reflective learning journal, identity two to three (2-3) practices identified in these articles that you could use as an online instructor or facilitate collaboration between learners. Think through how you might use these practices. Then, develop a short action plan for how you could implement one or more of these practices.
+
+<!-- //todo #20 -->
 
 :::
 
@@ -224,11 +226,11 @@ In your reflective learning journal, identity two to three (2-3) practices ident
 
 ::: {.learning-activity time="75"}
 
-> Unwittingly, the conventional structures used to organize how people routinely work together stifle inclusion and engagement. Conventional structures are either too inhibiting (presentations, status reports and managed discussions) or too loose and disorganized (open discussions and brainstorms) to creatively engage people in shaping their own future. They frequently generate feelings of frustration and/or exclusion and fail to provide space for good ideas to emerge and germinate. (Liberating Structures, n.d.)
+> Unwittingly, the conventional structures used to organize how people routinely work together stifle inclusion and engagement. Conventional structures are either too inhibiting (presentations, status reports and managed discussions) or too loose and disorganized (open discussions and brainstorms) to creatively engage people in shaping their own future. They frequently generate feelings of frustration and/or exclusion and fail to provide space for good ideas to emerge and germinate [@liberatingstructuresAppreciativeInterviewsAI].
 
-To create meaningful, authentic, and engaging learning experiences, you will explore Liberating Structures website and two classic resources in facilitation and adult learning—Brookfield and Preskill’s (2016) *The Discussion Book* and Silberman and Biech’s (2015) *Active Training*. These tools offer creative, research-informed ways to spark meaningful dialogue, invite every voice into the room, and design learning experiences that are dynamic, inclusive, and memorable. You will explore practical methods to move beyond lectures and PowerPoints toward interactions that truly engage hearts, minds, and hands.
+To create meaningful, authentic, and engaging learning experiences, you will explore Liberating Structures website and two classic resources in facilitation and adult learning—Brookfield and Preskill’s [-@brookfieldDiscussionBook502016] *The Discussion Book* and Silberman and Biech’s [-@silbermanActiveTrainingHandbook2015] *Active Training*. These tools offer creative, research-informed ways to spark meaningful dialogue, invite every voice into the room, and design learning experiences that are dynamic, inclusive, and memorable. You will explore practical methods to move beyond lectures and PowerPoints toward interactions that truly engage hearts, minds, and hands.
 
-By incorporating liberating structures or those suggested by Brookfield and Preskill (2016) or Silberman and Biech (2015), you will indeed avoid methods and processes that stifle. Instead, you will liberate learners to express themselves and be transformed into agents of transformation. Strategies for engagement build confidence and can have a strong, positive impact on self-efficacy and identity in the sense of empowering learners to act. As an adult educator you have a role of equipping leaders – whether for self-leadership or leadership with others. This broader view of the role can also be purpose-filled and motivating so embrace and enjoy it!
+By incorporating liberating structures or those suggested by Brookfield and Preskill [-@brookfieldDiscussionBook502016] or Silberman and Biech [-@silbermanActiveTrainingHandbook2015], you will indeed avoid methods and processes that stifle. Instead, you will liberate learners to express themselves and be transformed into agents of transformation. Strategies for engagement build confidence and can have a strong, positive impact on self-efficacy and identity in the sense of empowering learners to act. As an adult educator you have a role of equipping leaders – whether for self-leadership or leadership with others. This broader view of the role can also be purpose-filled and motivating so embrace and enjoy it!
 
 Explore the [Liberating Structures site](https://www.liberatingstructures.com/home/){target="_blank"} and click on any structure to learn more details. Select two to three (2-3) structures that you could apply to your context. Review the two texts as well and select one to two (1-2) strategies from each book that you might consider trying. Take a moment to make some notes in your reflective journal about why you chose these structures or teaching strategies and how you could use these.
 
@@ -248,7 +250,7 @@ Before you move on to the next unit, you may want to check to make sure that you
 :::
 
 ## References {.unnumbered}
-
+<!-- 
 Brookfield, S. and Preskill, S. (2016). *The discussion book: 50 great ways to get people talking*. Jossey Bass.
 
-Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley.
+Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley. -->

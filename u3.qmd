@@ -33,8 +33,8 @@ Here is a list of learning activities that will benefit you in completing this u
 
 - Read the "Principles for How We Treat Each Other" and consider how you can practice these principles in your teaching.
 - Read the poem by Rainer Maria Rilke and reflect on your own learning experiences.
-- Read Chapters 3-5 in *Braving the Wilderness* (Brown, 2017). Then, using the BRAVING checklist, write a 250-word journal entry in response to the guiding questions.
-- Read Chapter 2 in *The Courage to Teach* (Palmer, 2017) and respond to the reflection questions provided.
+- Read Chapters 3-5 in *Braving the Wilderness* [@brownBravingWildernessQuest2017]. Then, using the BRAVING checklist, write a 250-word journal entry in response to the guiding questions.
+- Read Chapter 2 in *The Courage to Teach* [@palmerCourageTeachExploring2017] and respond to the reflection questions provided.
 - Listen to "A Place in this Word" and complete the scenario-based reflection.
 
 *Note:* Working through learning activities will help you to meet the learning outcomes and successfully complete your assessments.
@@ -48,21 +48,21 @@ See the Assessment section in Moodle for assignment details.
 
 Here are the resources you will need to complete this unit.
 
-- Brown, B. (2017). *Braving the wilderness: The quest for true belonging and the courage to stand alone.* Random House.
-- Palmer, P. J. (2017). *The courage to teach: Exploring the inner landscape of a teacher's life*. Jossey-Bass.
+- Brown, B. [-@brownBravingWildernessQuest2017]. *Braving the wilderness: The quest for true belonging and the courage to stand alone.* Random House.
+- Palmer, P. J. [-@palmerCourageTeachExploring2017]. *The courage to teach: Exploring the inner landscape of a teacher's life*. Jossey-Bass.
 - Other online resources will be provided in the unit.
 
 ## Belonging to Others
 
-In *Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone*, Brene Brown (2017) discusses the universal human need for belonging – and the importance of belonging authentically. She contrasts a true sense of "belonging" to "fitting in," which she describes as a sense of being accepted, but not as one’s true self.
+In *Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone*, Brene Brown [-@brownBravingWildernessQuest2017] discusses the universal human need for belonging – and the importance of belonging authentically. She contrasts a true sense of "belonging" to "fitting in," which she describes as a sense of being accepted, but not as one’s true self.
 
-> "We want to be part of something, but we need it to be real – not conditional or fake or constantly up for negotiation. We need true belonging" (Brown,2017, p. 31)
+> "We want to be part of something, but we need it to be real – not conditional or fake or constantly up for negotiation. We need true belonging" [@brownBravingWildernessQuest2017, p. 31].
 
-According to Brown (2017), belonging involves a certain level of vulnerability, because it means we must show up as our true selves—and those selves often include some level of doubt or weakness or insecurity.
+According to Brown [-@brownBravingWildernessQuest2017], belonging involves a certain level of vulnerability, because it means we must show up as our true selves—and those selves often include some level of doubt or weakness or insecurity.
 
 She defines "belonging" this way:
 
-> Belonging is the innate human desire to be part of something larger than us. Because this yearning is so primal, we often try to acquire it by fitting in and by seeking approval, which are not only hollow substitutes for belonging, but often barriers to it. Because true belonging only happens when we present our authentic, imperfect selves to the world, our sense of belonging can never be greater than our level of self-acceptance. (Brown, 2017, p. 32)
+> Belonging is the innate human desire to be part of something larger than us. Because this yearning is so primal, we often try to acquire it by fitting in and by seeking approval, which are not only hollow substitutes for belonging, but often barriers to it. Because true belonging only happens when we present our authentic, imperfect selves to the world, our sense of belonging can never be greater than our level of self-acceptance [@brownBravingWildernessQuest2017, p. 32].
 
 Part of our role as teachers and facilitators is to foster learning communities where students can truly belong.
 
@@ -70,7 +70,7 @@ When we belong to a group, we know that we matter to the others in the group. If
 
 Belonging also means that we can count on others – and others can count on us. They can count on us to receive their ideas with respect, value their unique contributions to our community of learning, and accept them for who they are.
 
-Belonging to others is not just about fitting in, as Brown (2017) argues, but being part of a group in which we know we can fully be ourselves, and others can be fully themselves, too.
+Belonging to others is not just about fitting in, as Brown [-@brownBravingWildernessQuest2017] argues, but being part of a group in which we know we can fully be ourselves, and others can be fully themselves, too.
 
 ### Activity: Principles for How We Treat Each Other
 
@@ -78,7 +78,7 @@ Belonging to others is not just about fitting in, as Brown (2017) argues, but be
 
 In order to create a learning community in which students know they belong to others, we must consider what it means to be part of a community – and consider practical steps we can take to create those types of communities.
 
-Read the ["Principles for How We Treat Each Other" (Peace and Justice Institute, n.d.)](https://www.peacejusticeinstitute.org/principles/){target="_blank"} developed by the Peace and Justice Institute. They have developed 13 principles that can be practiced developing authentic learning communities. Consider how you can practice these principles in your teaching:
+Read the ["Principles for How We Treat Each Other" (Peace and Justice Institute, n.d.)](https://www.peacejusticeinstitute.org/principles/){target="_blank"} developed by the Peace and Justice Institute [-@peaceandjusticeinstitutePrinciplesHowWe]. They have developed 13 principles that can be practiced developing authentic learning communities. Consider how you can practice these principles in your teaching:
 
 - Identify 2-3 specific actions you could take to incorporate these principles into your classroom environment, perhaps by sharing them with students in your class or training group.
 - Choose 2-3 of the principles that resonate with you.
@@ -93,17 +93,17 @@ Authentic learning communities include several elements that are important if we
 
 **Speaking Authentically. Listening Deeply.**
 
-Brene Brown (2017) discusses key concepts of creating spaces that facilitate a sense of belonging – including civility, inclusive language, truth, and respect. Often, the balance between truth and civility can be challenging – as we seek to authentically discuss new ideas – but in a manner that is both civil and respectful of others.
+Brene Brown [-@brownBravingWildernessQuest2017] discusses key concepts of creating spaces that facilitate a sense of belonging – including civility, inclusive language, truth, and respect. Often, the balance between truth and civility can be challenging – as we seek to authentically discuss new ideas – but in a manner that is both civil and respectful of others.
 
 **Trust**
 
-Trust is at the heart of authentic learning communities. Brown (2017) uses the acronym "BRAVING" to describe key elements of trust. These elements include Boundaries, Reliability, Accountability, Vault, Integrity, Non-Judgement, and Generosity (pp. 113-114). She argues that these elements are essential to practicing civility, and that we must know ourselves if we want to create authentic communities – whether at work or in the classroom.
+Trust is at the heart of authentic learning communities. Brown [-@brownBravingWildernessQuest2017] uses the acronym "BRAVING" to describe key elements of trust. These elements include Boundaries, Reliability, Accountability, Vault, Integrity, Non-Judgement, and Generosity (pp. 113-114). She argues that these elements are essential to practicing civility, and that we must know ourselves if we want to create authentic communities – whether at work or in the classroom.
 
-Trust is an essential component of deep learning and thus must be an essential component of an authentic learning community. Palmer (2017) also argues that spaces free of fear are necessary for authentic learning. He describes a "shutdown" that occurs as we seek to protect ourselves – both teachers and students – and as we think about learning and knowing in from an either-or perspective, failing to acknowledge the great vastness of truth. Learning communities, then, must be places of trust, with a focus on learning that incorporates both "profound truth" and "paradox" (Palmer, 2017, p. 65).
+Trust is an essential component of deep learning and thus must be an essential component of an authentic learning community. Palmer [-@palmerCourageTeachExploring2017] also argues that spaces free of fear are necessary for authentic learning. He describes a "shutdown" that occurs as we seek to protect ourselves – both teachers and students – and as we think about learning and knowing in from an either-or perspective, failing to acknowledge the great vastness of truth. Learning communities, then, must be places of trust, with a focus on learning that incorporates both "profound truth" and "paradox" [@palmerCourageTeachExploring2017, p. 65].
 
 **Diversity of Thought and Perspective**
 
-We often discuss the value that diversity brings to organizations, including the value of bringing diverse perspectives and ideas to solving the challenges we face. The same is true in learning communities. An openness to ideas that challenge our thinking is foundational to learning, and thus engaging with diverse ideas and perspectives is an essential component of the learning process. Brower and Dettinger (1998) contend that diversity of thought and perspective is an essential element of a learning community. "When we define a community as a group of individuals committed to shared values and goals, who purposefully come together and work together to reach these goals, then diversity is encouraged not just for ideological reasons but also because different perspectives, experiences, and backgrounds contribute to the collaborative efforts to achieve the community’s goals" (Brower & Dettinger, 1998, p. 16).
+We often discuss the value that diversity brings to organizations, including the value of bringing diverse perspectives and ideas to solving the challenges we face. The same is true in learning communities. An openness to ideas that challenge our thinking is foundational to learning, and thus engaging with diverse ideas and perspectives is an essential component of the learning process. Brower and Dettinger [-@browerWhatLearningCommunity1998] contend that diversity of thought and perspective is an essential element of a learning community. "When we define a community as a group of individuals committed to shared values and goals, who purposefully come together and work together to reach these goals, then diversity is encouraged not just for ideological reasons but also because different perspectives, experiences, and backgrounds contribute to the collaborative efforts to achieve the community’s goals" [@browerWhatLearningCommunity1998, p. 16].
 
 ### Activity: Ah, Not to Be Cut Off
 
@@ -111,7 +111,7 @@ We often discuss the value that diversity brings to organizations, including the
 
 Find a quiet space in your home or outdoors. Make your favourite beverage. With your iced coffee or hot tea with honey next to you, settle into a comfortable position.
 
-Read the poem by Rainer Maria Rilke ["Ah, not to be cut off"](https://gladdestthing.com/poems/ah-not-to-be-cut-off){target="_blank"}. Sit for a moment with this poem. Re-read it. Consider the words and ideas expressed by Rilke.
+Read the poem by Rainer Maria Rilke [-@rilkeAhNotBe2017] ["Ah, not to be cut off"](https://gladdestthing.com/poems/ah-not-to-be-cut-off){target="_blank"}. Sit for a moment with this poem. Re-read it. Consider the words and ideas expressed by Rilke.
 
 ![](assets/u3/image1.png)
 
@@ -125,7 +125,7 @@ Imagine your students entering your class on the first day. Consider how you can
 
 ::: {.learning-activity time="90"}
 
-Read Chapters 3-5 in *Braving the Wilderness* (Brown, 2017).
+Read Chapters 3-5 in *Braving the Wilderness* [@brownBravingWildernessQuest2017].
 
 Reflect on the BRAVING checklist (p. 113-114) and write a 250-word journal entry that includes the following:
 
@@ -140,7 +140,7 @@ Reflect on the BRAVING checklist (p. 113-114) and write a 250-word journal entry
 
 Read Chapter 2, "A Culture of Fear," in *The Courage to Teach* (Palmer, 2017). As you read, consider these questions:
 
-- How am I "at home in a universe that embraces both the smallness of ‘I’ and the vastness of all that is ‘not I,’"? (Palmer, 2017, p. 59).
+- How am I "at home in a universe that embraces both the smallness of ‘I’ and the vastness of all that is ‘not I,’"? [@palmerCourageTeachExploring2017, p. 59].
 - What fears do I need to overcome as a teacher so I can create space for students to express their fears?
 
 :::

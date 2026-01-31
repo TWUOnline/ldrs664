@@ -57,10 +57,10 @@ Here is a list of learning activities that will benefit you in completing this u
 
 ::: learning-activity
 
--   Read "What IS a Learning Community?" (Brower & Dettinger, 1998) and respond in your reflective journal.
--   Read and reflect on the *Community of Truth Model* (Palmer, 2017).
--   Read and reflect on the *Community of Inquiry* (Garrison et al., 2000).
--   Read and reflect on the *Community of Transformational Learning* (Madland, 2017).
+-   Read "What IS a Learning Community?" [@browerWhatLearningCommunity1998] and respond in your reflective journal.
+-   Read and reflect on the *Community of Truth Model* [@palmerCourageTeachExploring2017].
+-   Read and reflect on the *Community of Inquiry* [@garrisonCommunitiesInquiryOnline2009].
+-   Read and reflect on the *Community of Transformational Learning* [@madlandTWUCommunityTransformational2017].
 -   Respond to the final reflection prompts and share your thoughts with your learning community.
 
 *Note:* Working through learning activities will help you to meet the learning outcomes and successfully complete your assessments.
@@ -74,16 +74,16 @@ See the Assessment section in Moodle for assignment details.
 
 Here are the resources you will need to complete this unit.
 
--   Palmer, P. J. (2017). *The courage to teach: Exploring the inner landscape of a teacher's life*. Jossey-Bass.
+-   Palmer, P. J. [-@palmerCourageTeachExploring2017]. *The courage to teach: Exploring the inner landscape of a teacher's life*. Jossey-Bass.
 -   Other online resources will be provided in the unit.
 
 ## Learning Community Pyramid
 
-The Learning Community Pyramid, developed by Brower and Dettinger (1998), includes academic, social, and physical components. They describe academic components as those that focus on the curriculum and learning that takes place. The social components are the elements of trust and inclusivity that create space for community. The physical component is the "place or facility where the community meets or resides" (Brower & Dettinger, 1998, p. 17). Since Brower and Dettinger’s (1998) writing, of course, many of the learning communities we engage in now take place online, thus the "place of facility" may now be a virtual space. As an example, in this class, that "place" is the Moodle course.
+The Learning Community Pyramid, developed by Brower and Dettinger [-@browerWhatLearningCommunity1998], includes academic, social, and physical components. They describe academic components as those that focus on the curriculum and learning that takes place. The social components are the elements of trust and inclusivity that create space for community. The physical component is the "place or facility where the community meets or resides" [@browerWhatLearningCommunity1998, p. 17]. Since Brower and Dettinger’s [-@browerWhatLearningCommunity1998] writing, of course, many of the learning communities we engage in now take place online, thus the "place of facility" may now be a virtual space. As an example, in this class, that "place" is the Moodle course.
 
-Building on the foundation of social, physical, and academic elements, Brower and Dettinger (1998) contend that learning communities also include three areas of responsibility: ethical responsibility, civic responsibility, and professional responsibility (p. 17).
+Building on the foundation of social, physical, and academic elements, Brower and Dettinger [-@browerWhatLearningCommunity1998] contend that learning communities also include three areas of responsibility: ethical responsibility, civic responsibility, and professional responsibility (p. 17).
 
-According to Brower and Dettinger (1998):
+According to Brower and Dettinger [-@browerWhatLearningCommunity1998]:
 
 > Learning communities, to be considered as such, must integrate academic subject matter and social interactions while providing the physical space or facility for an intellectually stimulating environment to emerge. Furthermore, learning communities must be designed to develop a triad of responsibilities within students—professional, ethical, and civic. (p. 16)
 
@@ -104,17 +104,17 @@ As we compare the other two models, feel free to organize your thoughts into a c
 
 | Model | Strengths of Model | Aspects Unique to this Model | Questions |
 |-----------------------|----------------|--------------------|-------------|
-| Learning Community Pyramid (Brower & Dettinger, 1998) |  |  |  |
-| Community of Truth (Palmer, 2017) |  |  |  |
-| Community of Inquiry (Garrison et al., 2000) |  |  |  |
-| Trinity Community of Inquiry (Madland, 2017) |  |  |  |
+| Learning Community Pyramid [@browerWhatLearningCommunity1998] |  |  |  |
+| Community of Truth [@palmerCourageTeachExploring2017] |  |  |  |
+| Community of Inquiry [@garrisonCommunitiesInquiryOnline2009] |  |  |  |
+| Trinity Community of Inquiry [@madlandTWUCommunityTransformational2017] |  |  |  |
 :::
 
 ## The Community of Truth
 
-**Palmer’s (2017)** learning community model incorporates learning and community with a "subject" at the center, surrounded by "knowers" who are in a relationship with each other and with the subject. Palmer (2017) asserts that "the community of truth, far from being linear and static and hierarchical, is circular, interactive, and dynamic" (p. 106). Palmer (2017) argues that when we learn together, we learn in a dynamic process, learning more together than we would if we studied alone.
+**Palmer’s (2017)** learning community model incorporates learning and community with a "subject" at the center, surrounded by "knowers" who are in a relationship with each other and with the subject. Palmer [-@palmerCourageTeachExploring2017] asserts that "the community of truth, far from being linear and static and hierarchical, is circular, interactive, and dynamic" (p. 106). Palmer [-@palmerCourageTeachExploring2017] argues that when we learn together, we learn in a dynamic process, learning more together than we would if we studied alone.
 
-**Figure** The Objectivist My of Knowing (left) and The Community of Truth (right) (Palmer, 2017, pp. 103, 105)
+**Figure** The Objectivist My of Knowing (left) and The Community of Truth (right) [@palmerCourageTeachExploring2017, pp. 103, 105].
 
 ::: {#fig-block_u4_2 layout-ncol="2"}
 ![The Objectivist My of Knowing](assets/u4/image2.jpg){.lightbox}
@@ -125,25 +125,25 @@ The Objectivist My of Knowing (left) and The Community of Truth (right)
 :::
 
 ::: text-source
-Source: *The courage to teach: Exploring the inner landscape of a teacher's life* (Palmer, 2017, pp. 103, 105)
+Source: *The courage to teach: Exploring the inner landscape of a teacher's life* [@palmerCourageTeachExploring2017, pp. 103, 105].
 :::
 
-The learning community model, proposed by Palmer (2017), focuses on the process of learning, in which dialogue and ongoing discussion deepen and enhance the learning we experience through disciplined and focused study. "I understand truth as the passionate and disciplined process of inquiry and dialogue itself, as the dynamic conversation of a community that keeps testing old conclusions and coming into new ones" (Palmer, 2017, p. 106). Together, Palmer (2017) argues, we can learn more, learn more deeply, and learn in community.
+The learning community model, proposed by Palmer [-@palmerCourageTeachExploring2017], focuses on the process of learning, in which dialogue and ongoing discussion deepen and enhance the learning we experience through disciplined and focused study. "I understand truth as the passionate and disciplined process of inquiry and dialogue itself, as the dynamic conversation of a community that keeps testing old conclusions and coming into new ones" [@palmerCourageTeachExploring2017, p. 106]. Together, Palmer [-@palmerCourageTeachExploring2017] argues, we can learn more, learn more deeply, and learn in community.
 
-As teachers, we approach teaching with some sense that we have something specific (some subject) to teach students. We often focus on transferring content or knowledge from us (as teachers) to them (the students). Palmer (2017) challenges us to think differently about teaching/learning experience. (Palmer, 2017, pp. 103, 105).
+As teachers, we approach teaching with some sense that we have something specific (some subject) to teach students. We often focus on transferring content or knowledge from us (as teachers) to them (the students). Palmer [-@palmerCourageTeachExploring2017] challenges us to think differently about teaching/learning experience. (pp. 103, 105).
 
-Instead of solely focusing on what we must teach (and what students must learn), Palmer (2017) challenges us to consider how we all might learn something more together—more than is already known—through the teaching and learning experience. In this way, we must consider that we are not just engaged in transferring information or knowledge, but that, in addition, together we might create new knowledge.
+Instead of solely focusing on what we must teach (and what students must learn), Palmer [-@palmerCourageTeachExploring2017] challenges us to consider how we all might learn something more together—more than is already known—through the teaching and learning experience. In this way, we must consider that we are not just engaged in transferring information or knowledge, but that, in addition, together we might create new knowledge.
 
-To this effect, Palmer (2017) stated:
+To this effect, Palmer [-@palmerCourageTeachExploring2017] stated:
 
-> I know of no field, from science to religion, where what we regard as objective knowledge did not emerge from long and complex communal discourse that continues to this day, no field where the facts of the matter were delivered fully formed from on high (Palmer, 2017, p. 107).
+> I know of no field, from science to religion, where what we regard as objective knowledge did not emerge from long and complex communal discourse that continues to this day, no field where the facts of the matter were delivered fully formed from on high (p. 107).
 
-Palmer’s (2017) model highlights the relational knowledge of learning communities, underscoring the relationship of the people involved and the relationships between people and subject. As you consider facilitating learning communities, give some thought to your own relationship to the subject to be taught and learned. Consider whether you "know" this subject objectively or subjectively. Reflect on what you might learn through further dialogue about the subject you are teaching.
+Palmer’s [-@palmerCourageTeachExploring2017] model highlights the relational knowledge of learning communities, underscoring the relationship of the people involved and the relationships between people and subject. As you consider facilitating learning communities, give some thought to your own relationship to the subject to be taught and learned. Consider whether you "know" this subject objectively or subjectively. Reflect on what you might learn through further dialogue about the subject you are teaching.
 
 ### Activity: Community of Truth
 
 ::: {.learning-activity time="75"}
-Read Chapter 4, "Knowing in Community," in *The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life* (Palmer, 2017).
+Read Chapter 4, "Knowing in Community," in *The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life* [@palmerCourageTeachExploring2017].
 
 In your reflective journal, respond to the following questions:
 
@@ -165,26 +165,26 @@ Community of Inquiry Framework
 :::
 
 ::: text-source
-*Source:* *Communities of inquiry in online learning* (Garrison et al., 2000, p. 158)
+*Source:* *Communities of inquiry in online learning* [@garrisonCommunitiesInquiryOnline2009, p. 158]
 :::
 
 Importantly, the three areas of presence—social, cognitive, and teaching—are not isolated. Instead, they are interconnected, as demonstrated in the overlapping areas in the Venn diagram.
 
 #### Social Presence {.unnumbered}
 
-Social presence is an important element of online learning, as students seek to make connections with each other and the teacher/facilitator, as well as feel a sense of belonging or connection within the course. Garrison (2009) defines social presence as "the ability of participants to identify with the community (e.g., course of study), communicate purposefully in a trusting environment, and develop inter-personal relationships by way of projecting their individual personalities" (p. 353). The focus in this component of the community of inquiry is not on building strong relationships between people, but on forming a group identity. Group cohesion thus is an important component, as this will provide "greater capacity to communicate and collaborate" (Garrison, 2009, p. 353) which in turn leads to more productive learning. "Social presence develops incrementally that begins by focusing first on open communication and cohesion (group identity) and, over time, personal and affective affiliations (personal identity)" (Garrison, 2009, p. 353).
+Social presence is an important element of online learning, as students seek to make connections with each other and the teacher/facilitator, as well as feel a sense of belonging or connection within the course. Garrison [-@garrisonCommunitiesInquiryOnline2009] defines social presence as "the ability of participants to identify with the community (e.g., course of study), communicate purposefully in a trusting environment, and develop inter-personal relationships by way of projecting their individual personalities" (p. 353). The focus in this component of the community of inquiry is not on building strong relationships between people, but on forming a group identity. Group cohesion thus is an important component, as this will provide "greater capacity to communicate and collaborate" [@garrisonCommunitiesInquiryOnline2009, p. 353] which in turn leads to more productive learning. "Social presence develops incrementally that begins by focusing first on open communication and cohesion (group identity) and, over time, personal and affective affiliations (personal identity)" [@garrisonCommunitiesInquiryOnline2009, p. 353].
 
 #### Cognitive Presence {.unnumbered}
 
-Because our focus in learning communities is learning, we can understand the importance of cognitive presence in our learning communities. But communities of inquiry have a particular approach to learning—inquiry. This inquiry process is one in which "learners are tasked with a problem or issue and, through iteration between discourse and reflection (public and private worlds), construct meaning and confirm understanding" (Garrison, 2009, p. 353). (You may notice elements of this inquiry process in this course. We begin each unit with questions to focus your inquiry. We then encourage you to reflect \[private world\], before engaging in discussion or written assignments in which you share your learning with others, including your instructor).
+Because our focus in learning communities is learning, we can understand the importance of cognitive presence in our learning communities. But communities of inquiry have a particular approach to learning—inquiry. This inquiry process is one in which "learners are tasked with a problem or issue and, through iteration between discourse and reflection (public and private worlds), construct meaning and confirm understanding" [@garrisonCommunitiesInquiryOnline2009, p. 353]. (You may notice elements of this inquiry process in this course. We begin each unit with questions to focus your inquiry. We then encourage you to reflect \[private world\], before engaging in discussion or written assignments in which you share your learning with others, including your instructor).
 
-Garrison (2009) explains the practical inquiry model (Garrison & Anderson, 2003), including four phases:
+Garrison [-@garrisonCommunitiesInquiryOnline2009] explains the practical inquiry model [@garrisonElearning21stCentury2003], including four phases:
 
-> The first phase is the recognition and definition of the problem or issue. The second phase is the exploration of the problem or issue through the gathering of relevant information and perspectives through individual searches and discourse. The third phase is making sense of the existing information with the goal to reach resolution through reflection, sharing and critically analyzing the best ideas. The fourth phase is to test the best solution through application either vicariously or directly. Inevitably, the application phase is a catalyst to restart the inquiry process again to rethink, refine or construct a better solution (Garrison, 2009, pp. 353-354).
+> The first phase is the recognition and definition of the problem or issue. The second phase is the exploration of the problem or issue through the gathering of relevant information and perspectives through individual searches and discourse. The third phase is making sense of the existing information with the goal to reach resolution through reflection, sharing and critically analyzing the best ideas. The fourth phase is to test the best solution through application either vicariously or directly. Inevitably, the application phase is a catalyst to restart the inquiry process again to rethink, refine or construct a better solution [@garrisonCommunitiesInquiryOnline2009, pp. 353-354].
 
 #### Teaching Presence {.unnumbered}
 
-Teaching presence captures the teacher or facilitator’s role and responsibilities within an online learning community. This presence includes three elements: "design, facilitation, and direct instruction" (Anderson et al., 2001). While we are likely familiar with direct instruction, it is important to note that this presence is not just about telling students what they need to know. Instead, elements of course and curriculum design are important components of learning communities, as teachers and facilitators must also create engaging and authentic learning experiences, as well as facilitating that learning experience. According to Garrison (2009), "Design sets the stage and the potential of the learning experience," (p. 354) and includes the curriculum and the organizational elements of the course, such as timeline, course schedule, assignment due dates, etc.
+Teaching presence captures the teacher or facilitator’s role and responsibilities within an online learning community. This presence includes three elements: "design, facilitation, and direct instruction" [@andersonAssessingTeachingPresence2001]. While we are likely familiar with direct instruction, it is important to note that this presence is not just about telling students what they need to know. Instead, elements of course and curriculum design are important components of learning communities, as teachers and facilitators must also create engaging and authentic learning experiences, as well as facilitating that learning experience. According to Garrison [-@garrisonCommunitiesInquiryOnline2009], "Design sets the stage and the potential of the learning experience," (p. 354) and includes the curriculum and the organizational elements of the course, such as timeline, course schedule, assignment due dates, etc.
 
 Direct instruction may take the form of a lecture (long or short) within a face-to-face or video classroom, through pre-recorded videos from your instructor, or through online course content developed by an instructor or subject matter expert.
 
@@ -193,7 +193,7 @@ Like the other elements of "presence," teaching presence must also consider the 
 ### Activity: Community of Inquiry
 
 :::: {.learning-activity time="60"}
-Watch [*Community of Inquiry Framework*](https://www.youtube.com/watch?v=FrK4f2qSktI){target="_blank"} (KPU Learning Centre, 2020).
+Watch [*Community of Inquiry Framework*](https://www.youtube.com/watch?v=FrK4f2qSktI){target="_blank"} [-@kpulearningcentresCommunityInquiryFramework2020].
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/FrK4f2qSktI >}}
@@ -201,8 +201,8 @@ Watch [*Community of Inquiry Framework*](https://www.youtube.com/watch?v=FrK4f2q
 
 Read the following articles:
 
--   [Communities of Inquiry in Online Learning](https://mytwu.sharepoint.com/:b:/r/sites/LearningDesign/Shared%20Documents/MA%20Lead%20-%20Doc/LDRS%20664/2.%20Course%20Working%20Files/Units/Unit%20Resources/U4_Communities_of_Inquiry_in_Online_Learning.pdf?csf=1&web=1&e=sj7k8j){target="_blank"} (Garrison, 2009)
--   [Researching the Community of Inquiry Framework: Review, Issues, and Future Directions](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ796848&site=eds-live&scope=site){target="_blank"} (Garrison, 2007)
+-   [Communities of Inquiry in Online Learning](https://mytwu.sharepoint.com/:b:/r/sites/LearningDesign/Shared%20Documents/MA%20Lead%20-%20Doc/LDRS%20664/2.%20Course%20Working%20Files/Units/Unit%20Resources/U4_Communities_of_Inquiry_in_Online_Learning.pdf?csf=1&web=1&e=sj7k8j){target="_blank"} [@garrisonCommunitiesInquiryOnline2009]
+-   [Researching the Community of Inquiry Framework: Review, Issues, and Future Directions](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ796848&site=eds-live&scope=site){target="_blank"} [@garrisonResearchingCommunityInquiry2007]
 
 In your reflective journal, respond to the following questions:
 
@@ -230,13 +230,13 @@ Community of Transformational Learning
 :::
 
 ::: text-source
-*Source:* Adapted from *TWU Community of Transformational Learning* (Madland, 2017). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){target="_blank"}.
+*Source:* Adapted from *TWU Community of Transformational Learning* [@madlandTWUCommunityTransformational2017]. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){target="_blank"}.
 :::
 
 ### Activity: Trinity Community of Inquiry
 
 ::: {.learning-activity time="45"}
-Review the [Transformational Learning at TWU](https://ma-lead.github.io/ldrs664/assets/unit4/Madland-transformational-learning.pdf){target="_blank"} (Madland, 2017).
+Review the [Transformational Learning at TWU](https://ma-lead.github.io/ldrs664/assets/unit4/Madland-transformational-learning.pdf){target="_blank"} [@madlandTWUCommunityTransformational2017].
 
 In your reflective journal, respond to the following questions:
 
@@ -260,11 +260,11 @@ After completing this unit, including the learning activities, you are asked to 
 
 The learning community models we have considered in this unit share some similarities. In each model, there is an awareness that learners and learning is multidimensional. As we engage in teaching and learning, we must always be aware that the learning process is, fundamentally, transformative. It engages people on an intellectual, spiritual, and social level. By designing curriculum, pedagogy, and learning around all aspects of learning—social, cognitive, and spiritual— we provide the foundation for transformational learning.
 
-Palmer (2017) puts it this way:
+Palmer [-@palmerCourageTeachExploring2017] puts it this way:
 
 > The reality we belong to, the reality we long to know, extends far beyond human beings interacting with one another… This is a community held together not only by our personal powers of thought and feeling but also by the power of ‘the grace of great things.’ (p. 109)
 
-As Palmer (2017) points out, learning includes both thought (cognitive) and feeling (social), but also something beyond those—the overarching spiritual nature of life and learning.
+As Palmer [-@palmerCourageTeachExploring2017] points out, learning includes both thought (cognitive) and feeling (social), but also something beyond those—the overarching spiritual nature of life and learning.
 
 ::: check
 Before you move on to the next unit, you may want to check to make sure that you are able to:
@@ -275,6 +275,6 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 ## References {.unnumbered}
 
-Anderson, T., Rourke, L., Garrison, D. R., & Archer, W. (2001). Assessing teaching presence in a computer conferencing context. *Journal of Asynchronous Learning Networks, 5*(2). [http://www.aln.org/publications/jaln/v5n2/v5n2_anderson.asp](http://www.aln.org/publications/jaln/v5n2/v5n2_anderson.asp){target="_blank"}
+<!-- Anderson, T., Rourke, L., Garrison, D. R., & Archer, W. (2001). Assessing teaching presence in a computer conferencing context. *Journal of Asynchronous Learning Networks, 5*(2). [http://www.aln.org/publications/jaln/v5n2/v5n2_anderson.asp](http://www.aln.org/publications/jaln/v5n2/v5n2_anderson.asp){target="_blank"}
 
-Garrison, D.R., Anderson, T., & Archer, W. (2000). Critical inquiry in a text-based environment: Computer conferencing in higher education. *The Internet and Higher Education, 2*(2-3), 87-105.
+Garrison, D.R., Anderson, T., & Archer, W. (2000). Critical inquiry in a text-based environment: Computer conferencing in higher education. *The Internet and Higher Education, 2*(2-3), 87-105. -->
