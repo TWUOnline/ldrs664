@@ -2,7 +2,7 @@
 
 ## Overview {.unnumbered}
 
-In this unit, we will consider how to create authentic learning spaces that invite, support, and honour a wide range of ways of knowing. In our undergraduate and graduate programs, Trinity Western University has developed a curriculum based on the foundational idea that humans learn and know in different ways. We know, for example, that there are some things we will know through scientific investigation – the same way that we understand that there are some things we may know best through art or poetry. If you want to know more about TWU Ways of Knowing, explore Core Ways of Knowing (TWU, n.d.)
+In this unit, we will consider how to create authentic learning spaces that invite, support, and honour a wide range of ways of knowing. In our undergraduate and graduate programs, Trinity Western University has developed a curriculum based on the foundational idea that humans learn and know in different ways. We know, for example, that there are some things we will know through scientific investigation – the same way that we understand that there are some things we may know best through art or poetry. If you want to know more about TWU Ways of Knowing, explore Core Ways of Knowing [@twuCoreWaysKnowing].
 
 As you approach your role as teacher, facilitator, or coach, you may find that it is helpful to design learning experiences with these ways of knowing in mind.
 
@@ -32,7 +32,7 @@ Here is a list of learning activities that will benefit you in completing this u
 ::: {.learning-activity}
 
 - Design an in-class learning experience or assignment that integrates one of TWU's Core Ways of Knowing.
-- Watch "Servant Leadership: How a Jar Can Change the Way You Lead and Serve" (TEDx Talks, 2017) and share your reflections in the learning community.
+- Watch "Servant Leadership: How a Jar Can Change the Way You Lead and Serve" [@tedxtalksServantLeadershipHow2017] and share your reflections in the learning community.
 
 *Note:* Working through learning activities will help you to meet the learning outcomes and successfully complete your assessments.
 :::
@@ -45,7 +45,7 @@ See the Assessment section in Moodle for assignment details.
 
 Here are the resources you will need to complete this unit.
 
-- Wheatly, M. (2023). [*Who do we choose to be?, Second edition: Facing reality, claiming leadership, restoring sanity.*](https://research-ebsco-com.twu.idm.oclc.org/linkprocessor/plink?id=eeef8a8d-c136-3ca8-ac5e-941498abb4ce){target="_blank"} Berrett-Koehler Publishers.
+- Wheatly, M. [-@wheatlyWhoWeChoose2023]. [*Who do we choose to be?, Second edition: Facing reality, claiming leadership, restoring sanity.*](https://research-ebsco-com.twu.idm.oclc.org/linkprocessor/plink?id=eeef8a8d-c136-3ca8-ac5e-941498abb4ce){target="_blank"} Berrett-Koehler Publishers.
 - Other online resources will be provided in the unit.
 
 ## Ways of Knowing
@@ -62,13 +62,13 @@ By designing learning experiences that embed different ways of knowing, we ackno
 
 TWU describes this way of knowing as follows:
 
-> Aesthetic and performance inquiry demonstrate to students that some forms of knowledge are best understood through intuitive, imaginative, creative, and interpretive methodologies in which makers and receivers come to insight and understanding. It affirms that the ability to understand and discern the world around us and our place within it is conditioned not only by the intellect, but also by the senses—the science of sensory knowledge and the appreciation of the beautiful playing a critical role in human experience. It teaches students that the aesthetic dimension of life ensures meaning and value in ways distinct from rationalism, pragmatism, and mechanism. Experiencing and reflecting on an art form cultivates abilities that can enhance and be valuably applied to other ways of learning and modes of inquiry. (TWU, n.d.)
+> Aesthetic and performance inquiry demonstrate to students that some forms of knowledge are best understood through intuitive, imaginative, creative, and interpretive methodologies in which makers and receivers come to insight and understanding. It affirms that the ability to understand and discern the world around us and our place within it is conditioned not only by the intellect, but also by the senses—the science of sensory knowledge and the appreciation of the beautiful playing a critical role in human experience. It teaches students that the aesthetic dimension of life ensures meaning and value in ways distinct from rationalism, pragmatism, and mechanism. Experiencing and reflecting on an art form cultivates abilities that can enhance and be valuably applied to other ways of learning and modes of inquiry [@twuCoreWaysKnowing].
 
 ### Activity: Core Ways of Knowing
 
 ::: {.learning-activity time="30"}
 
-Review the ["Core Ways of Knowing"](https://www.twu.ca/about-us/liberal-arts-core/core-ways-knowing){target="_blank"} (TWU, n.d.). Choose one of the six ways of knowing that interests you. Design an in-class learning experience or assignment that would allow you to integrate this way of knowing. As you write the instructions for the learning experience or assignment, be as specific as possible. Add enough details that someone else could pick up your instructions and facilitate that learning experience.
+Review the ["Core Ways of Knowing"](https://www.twu.ca/about-us/liberal-arts-core/core-ways-knowing){target="_blank"} [@twuCoreWaysKnowing]. Choose one of the six ways of knowing that interests you. Design an in-class learning experience or assignment that would allow you to integrate this way of knowing. As you write the instructions for the learning experience or assignment, be as specific as possible. Add enough details that someone else could pick up your instructions and facilitate that learning experience.
 
 *Note:* This learning activity will help you prepare for the next assignment.
 
@@ -76,11 +76,11 @@ Review the ["Core Ways of Knowing"](https://www.twu.ca/about-us/liberal-arts-cor
 
 #### Beyond Scientific Reasoning {.unnumbered}
 
-By expanding our learning experiences to include diverse ways of knowing, we can not only deepen student engagement, but also deepen student learning. After all, perception based on scientific understanding is not the only way of knowing. Wheatley (2017) admonishes, "There are other ways of knowing reality, reliable methods that have served humans and earlier hominids for millennia. It is the arrogance of our science that denies their existence and their usefulness" (p. 179).
+By expanding our learning experiences to include diverse ways of knowing, we can not only deepen student engagement, but also deepen student learning. After all, perception based on scientific understanding is not the only way of knowing. Wheatley [-@wheatleyWhoWeChoose2017] admonishes, "There are other ways of knowing reality, reliable methods that have served humans and earlier hominids for millennia. It is the arrogance of our science that denies their existence and their usefulness" (p. 179).
 
 Beyond the conceptual idea of ways of knowing, it is important to consider howe we, as adult educators can incorporate other ways of knowing into the learning experiences we design.
 
-Cahalan (2016) has identified eight ways of knowing that are essential to wise practice:
+Cahalan [-@cahalanCallingTodaysWorld2016] has identified eight ways of knowing that are essential to wise practice:
 
 - Situated awareness is noticing and describing contextual factors.
 - Embodied realizing is developing skilled competence in bodily action.
@@ -101,7 +101,7 @@ Embodied realizing in the classroom may take the form of an experiential learnin
 
 Servant leadership requires a strong orientation to values that allow adult educators to know, care about, and serve their learners well. Since beliefs, influenced by context and culture influence decision making, expectations and emotions, it matters greatly what leadership model you adhere and aspire to. What we value, we prioritize and this shapes our work and lives.
 
-By way of example of what servant leadership can look like as an adult educator, I share part of my own journey with you. As a Canadian educator, one key challenge I face is the mandate to Indigenize the curriculum. This is part of a broader call to educational leaders to work toward healing and reconciliation. In Canadian history, education was used as a tool of assimilation to extricate children from their culture and language. A statement of the Aboriginal Healing Foundation (2010) succinctly summarizes the gravity of this call to action:
+By way of example of what servant leadership can look like as an adult educator, I share part of my own journey with you. As a Canadian educator, one key challenge I face is the mandate to Indigenize the curriculum. This is part of a broader call to educational leaders to work toward healing and reconciliation. In Canadian history, education was used as a tool of assimilation to extricate children from their culture and language. A statement of the Aboriginal Healing Foundation [-@aboriginalhealingfoundationCompendiumAboriginalHealing2010] succinctly summarizes the gravity of this call to action:
 
 > No other population group in Canada’s history has endured such a deliberate, comprehensive, and prolonged assault on their human rights as that of Indigenous people. Yet, despite growing recognition of past wrongs, many Canadians remain unaware of the full scope of these injustices or their impacts. (p. 35).
 >
@@ -117,7 +117,7 @@ For more information about servant leadership, please see the resource section f
 
 ::: {.learning-activity time="30"}
 
-Watch ["Servant Leadership: How a Jar Can Change the Way You Lead and Serve"](https://www.youtube.com/watch?v=1vIPrR_clEg){target="_blank"} (TEDx Talks, 2017). As you watch the video, consider how assumption and perceptions may impact your role as an adult educator? How are adult educators servant leaders?
+Watch ["Servant Leadership: How a Jar Can Change the Way You Lead and Serve"](https://www.youtube.com/watch?v=1vIPrR_clEg){target="_blank"} [@tedxtalksServantLeadershipHow2017]. As you watch the video, consider how assumption and perceptions may impact your role as an adult educator? How are adult educators servant leaders?
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/1vIPrR_clEg >}}
@@ -126,7 +126,7 @@ Watch ["Servant Leadership: How a Jar Can Change the Way You Lead and Serve"](ht
 **Questions to Consider:**
 
 - How are you going to live out the seven concepts of intentional practice Frett outlines? List each of the concepts and how you could live each one.
-- Reference the Brookfield and Preskill (2016) and Silberman and Biech (2015) and find one (1) strategy to apply to each of the seven (7) concepts. List each concept of intentional practice and your chosen strategy beside it, include a brief description of the strategy.
+- Reference the Brookfield and Preskill [-@brookfieldDiscussionBook502016] and Silberman and Biech [-@silbermanActiveTrainingHandbook2015] and find one (1) strategy to apply to each of the seven (7) concepts. List each concept of intentional practice and your chosen strategy beside it, include a brief description of the strategy.
 - In a general manner, explain how to use the strategies with intentionality to be a servant leader in the adult learning environment.
 
 *Note:* This activity serves as the discussion prompt for this unit. Share your response and connect with others in the Learning Community to deepen your understanding.
@@ -150,10 +150,10 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 ## References {.unnumbered}
 
-Trinity Western University. (n.d.). *Core ways of knowing.* [https://www.twu.ca/about-us/liberal-arts-core/core-ways-knowing](https://www.twu.ca/about-us/liberal-arts-core/core-ways-knowing){target="_blank"}
+<!-- Trinity Western University. (n.d.). *Core ways of knowing.* [https://www.twu.ca/about-us/liberal-arts-core/core-ways-knowing](https://www.twu.ca/about-us/liberal-arts-core/core-ways-knowing){target="_blank"}
 
 Aboriginal Healing Foundation (2010). *A compendium of Aboriginal Healing Foundation research.* Dollco Printing. [https://ehprnh2mwo3.exactdn.com/wp-content/uploads/2021/01/research-compendium.pdf](https://ehprnh2mwo3.exactdn.com/wp-content/uploads/2021/01/research-compendium.pdf){target="_blank"}
 
 Brookfield, S. and Preskill, S. (2016). *The discussion book: 50 great ways to get people talking.* Jossey Bass.
 
-Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley.
+Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley. -->

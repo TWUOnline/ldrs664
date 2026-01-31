@@ -33,9 +33,9 @@ Here is a list of learning activities that will benefit you in completing this u
 
 ::: {.learning-activity}
 
-- Read Chapter 6 of *Braving the Wilderness* (Brown, 2017) and follow the prompts for reflection and application.
+- Read Chapter 6 of *Braving the Wilderness* [@brownBravingWildernessQuest2017] and follow the prompts for reflection and application.
 - Watch "Intrigue: How to Create Interest and Connect with Anyone" by Sam Horn and create your own intriguing pitch following his suggested process.
-- Read "Cognitive and Interpersonal Features of Intellectual Humility" (Leary et al., 2017) and respond to the question in your Reflective Journal.
+- Read "Cognitive and Interpersonal Features of Intellectual Humility" [@learyCognitiveInterpersonalFeatures2017] and respond to the question in your Reflective Journal.
 - Watch Farah Nasser’s presentation, "The Power of Intellectual Humility," and reflect on how you might make assumptions about those you interact with.
 - Follow the prompts for personal reflection on this unit’s learning and share your insights in the Learning Community.
 
@@ -48,7 +48,7 @@ See the Assessment section in Moodle for assignment details. Resources
 
 Here are the resources you will need to complete this unit.
 
-- Brown, B. (2017). *Braving the wilderness: The quest for true belonging and the courage to stand alone.* Random House.
+- Brown, B. [-@brownBravingWildernessQuest2017]. *Braving the wilderness: The quest for true belonging and the courage to stand alone.* Random House.
 - Other online resources will be provided in the unit.
 
 ## Learning to Trust Ourselves
@@ -63,7 +63,7 @@ How does one get to know oneself? Times of solitude spent reading, creating, wri
 
 Engaging with literature, music, and art are also ways for us to know ourselves more deeply—and know what it is to be human. Writer Flannery O’Connor illustrates the power of narrative saying:
 
-> There is something in us, as storytellers and as listeners to stories, that demands the redemptive act, which demands that what falls at least be offered the chance to be restored. (O’Connor, 1970, p. 48.). Why does this matter for the adult educator? It matters because education is about transformation of people—not just their intellectual growth but themselves. Transformation requires knowing oneself first.
+> There is something in us, as storytellers and as listeners to stories, that demands the redemptive act, which demands that what falls at least be offered the chance to be restored [@oconnorMysteryMannersOccasional1969, p. 48]. Why does this matter for the adult educator? It matters because education is about transformation of people—not just their intellectual growth but themselves. Transformation requires knowing oneself first.
 
 As educators, we know that education can be a transformative experience, not just of students, but also for the organization as and communities in which they serve and lead. And that potential for transformation can give us, as facilitators, leaders, and teachers, much cause for hope.
 
@@ -73,7 +73,7 @@ Hope is also considered among the experiences that we can gain throughout our li
 
 > We boast in the hope of the glory of God. Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance, perseverance, character; and character, hope. And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us. (New International Version, Romans 5:2-5)
 
-Hope matters within our learning spaces, both in times of joy and in times of difficulty. Czech statements, author, and dissident Václav Havel (1990) wrote this about hope:
+Hope matters within our learning spaces, both in times of joy and in times of difficulty. Czech statements, author, and dissident Václav Havel [-@havelDisturbingPeaceConversation1990] wrote this about hope:
 
 > Hope, in this deep and powerful sense, is not the same as joy that things are going well, or willingness to invest in enterprises that are obviously headed for early success, but, rather, an ability to work for something because it is good, not just because it stands a chance to succeed. The more unpropitious the situation in which we demonstrate hope, the deeper that hope is. Hope is not the same thing as optimism. It is not the conviction that something will turn out well, but the certainty that something makes sense, regardless of how it turns out. In short, I think that the deepest and most important form of hope, the only one that can keep us above water and urge us to good works, and the only true source of the breathtaking dimension of the human spirt and its efforts, is something we get, as it were, from "elsewhere." It is also this hope, above all which gives us the strength to live and continually to try new things, even in conditions that seem as hopeless as ours do, here and now. (pp. 180-181)
 
@@ -81,7 +81,7 @@ Our students may be hopeful as they enter our learning spaces, or they may be st
 
 In other words, we need to welcome the reality of whatever learners are bringing to the learning environment and look for the possibilities hidden within their experiences—both present and past—the possibilities for redemption and restoration. For example, some learners may have painful memories of school, a sense of inadequacy, or an inflated view of themselves. Some learners may have experienced severe trauma that affects their ability to process information. Some learners may have trouble reading or writing at the level we would hope they could achieve. Whoever our learners are and whatever abilities or disabilities they bring, we need to create the conditions so they can become better human beings and more knowledgeable and skillful because of having spent time with us as their learning guides.
 
-Our hope and vision must be rooted in the present. If that present is fraught with difficulties and challenges, the self-aware teacher leader embraces that reality and moves forward trusting themselves and, for the Christian, trusting God is working all things for our good. This requires courage, as Wheatley (2017) notes, this trust is rooted in ‘Coeur’ or heart (p. 279).
+Our hope and vision must be rooted in the present. If that present is fraught with difficulties and challenges, the self-aware teacher leader embraces that reality and moves forward trusting themselves and, for the Christian, trusting God is working all things for our good. This requires courage, as Wheatley [-@wheatleyWhoWeChoose2017] notes, this trust is rooted in ‘Coeur’ or heart (p. 279).
 
 Courage with heart is needed to face the challenges of handling challenging situations when we ourselves might not feel equipped. Courage with heart tempered by intellectual humility is needed to transform lives through education. Effective adult educators are people with a vision for good, with confidence that they can influence positive change and help facilitate transformation in their learners because they are continually working on their own self-knowledge and will research the strategies and methods as well as the content that will be most helpful for their learners to be successful.
 
@@ -90,7 +90,7 @@ Courage with heart is needed to face the challenges of handling challenging situ
 
 ::: {.learning-activity time="60"}
 
-Read Chapter 6, "Hold Hands. With Strangers." in *Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone* (Brown, 2017).
+Read Chapter 6, "Hold Hands. With Strangers." in *Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone* [@brownBravingWildernessQuest2017].
 
 1. **Reflect:** After reading, identify one key idea that resonates with you—perhaps around collective joy, shared humanity, or the courage of being present with strangers. How could you bring this into your teaching practice?
 2. **Take Action:** Choose one small action in your personal or professional life this week where you intentionally "hold hands with strangers" as Brown suggests. Here are a few examples you can start with:
@@ -106,7 +106,7 @@ Read Chapter 6, "Hold Hands. With Strangers." in *Braving the Wilderness: The Qu
 
 ::: {.learning-activity time="45"}
 
-We will learn to trust ourselves more and build our confidence if we are able to convince even ourselves of our own self-efficacy! Watch ["Intrigue - How to Create Interest and Connect with Anyone"](https://www.youtube.com/watch?v=Xlg8zdSVjgg){target="_blank"} (TEDx Talks, 2014) by Sam Horn.
+We will learn to trust ourselves more and build our confidence if we are able to convince even ourselves of our own self-efficacy! Watch ["Intrigue - How to Create Interest and Connect with Anyone"](https://www.youtube.com/watch?v=Xlg8zdSVjgg){target="_blank"} [@tedxtalksIntrigueHowCreate2014] by Sam Horn.
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/Xlg8zdSVjgg >}}
@@ -127,7 +127,7 @@ Follow Sam Horn’s suggested process to create your own intriguing pitch for so
 
 Intellectual humility is the awareness that one’s knowledge is limited and the willingness to revise perspectives considering new evidence or experiences. For educators of adult learners, intellectual humility is not simply a personal trait—it is a leadership stance that shapes how learning communities function. When teachers acknowledge their own limits and invite learners’ insights, they model openness and foster more authentic engagement.
 
-The Foundation for Critical Thinking (2014) defines intellectual humility in this way:
+The Foundation for Critical Thinking [-@foundationforcriticalthinkingValuableIntellectualTraits2014] defines intellectual humility in this way:
 
 > Having a consciousness of the limits of one’s knowledge, including a sensitivity to circumstances in which one’s native egocentrism is likely to function self-deceptively; sensitivity to bias, prejudice, and limitations of one’s viewpoint. Intellectual humility depends on recognizing that one should not claim more than one actually knows. It does not imply spinelessness or submissiveness. It implies the lack of intellectual pretentiousness, boastfulness, or conceit, combined with insight into the logical foundations, or lack of such foundations, of one’s beliefs. ([Foundation for Critical Thinking, 2014](https://www.criticalthinking.org/pages/valuable-intellectual-traits/528){target="_blank"})
 
@@ -135,29 +135,29 @@ The Foundation for Critical Thinking (2014) defines intellectual humility in thi
 
 As humans, we tend to believe that we are correct about what we know and believe.
 
-**What It Is**: Psychologists describe intellectual humility as recognizing the boundaries of your own knowledge and being open to learning from others (Porter & Schumann, 2018). Intellectual humility also means we are open to learning more, to changing our beliefs as we learn more.
+**What It Is**: Psychologists describe intellectual humility as recognizing the boundaries of your own knowledge and being open to learning from others [@porterIntellectualHumilityOpenness2018]. Intellectual humility also means we are open to learning more, to changing our beliefs as we learn more.
 
-Intellectual humility is different from self-doubt; rather, it combines confidence with curiosity. "People who lack self-confidence might doubt their beliefs not because they are intellectually humble but rather because they evaluate their knowledge or intellectual ability unfavorably" (Leary et al, 2017, p. 794). Instead, those who are intellectually humble demonstrate confidence in their intellectual abilities—but also understand that they do not know everything, and they may need more information, experience, or expertise to learn further.
+Intellectual humility is different from self-doubt; rather, it combines confidence with curiosity. "People who lack self-confidence might doubt their beliefs not because they are intellectually humble but rather because they evaluate their knowledge or intellectual ability unfavorably" [@learyCognitiveInterpersonalFeatures2017, p. 794]. Instead, those who are intellectually humble demonstrate confidence in their intellectual abilities—but also understand that they do not know everything, and they may need more information, experience, or expertise to learn further.
 
-> Intellectual humility is defined as recognizing that a particular personal belief may be fallible, accompanied by an appropriate attentiveness to limitations in the evidentiary basis of that belief and to one’s own limitations in obtaining and evaluating relevant information (Leary et al, 2017, p. 793).
+> Intellectual humility is defined as recognizing that a particular personal belief may be fallible, accompanied by an appropriate attentiveness to limitations in the evidentiary basis of that belief and to one’s own limitations in obtaining and evaluating relevant information [@learyCognitiveInterpersonalFeatures2017, p. 793].
 
 In other words, intellectual humility is not simply being open to learning, but also seeking out that learning so we can become more certain of our beliefs and knowledge.
 
-**What it means for us:** As teachers and learners, we can enter learning spaces and experiences with "a willingness to recognize the limits of one’s knowledge and appreciate others’ intellectual strengths" (Porter & Schumann, 2018, p. 140).
+**What it means for us:** As teachers and learners, we can enter learning spaces and experiences with "a willingness to recognize the limits of one’s knowledge and appreciate others’ intellectual strengths" [@porterIntellectualHumilityOpenness2018, p. 140].
 
 Intellectual humility allows us to enter our teaching and learning experience with the understanding that we have something to give and something to learn. With intellectual humility, we acknowledge that we always have something more to learn.
 
-> Some people are generally inclined to view their opinions, beliefs, and positions as subject to further consideration – that is intellectually humble. Yet, even those individuals are likely to have certain views that they are unwilling, or at least unlikely, to reconsider even when confronted with evidence that they could be wrong (Hoyle et al., 2016, p. 165).
+> Some people are generally inclined to view their opinions, beliefs, and positions as subject to further consideration – that is intellectually humble. Yet, even those individuals are likely to have certain views that they are unwilling, or at least unlikely, to reconsider even when confronted with evidence that they could be wrong [@hoyleHoldingSpecificViews2016, p. 165].
 
-As Hoyle et al. (2016) note here, most of have some areas of our lives in which we are likely to be unmoved, even when presented with evidence that suggests our ideas or knowledge is not valid.
+As Hoyle et al. [-@hoyleHoldingSpecificViews2016] note here, most of have some areas of our lives in which we are likely to be unmoved, even when presented with evidence that suggests our ideas or knowledge is not valid.
 
 **Why It Matters for Adult Learners**: Adults arrive in classrooms with diverse professional, cultural, and personal experiences. When educators practice intellectual humility, they validate learners as co-contributors to knowledge. Intellectual humility promotes empathy, reduces polarization, and strengthens dialogue across differences. These qualities directly support the creation of inclusive and authentic learning communities.
 
 Humans have a natural inclination to want to be considered knowledgeable. And, as teachers, facilitators, and leaders, that natural inclination can be even stronger. We might believe we *should* have the answers to questions that are asked, so that we should know more about a topic than we actually know.
 
-> People with high intellectual humility might feel less motivated to defend their correctness and intellectual superiority because they are more comfortable acknowledging their intellectual fallibility. We therefore predict that intellectual humility will be associated with openness to learning about opposing perspectives, even during disagreements about highly charged topics (Porter & Schumann, 2017, p. 140).
+> People with high intellectual humility might feel less motivated to defend their correctness and intellectual superiority because they are more comfortable acknowledging their intellectual fallibility. We therefore predict that intellectual humility will be associated with openness to learning about opposing perspectives, even during disagreements about highly charged topics [@porterIntellectualHumilityOpenness2018, p. 140].
 
-**Funds of Knowledge:** As discussed previously, adult learners bring a vast variety of life experience, professional expertise, cultural understanding, social support, and prior educational knowledge into their learning experiences. They also bring with them what Moll et al. (1992) defines as *funds of knowledge. "*We use the term ‘funds of knowledge’ to refer to these historically accumulate and culturally developed bodies of knowledge and skills essential for household or individual functioning and well-being" (Moll et al., 1992, p. 133).
+**Funds of Knowledge:** As discussed previously, adult learners bring a vast variety of life experience, professional expertise, cultural understanding, social support, and prior educational knowledge into their learning experiences. They also bring with them what Moll et al. [-@mollFundsKnowledgeTeaching1992] defines as *funds of knowledge. "*We use the term ‘funds of knowledge’ to refer to these historically accumulate and culturally developed bodies of knowledge and skills essential for household or individual functioning and well-being" [@mollFundsKnowledgeTeaching1992, p. 133].
 
 **Intellectual Humility in Practice:** As adult educators, we have the opportunity to facilitate learning from a place of intellectual humility, acknowledging the funds of knowledge our students bring with them into their learning. When we incorporate a servant leadership perspective with intellectual humility, we will seek to engage people’s heads, hearts and hopes and empower learners to turn their newfound knowledge and skills into action.
 
@@ -167,19 +167,19 @@ Dr. Adrienne Castellon, a former faculty member at Trinity Western University, s
 
 > Realizing that our core values, personality traits, and characteristics impact how we learn and teach, take the time to discern your essential values. For example, I have identified the following six essential values to incorporate into my life and teaching: honesty, integrity, persistence, desire to learn, compassion/empathy and community. Because I value compassion/empathy and community, I put the learner first and design my curricula and methodologies to suit the learners in my class. Because I value persistence and the desire to learn, I don’t give up on students and I try to find ways to help them learn through different methods and alternate ways that they can demonstrate their learning.
 
-These values direct my entire teaching methodology; I espouse the goals of differentiated instruction (basically changing instructional methods to adapt to different learners) and aim to create a space for learning that empowers all students to succeed. For more information, see ["Differentiated Instruction | Definition, Strategies & Examples"](https://study.com/academy/lesson/what-is-differentiated-instruction-examples-definition-activities.html){target="_blank"} (Study.com, n.d.) as a supplementary resource.
+These values direct my entire teaching methodology; I espouse the goals of differentiated instruction (basically changing instructional methods to adapt to different learners) and aim to create a space for learning that empowers all students to succeed. For more information, see ["Differentiated Instruction | Definition, Strategies & Examples"](https://study.com/academy/lesson/what-is-differentiated-instruction-examples-definition-activities.html){target="_blank"} [@study.comDifferentiatedInstructionDefinition] as a supplementary resource.
 
 **Differentiated Instruction:** One way to demonstrate intellectual humility, is to acknowledge that we all learn differently. Differentiated instruction can become a seamless part of your instructional planning and practice. Differentiated instruction is a teaching approach in which you tailor your teaching and learning activities to meet the diverse needs of learners in your classroom or training session.
 
-You can practice differentiated instruction by intentionally creating opportunities to learn about students’ strengths, needs, interests, preferences, and ways of learning. The online tool "[What’s Your Learning Style?](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml){target="_blank"}" is an example of a self-assessment tool to help identify a learner’s learning style. To this end you can use meaningful strategies and ongoing assessment and adjustment. You can differentiate the content, process, or product components of the learning experience by using a range of strategies and methods, e.g., anchor activities, tiered lessons, small-group instruction, and varied tasks. Visit [Differentiated Instruction](https://lincs.ed.gov/state-resources/federal-initiatives/teal/guide/differentiatedinstruction){target="_blank"} (LINCS, n.d.) to learn more.
+You can practice differentiated instruction by intentionally creating opportunities to learn about students’ strengths, needs, interests, preferences, and ways of learning. The online tool "[What’s Your Learning Style?](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml){target="_blank"}" is an example of a self-assessment tool to help identify a learner’s learning style. To this end you can use meaningful strategies and ongoing assessment and adjustment. You can differentiate the content, process, or product components of the learning experience by using a range of strategies and methods, e.g., anchor activities, tiered lessons, small-group instruction, and varied tasks. Visit [Differentiated Instruction](https://lincs.ed.gov/state-resources/federal-initiatives/teal/guide/differentiatedinstruction){target="_blank"} [@lincsDifferentiatedInstruction] to learn more.
 
-Please take the time to explore the resources linked in the notes and other resources in your Brookfield and Preskill (2016) and Silberman and Biech (2015) texts. The approach taken throughout this course is an intellectually humble one. In chapters five and six, Brookfield and Preskill (2016) particularly address the power dynamic in the classroom, awareness of which may foster a more intellectually humble approach. You are encouraged to use your texts as primary resources for more detailed information about specific strategies and approaches to contributing as an adult educator while remaining intellectually humble.
+Please take the time to explore the resources linked in the notes and other resources in your Brookfield and Preskill [-@brookfieldDiscussionBook502016] and Silberman and Biech [-@silbermanActiveTrainingHandbook2015] texts. The approach taken throughout this course is an intellectually humble one. In chapters five and six, Brookfield and Preskill [-@brookfieldDiscussionBook502016] particularly address the power dynamic in the classroom, awareness of which may foster a more intellectually humble approach. You are encouraged to use your texts as primary resources for more detailed information about specific strategies and approaches to contributing as an adult educator while remaining intellectually humble.
 
 ### Activity: Cognitive and Interpersonal Features of Intellectual Humility
 
 ::: {.learning-activity time="60"}
 
-Read ["Cognitive and Interpersonal Features of Intellectual Humility"](https://research-ebsco-com.twu.idm.oclc.org/c/bljv25/search/details/xrpxlsekx5?db=psyh){target="_blank"} (Leary et al., 2017).
+Read ["Cognitive and Interpersonal Features of Intellectual Humility"](https://research-ebsco-com.twu.idm.oclc.org/c/bljv25/search/details/xrpxlsekx5?db=psyh){target="_blank"} [@learyCognitiveInterpersonalFeatures2017].
 
 ::: {.prote}
 
@@ -203,7 +203,7 @@ In your reflective journal, consider:
 
 ::: {.learning-activity time="45"}
 
-Watch Farah Nasser presenting on ["The Power of Intellectual Humility"](https://www.youtube.com/watch?v=2vjXw_iFOMc){target="_blank"} (TEDx Talks, 2019).
+Watch Farah Nasser presenting on ["The Power of Intellectual Humility"](https://www.youtube.com/watch?v=2vjXw_iFOMc){target="_blank"} [@tedxtalksPowerIntellectualHumility2019].
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/2vjXw_iFOMc >}}
@@ -213,7 +213,7 @@ Consider the ways in which you might make assumptions about those you interact w
 
 As you reflect on this talk, consider the following:
 
-- What can you learn from Nasser’s (2019) experience with her coworker?
+- What can you learn from Nasser’s [-@tedxtalksPowerIntellectualHumility2019] experience with her coworker?
 - How can you remain open to hearing others’ beliefs? How can you feel comfortable sharing your own?
 - What can you learn from your colleagues, students, and teachers?
 - How can you expand your community, so you encounter others who have different beliefs from you?
@@ -256,7 +256,7 @@ As you engage in this reflective experience, hold in mind these questions:
 
 ## Summary {.unnumbered}
 
-In this unit, we have explored the inward dimensions of becoming authentic and effective adult educators. Teaching begins with self-awareness. By learning to know ourselves—our values, strengths, and limitations—we create the foundation to trust our own presence in the classroom. As Palmer (2017) explains, "we teach who we are" (p. 2), reminding us that authenticity and inner clarity are essential to building trust with learners. This self-trust enables us to engage learners with confidence and openness, even in moments of uncertainty.
+In this unit, we have explored the inward dimensions of becoming authentic and effective adult educators. Teaching begins with self-awareness. By learning to know ourselves—our values, strengths, and limitations—we create the foundation to trust our own presence in the classroom. As Palmer [-@palmerCourageTeachExploring2017] explains, "we teach who we are" (p. 2), reminding us that authenticity and inner clarity are essential to building trust with learners. This self-trust enables us to engage learners with confidence and openness, even in moments of uncertainty.
 
 Alongside self-knowledge, we also considered the practice of intellectual humility. For adult educators, intellectual humility is not about diminishing our own expertise, but about modeling curiosity, openness to new perspectives, and a willingness to learn from students as well as colleagues. This practice allows us to foster authentic relationships, strengthen trust in the learning community, and invite shared exploration rooted in respect and mutual growth.
 
@@ -274,7 +274,7 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 ## References {.unnumbered}
 
-Porter, T. & Schumann, K. (2017). Intellectual humility and openness to the opposing view. *Self and Identity, (17)*2, 139-162. [https://doi.org/10.1080/15298868.2017.1361861](https://doi.org/10.1080/15298868.2017.1361861){target="_blank"}
+<!-- Porter, T. & Schumann, K. (2017). Intellectual humility and openness to the opposing view. *Self and Identity, (17)*2, 139-162. [https://doi.org/10.1080/15298868.2017.1361861](https://doi.org/10.1080/15298868.2017.1361861){target="_blank"}
 
 Havel, V. (1990). *Disturbing the peace: A conversation with Karel Hvížďala*. Random House
 
@@ -288,4 +288,4 @@ Foundation for Critical Thinking. (2014). *Valuable intellectual virtues. Founda
 
 Brookfield, S. and Preskill, S. (2016). *The discussion book: 50 great ways to get people talking.* Jossey Bass.
 
-Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley.
+Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley. -->

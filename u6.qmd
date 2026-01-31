@@ -31,9 +31,9 @@ Here is a list of learning activities that will benefit you in completing this u
 
 ::: {.learning-activity}
 
-- Read Chapter 4, "Building Community," in Small Teaching Online (Darby & Lang, 2019).
-- Read Chapter 5, "Giving Feedback," and Chapter 6, "Fostering Student Persistence and Success" in Small Teaching Online (Darby & Lang, 2019).
-- Read *Enhancing Learning Through Formative Assessment and Feedback* (Thamrin & Fahri, 2024) and *Focus on Formative Feedback* (Shute, 2008) and choose two to three (2-3) strategies you would like to apply to your own context.
+- Read Chapter 4, "Building Community," in Small Teaching Online [@darbySmallTeachingOnline2019].
+- Read Chapter 5, "Giving Feedback," and Chapter 6, "Fostering Student Persistence and Success" in Small Teaching Online [@darbySmallTeachingOnline2019].
+- Read *Enhancing Learning Through Formative Assessment and Feedback* [@thamrinEnhancingLearningFormative2024] and *Focus on Formative Feedback* [@shuteFocusFormativeFeedback2008] and choose two to three (2-3) strategies you would like to apply to your own context.
 - Watch the list of videos to learn from experts about how to give effective feedback in a variety of contexts.
 
 *Note:* Working through learning activities will help you to meet the learning outcomes and successfully complete your assessments.
@@ -47,14 +47,14 @@ See the Assessment section in Moodle for assignment details.
 
 Here are the resources you will need to complete this unit.
 
-- Darby, F., & Lang, J. M. (2019). *Small teaching online: Applying learning science in online classes.* Jossey-Bass.
+- Darby, F., & Lang, J. M. [-@darbySmallTeachingOnline2019]. *Small teaching online: Applying learning science in online classes.* Jossey-Bass.
 - Other online resources will be provided in the unit.
 
 ## Building Community in Learning Environments
 
 As we continue to consider how to create authentic learning communities, in this unit we will focus on strategies to build a deeper sense of community, as well as how to provide feedback to students to support their continued growth and development.
 
-As facilitators of learning, we strive to create learning communities and experiences where students become deeply involved in their learning. In *Small Teaching Online,* Darby and Lang (2019), share stories of their own teaching, including strategies they have used to engage students in the learning process. These strategies go beyond the read-think-write formula we often see—particularly in online learning. Instead, the authors tell stories of deep engagement, including a story about create opportunities for students to think critically and communicate persuasively through the use of debate. As Darby and Lang (2019) write, students found these learning experiences valuable, sharing that "the debates we had in that class helped them to see others’ viewpoints, to consider perspectives that differed from their own – to expand their thinking" (p. 76).
+As facilitators of learning, we strive to create learning communities and experiences where students become deeply involved in their learning. In *Small Teaching Online,* Darby and Lang [-@darbySmallTeachingOnline2019], share stories of their own teaching, including strategies they have used to engage students in the learning process. These strategies go beyond the read-think-write formula we often see—particularly in online learning. Instead, the authors tell stories of deep engagement, including a story about create opportunities for students to think critically and communicate persuasively through the use of debate. As Darby and Lang [-@darbySmallTeachingOnline2019] write, students found these learning experiences valuable, sharing that "the debates we had in that class helped them to see others’ viewpoints, to consider perspectives that differed from their own – to expand their thinking" (p. 76).
 
 For those learning online, of course, engagement will look different. When you facilitate learning in an online environment, you must be actively present in the discussions between students, supporting student learning by engaging their ideas and connecting with them personally. As Darby and Lang (2017) argue, "You set the tone and the example, both at the very beginning of the class and throughout the semester" (p. 86).
 
@@ -64,7 +64,7 @@ In online learning environments, students can often feel isolated—especially i
 
 ::: {.learning-activity time="75"}
 
-Read Chapter 4, "Building Community," in *Small Teaching Online* (Darby & Lang, 2019).
+Read Chapter 4, "Building Community," in *Small Teaching Online* [-@darbySmallTeachingOnline2019].
 
 Consider the practical strategies they recommend to connect with students and demonstrate your "instructor presence." Choose two to three (2-3) strategies you would like to try in your own teaching or facilitation of learning. In your reflective journal, write a few words about each of these strategies and how you would implement them in your own teaching practice. For each strategy, build a short but persuasive academic argument for why this strategy could be effective.
 
@@ -86,11 +86,11 @@ Instead, when we approach feedback as an experience designed to support student 
 
 #### Scaffolded Feedback {.unnumbered}
 
-While we may still provide direct feedback by pointing out errors, we do so with a focus on helping them correct those errors in future assignments. This concept, referred to as *scaffolding*, allows students to enter into the learning process with the expectation that they will continue to grow throughout the course. Shute (2008) includes several examples of scaffolded feedback, including "models, cues, prompts, hints, practical solutions, and direct instruction" (p. 163). In your graduate courses, for example, an instructor might provide a model of an effective paper for an assignment or might give you direct instruction on how to correct your reference list to ensure it aligns with APA formatting guidelines. In other words, instead of simply saying something like "Good paper. Some problems with APA formatting," an instructor might provide notes such as: "You’re making great progress on APA formatting. In your next paper, be sure to include the author’s last name and first initial. For example, you should format this article like this..." Formative feedback like this is affirmative and supportive, while at the same time directly correcting errors and providing guidance for how to get it correct the next time.
+While we may still provide direct feedback by pointing out errors, we do so with a focus on helping them correct those errors in future assignments. This concept, referred to as *scaffolding*, allows students to enter into the learning process with the expectation that they will continue to grow throughout the course. Shute [-@shuteFocusFormativeFeedback2008] includes several examples of scaffolded feedback, including "models, cues, prompts, hints, practical solutions, and direct instruction" (p. 163). In your graduate courses, for example, an instructor might provide a model of an effective paper for an assignment or might give you direct instruction on how to correct your reference list to ensure it aligns with APA formatting guidelines. In other words, instead of simply saying something like "Good paper. Some problems with APA formatting," an instructor might provide notes such as: "You’re making great progress on APA formatting. In your next paper, be sure to include the author’s last name and first initial. For example, you should format this article like this..." Formative feedback like this is affirmative and supportive, while at the same time directly correcting errors and providing guidance for how to get it correct the next time.
 
 #### Formative Assessment {.unnumbered}
 
-This feedback should be timely, of course. Feedback should also be what scholars of teaching and learning describe as "formative." In other words—feedback should be tailored to the student’s learning, giving them guidance about what they should do as they move forward, to deepen their learning and expand their skills. "What students crave, and what too often they don’t receive, is feedback specifically designed to help them get better—especially through frequent, low-stakes assessments" (Darby & Lang, 2019, p. 11).
+This feedback should be timely, of course. Feedback should also be what scholars of teaching and learning describe as "formative." In other words—feedback should be tailored to the student’s learning, giving them guidance about what they should do as they move forward, to deepen their learning and expand their skills. "What students crave, and what too often they don’t receive, is feedback specifically designed to help them get better—especially through frequent, low-stakes assessments" [@darbySmallTeachingOnline2019, p. 11].
 
 #### Peer Feedback {.unnumbered}
 
@@ -98,13 +98,13 @@ But feedback does not need to come only from the instructor; in a learning commu
 
 #### Goal-Directed Feedback {.unnumbered}
 
-Shute (2008) argues that learner motivation depends on alignment between a student’s learning goals and their belief that they can achieve these goals. In other words, it is important that our feedback not only supports their continued motivation, but also moves them closer to achieving the learning they hope to achieve. "Goal-directed feedback provides learners with information about their progress toward a desired goal (or set of goals) rather than providing feedback on discrete responses" (Shute, 2008, p. 161).
+Shute [-@shuteFocusFormativeFeedback2008] argues that learner motivation depends on alignment between a student’s learning goals and their belief that they can achieve these goals. In other words, it is important that our feedback not only supports their continued motivation, but also moves them closer to achieving the learning they hope to achieve. "Goal-directed feedback provides learners with information about their progress toward a desired goal (or set of goals) rather than providing feedback on discrete responses" [@shuteFocusFormativeFeedback2008, p. 161].
 
 ### Activity: Giving Feedback
 
 ::: {.learning-activity time="75"}
 
-Read Chapter 5, "Giving Feedback," and Chapter 6, "Fostering Student Persistence and Success" in *Small Teaching Online* (Darby & Lang, 2019).
+Read Chapter 5, "Giving Feedback," and Chapter 6, "Fostering Student Persistence and Success" in *Small Teaching Online* [@darbySmallTeachingOnline2019].
 
 As you read, consider the practical strategies they recommend providing feedback that is both timely and effective.
 
@@ -114,9 +114,9 @@ As you read, consider the practical strategies they recommend providing feedback
 
 ::: {.learning-activity time="90"}
 
-Read [Enhancing Learning Through Formative Assessment and Feedback](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=176006817&site=ehost-live&scope=site){target="_blank"} (Thamrin & Fahri, 2024). In this book review, you will learn about strategies to provide opportunities for formative feedback provided by both students and faculty. You will also notice some important recommendations for the type of formative feedback you should *not* provide. As optional, if you are interested in reading more about that topic, you may choose to read the book *Enhancing Learning through Formative Assessment and Feedback* (Irons & Elkington, 2022) as well.
+Read [Enhancing Learning Through Formative Assessment and Feedback](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=176006817&site=ehost-live&scope=site){target="_blank"} [@thamrinEnhancingLearningFormative2024]. In this book review, you will learn about strategies to provide opportunities for formative feedback provided by both students and faculty. You will also notice some important recommendations for the type of formative feedback you should *not* provide. As optional, if you are interested in reading more about that topic, you may choose to read the book *Enhancing Learning through Formative Assessment and Feedback* [@ironsEnhancingLearningFormative2022] as well.
 
-Next, read [Focus on Formative Feedback](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=eft&AN=508046487&site=ehost-live&scope=site){target="_blank"} (Shute, 2008). Choose two to three (2-3) strategies you would like to try in your own teaching or facilitation of learning. In your reflective journal, write a few words about each of these strategies and how you would implement them in your own teaching practice. For each strategy, build a short but persuasive academic argument for why this strategy could be effective.
+Next, read [Focus on Formative Feedback](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=eft&AN=508046487&site=ehost-live&scope=site){target="_blank"} [@shuteFocusFormativeFeedback2008]. Choose two to three (2-3) strategies you would like to try in your own teaching or facilitation of learning. In your reflective journal, write a few words about each of these strategies and how you would implement them in your own teaching practice. For each strategy, build a short but persuasive academic argument for why this strategy could be effective.
 
 *Note:* This learning activity will help you prepare for the next assignment.
 
@@ -128,25 +128,25 @@ Next, read [Focus on Formative Feedback](https://twu.idm.oclc.org/login?url=http
 
 Giving feedback is not limited to teachers or students in a classroom setting. Watch the following videos to learn from experts about how to give effective feedback in a variety of contexts.
 
-- [The Secret to Giving Great Feedback](https://www.youtube.com/watch?v=wtl5UrrgU8c){target="_blank"} (TED, 2020) shares a scientifically proven method for giving effective feedback, presented by a cognitive psychologist.
+- [The Secret to Giving Great Feedback](https://www.youtube.com/watch?v=wtl5UrrgU8c){target="_blank"} [@tedSecretGivingGreat2020] shares a scientifically proven method for giving effective feedback, presented by a cognitive psychologist.
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/wtl5UrrgU8c >}}
 :::
 
-- [How to Give & Get Constructive Feedback](https://www.youtube.com/watch?v=sPWRjjj2iok){target="_blank"} (Grant & Huberman, 2024) explains psychological and practical nuances of receiving, processing, and acting on feedback to perform better and grow at workplace.
+- [How to Give & Get Constructive Feedback](https://www.youtube.com/watch?v=sPWRjjj2iok){target="_blank"} [@grantHowGiveGet2024] explains psychological and practical nuances of receiving, processing, and acting on feedback to perform better and grow at workplace.
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/sPWRjjj2iok >}}
 :::
 
-- [These Are the WORST Ways to Give Feedback as a Leader](https://www.youtube.com/watch?v=HILMW75uUlk){target="_blank"} (Ronin, 2024) offers practical examples—both good and bad—that leaders can apply in their own practice.
+- [These Are the WORST Ways to Give Feedback as a Leader](https://www.youtube.com/watch?v=HILMW75uUlk){target="_blank"} [@roninTheseAreWorst2023] offers practical examples—both good and bad—that leaders can apply in their own practice.
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/HILMW75uUlk >}}
 :::
 
-- How to Give Constructive Feedback - Full Role Play (Xenium HR, 2018) features a role-play example of a leader giving 1:1 feedback.
+- How to Give Constructive Feedback - Full Role Play [@xeniumhrHowGiveConstructive2018] features a role-play example of a leader giving 1:1 feedback.
 
 How do you find these tips and insights useful for your own context as a teacher, facilitator, coach, or leader? In what ways do they differ from or align with the approaches discussed in the earlier reading?
 
@@ -156,11 +156,11 @@ How do you find these tips and insights useful for your own context as a teacher
 
 In this unit, we have considered strategies we can use to build communities that support student learning, as well as how we can provide feedback that supports continued growth and development.
 
-Building community not only supports learning—it is also an essential component of servant leadership. "Servant leaders build community to provide a place where people can feel safe and connected with others, but are still allowed to express their own individuality" (Northouse, 2022, p. 256). Within this type of community, learners can engage in their own learning—and contribute to the learning of others.
+Building community not only supports learning—it is also an essential component of servant leadership. "Servant leaders build community to provide a place where people can feel safe and connected with others, but are still allowed to express their own individuality" [@northouseLeadershipTheoryPractice2022, p. 256]. Within this type of community, learners can engage in their own learning—and contribute to the learning of others.
 
 As a facilitator or leader, developing the skill of providing timely and effective feedback is important. With this skill set, you can create an environment in which those you teach or lead have the opportunity to grow and develop in their work. This focus on developing others is a key component of servant leadership.
 
-> Servant leaders are committed to helping each person in the organization grow personally and professionally. Commitment can take many forms, including providing the followers with opportunities for career development, helping them develop new work skills, taking a personal interest in their ideas, and involving them in decision-making" (Northouse, 2022, p. 256).
+> Servant leaders are committed to helping each person in the organization grow personally and professionally. Commitment can take many forms, including providing the followers with opportunities for career development, helping them develop new work skills, taking a personal interest in their ideas, and involving them in decision-making" [@northouseLeadershipTheoryPractice2022, p. 256].
 
 ::: check
 

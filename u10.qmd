@@ -36,7 +36,7 @@ Here is a list of learning activities that will benefit you in completing this u
 
 - Follow the step-by-step instructions to help you synthesize your platform and create a journal reflection.
 - Design a learning outcome that will be integrated into your final assignment: Authentic Learning Experience Design.
-- Review Brookfield and Preskill (2016) and Silberman and Biech (2015) and identify strategies that you find useful and plan to incorporate into your learning experience design process.
+- Review Brookfield and Preskill [-@brookfieldDiscussionBook502016] and Silberman and Biech [-@silbermanActiveTrainingHandbook2015] and identify strategies that you find useful and plan to incorporate into your learning experience design process.
 - As a closing activity, immerse yourself in poetry, quotes, and music that highlight the sacred nature of the teaching and learning process.
 
 *Note:* Working through learning activities will help you to meet the learning outcomes and successfully complete your assessments.
@@ -61,7 +61,7 @@ A strong platform of beliefs does more than list abstract ideas—it reflects wh
 As you create your platform, you will want to:
 
 - **Anchor your beliefs in authenticity.** Consider how being transparent, present, and genuine in your facilitation shapes learning experiences.
-- **Engage with adult learning theory.** Kolb’s (1984) Experiential Learning Theory, Mezirow’s (1997) Transformative Learning Theory, and Knowles’ (1980) Andragogy offer useful perspectives on how adults learn. Your beliefs may align with some, challenge others, or integrate elements of each.
+- **Engage with adult learning theory.** Kolb’s [-@kolbExperientialLearningExperience1984] Experiential Learning Theory, Mezirow’s [-@mezirowTransformativeLearningTheory1997] Transformative Learning Theory, and Knowles’ [-@knowlesModernPracticeAdult1980] Andragogy offer useful perspectives on how adults learn. Your beliefs may align with some, challenge others, or integrate elements of each.
 - **Draw on culturally responsive teaching.** Reflect on how your beliefs support inclusivity, respect, and responsiveness to the lived experiences of diverse learners.
 - **Include Indigenous ways of knowing.** Ask how your beliefs acknowledge interconnectedness, respect for community, and the relational nature of knowledge.
 
@@ -71,7 +71,7 @@ Your platform of beliefs should not feel static, it will grow as you encounter n
 
 ::: {.learning-activity time="90"}
 
-As you prepare for the final course assignment, this activity will help you consolidate your learning from earlier reflections, theories, and course content into a clear foundation for your platform of beliefs. Thinking about your beliefs can be challenging, in a task-driven world that often prioritizes action over reflection. However, as Palmer (2017) urges us to do, taking time for your own personal reflections now can allow you to show up in your classroom later (whether online or on-site) with more presence and authenticity. You are encouraged to create space for reflection. Make yourself a warm drink and curl up on the couch, go for a walk in the forest or a nearby park, or take your reflective journal with you to a coffee shop. Take some time to think deeply about who you want to be as a facilitator or teacher.
+As you prepare for the final course assignment, this activity will help you consolidate your learning from earlier reflections, theories, and course content into a clear foundation for your platform of beliefs. Thinking about your beliefs can be challenging, in a task-driven world that often prioritizes action over reflection. However, as Palmer [-@palmerCourageTeachExploring2017] urges us to do, taking time for your own personal reflections now can allow you to show up in your classroom later (whether online or on-site) with more presence and authenticity. You are encouraged to create space for reflection. Make yourself a warm drink and curl up on the couch, go for a walk in the forest or a nearby park, or take your reflective journal with you to a coffee shop. Take some time to think deeply about who you want to be as a facilitator or teacher.
 
 1. **Review Your Work So Far**
     a. Review your reflective journal, including your draft beliefs from earlier learning activities.
@@ -107,12 +107,12 @@ Learning outcomes, simply put, encapsulate in a short sentence, what we want stu
 
 - What essential learning must take place for students to learn the knowledge/skills/values to prepare for higher-level coursework or engage in the profession?
 
-Learning outcomes allow us to ensure that both students and instructors know why they are engaging in the learning process. Our goal, after all, as teachers and facilitators, is not just to teach or facilitate – but for students/employees to learn. As Barr and Tagg (1995) put it, "Our mission is not instruction but rather producing learning with eery student by whatever means works best" (p. 13). When we create learning outcomes, we are thinking then, of what we want students/employees to learn. Only with a strong learning outcome can we move forward to design the learning experience so students/employees are able to achieve that learning outcome.
+Learning outcomes allow us to ensure that both students and instructors know why they are engaging in the learning process. Our goal, after all, as teachers and facilitators, is not just to teach or facilitate – but for students/employees to learn. As Barr and Tagg [-@barrTeachingLearningNew1995] put it, "Our mission is not instruction but rather producing learning with eery student by whatever means works best" (p. 13). When we create learning outcomes, we are thinking then, of what we want students/employees to learn. Only with a strong learning outcome can we move forward to design the learning experience so students/employees are able to achieve that learning outcome.
 
 There is a simple formula we can use to create a measurable learning outcome:
 
 ::: {#fig-block_u10_1}
-![](assets/u10/image1.png){.lightbox fig-alt="A graphic titled 'Formula for a Student Learning Outcome' presents a three-part equation for writing an effective learning outcome, as defined by Penfold Navarro, C. (2016). The formula consists of 'Students will be able to' plus an 'Action Verb (Bloom's Word)' and 'What they will be able to do'"}
+![](assets/u10/image1.png){.lightbox fig-alt="A graphic titled 'Formula for a Student Learning Outcome' presents a three-part equation for writing an effective learning outcome, as defined by Penfold Navarro, C. [-@penfoldnavarroFormulaStudentLearning2016]. The formula consists of 'Students will be able to' plus an 'Action Verb (Bloom's Word)' and 'What they will be able to do'"}
 
 Formula for a Student Learning Outcome
 :::
@@ -154,20 +154,20 @@ In your final assignment in this course, you will design a learning experience f
 3. Design two to three (2-3) learning outcomes for the learning experience you want to create.
 4. Check each of the learning outcomes to ensure they are specific and measurable. In other words, will you be able to measure whether the learners have achieved the learning outcomes?
 
-To learn about Bloom’s Taxonomy of Learning, watch [*Bloom's Taxonomy - Explained in 3 Minutes*](https://www.youtube.com/watch?v=ve-Evb5bGoc){target="_blank"} (Helpful Professor Explains, 2024).
+To learn about Bloom’s Taxonomy of Learning, watch [*Bloom's Taxonomy - Explained in 3 Minutes*](https://www.youtube.com/watch?v=ve-Evb5bGoc){target="_blank"} [@helpfulprofessorexplainsBloomsTaxonomyExplained2024].
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/ve-Evb5bGoc >}}
 :::
 
-You can also read [Bloom’s Taxonomy for Learning: The Cognitive Domain](https://www.yorku.ca/teachingcommons/wp-content/uploads/sites/38/2023/03/Food_for_Thought-06-Blooms-Taxonomy.pdf){target="_blank"} (Food for Thought, n.d.) to learn more.
+You can also read [Bloom’s Taxonomy for Learning: The Cognitive Domain](https://www.yorku.ca/teachingcommons/wp-content/uploads/sites/38/2023/03/Food_for_Thought-06-Blooms-Taxonomy.pdf){target="_blank"} [@foodforthoughtBloomsTaxonomyLearning] to learn more.
 
 If you need help in designing learning outcomes, review the following resources:
 
-- University of British Columbia. (n.d.). *Learning outcomes.* Okanogan Campus. [https://ctl.ok.ubc.ca/teaching/course-design/learning-outcomes/](https://ctl.ok.ubc.ca/teaching/course-design/learning-outcomes/){target="_blank"}
-- Penfold Navarro, C. (2016). *[Designing learning](https://far.twu.ca/ldrs/662/u9/topic-1/Designing-Learning-Penfold-Navarro-2016.pdf){target="_blank"}.* Trinity Western University.
-- Centre for Teaching Support & Innovation. (n.d.). *Developing learning outcomes.* University of Toronto. [https://teaching.utoronto.ca/resources/dlo/](https://teaching.utoronto.ca/resources/dlo/){target="_blank"}
-- University of Saskatchewan. (n.d.) *Writing learning outcomes* [Video]*.* YouTube. [https://www.youtube.com/watch?v=u3ckk51czC4](https://www.youtube.com/watch?v=u3ckk51czC4%20){target="_blank"}
+- University of British Columbia. [-@LearningOutcomes]. *Learning outcomes.* Okanogan Campus. [https://ctl.ok.ubc.ca/teaching/course-design/learning-outcomes/](https://ctl.ok.ubc.ca/teaching/course-design/learning-outcomes/){target="_blank"}
+- Penfold Navarro, C. [-@penfoldnavarroDesigningLearning2016]. *[Designing learning](https://far.twu.ca/ldrs/662/u9/topic-1/Designing-Learning-Penfold-Navarro-2016.pdf){target="_blank"}.* Trinity Western University.
+- Centre for Teaching Support & Innovation. [-@centreforteachingsupport&innovationDevelopingLearningOutcomes]. *Developing learning outcomes.* University of Toronto. [https://teaching.utoronto.ca/resources/dlo/](https://teaching.utoronto.ca/resources/dlo/){target="_blank"}
+- University of Saskatchewan. [-@gmctlusaskWritingLearningOutcomes2013] *Writing learning outcomes* [Video]*.* YouTube. [https://www.youtube.com/watch?v=u3ckk51czC4](https://www.youtube.com/watch?v=u3ckk51czC4%20){target="_blank"}
 
 
 ::: video-container
@@ -180,7 +180,7 @@ Bleep bloop: The above video was auto embedded. If it was just a link, I added a
 
 :::
 
-- How to Canvas. (2021). *How to write measurable learning outcomes* [Video]*.* YouTube. [https://www.youtube.com/watch?v=NsPvMDnmWsc](https://www.youtube.com/watch?v=NsPvMDnmWsc){target="_blank"}
+- How to Canvas. [-@howtocanvasHowWriteMeasurable2021]. *How to write measurable learning outcomes* [Video]*.* YouTube. [https://www.youtube.com/watch?v=NsPvMDnmWsc](https://www.youtube.com/watch?v=NsPvMDnmWsc){target="_blank"}
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/NsPvMDnmWsc >}}
@@ -204,7 +204,7 @@ To prepare for your assignment, consider what you have learned in this course ab
 
 ::: {.learning-activity time="30"}
 
-Go through the ideas shared in Brookfield and Preskill’s (2016) *The Discussion Book* and Silberman and Biech’s (2015) *Active Training.* If you are reading a hard copy of these books, put a ‘sticky note’ on the pages of strategies that you like and plan to use. If you are using an electronic book, add a highlight or bookmark, or makes some notes in your reflective journal, to identity strategies you could use to create connection in your classes. Think about why you like these facilitation techniques and how they relate to adult learning principles. How can you use these strategies to create an authentic learning community?
+Go through the ideas shared in Brookfield and Preskill’s [-@brookfieldDiscussionBook502016] *The Discussion Book* and Silberman and Biech’s (2015) *Active Training.* If you are reading a hard copy of these books, put a ‘sticky note’ on the pages of strategies that you like and plan to use. If you are using an electronic book, add a highlight or bookmark, or makes some notes in your reflective journal, to identity strategies you could use to create connection in your classes. Think about why you like these facilitation techniques and how they relate to adult learning principles. How can you use these strategies to create an authentic learning community?
 
 :::
 
@@ -216,9 +216,9 @@ Beyond your own classroom, you may be asked to contribute to committees and othe
 
 During this course you have focused on how to develop authentic learning communities. Authentic learning communities take place within organizational contexts. Priorities between these two—developing authentic learning communities and organizational realities—are not always aligned. However, it behooves the critical thinker to figure out how to align them as much as possible. This is a challenge worth embracing to be personally and professionally fulfilled.
 
-> No matter how hopeful our dialogue has been, no matter how many of our colleagues have embraced a new vision, no matter how many practical possibilities we have explored, someone will say, ‘These are wonderful ideas, but every last one of them will be defeated by conditions in my school’ (Palmer, 2017, p. 170).
+> No matter how hopeful our dialogue has been, no matter how many of our colleagues have embraced a new vision, no matter how many practical possibilities we have explored, someone will say, ‘These are wonderful ideas, but every last one of them will be defeated by conditions in my school’ [@palmerCourageTeachExploring2017, p. 170].
 
-Palmer (2017) suggests that change begins when we, as individual teachers and facilitators, "make an inward decision to live ‘divided no more,’ finding a center for their lives outside of institutions" and "begin to discover one another and form communities of congruence that offer mutual support and opportunities to develop a shared vision" (pp. 172-173).
+Palmer [-@palmerCourageTeachExploring2017] suggests that change begins when we, as individual teachers and facilitators, "make an inward decision to live ‘divided no more,’ finding a center for their lives outside of institutions" and "begin to discover one another and form communities of congruence that offer mutual support and opportunities to develop a shared vision" (pp. 172-173).
 
 ### Activity: Closing Song
 
@@ -232,13 +232,13 @@ Choose one of the following pieces to reflect on:
 
 > What would you think if I sang out of tune? Would you stand up and walk out on me? Lend me your ears and I’ll sing you a song, And I’ll try not to sing out of key. I get by with a little help from my friends.
 > 
-> — [*With a Little Help from My Friends*](https://www.youtube.com/watch?v=0C58ttB2-Qg){target="_blank"} (The Beatles, 2018)
+> — [*With a Little Help from My Friends*](https://www.youtube.com/watch?v=0C58ttB2-Qg){target="_blank"} [@thebeatlesLittleHelpMy2018]
 
 **Quote**
 
 > Good teaching cannot be reduced to technique; good teaching comes from the identity and integrity of the teacher.
 > 
-> — *The Courage to Teach* (Parker Palmer, 2017)
+> — *The Courage to Teach* [@palmerCourageTeachExploring2017]
 
 **Scripture** 
 
@@ -254,7 +254,7 @@ Choose one of the following pieces to reflect on:
 > 
 > It is so good to sing of You At the first light of the morning And at night Your faithfulness review Before I close my eyes And sometimes in the dimming light I stumble on Your glory That overwhelming sudden fright But not the daunting kind It’s so hard to describe. 
 > 
-> — [*Fresh and Green*](https://www.youtube.com/watch?v=uKjVQ5VSaXc){target="_blank"} by Steve Bell.
+> — [*Fresh and Green*](https://www.youtube.com/watch?v=uKjVQ5VSaXc){target="_blank"} by Steve Bell [-@bellPsalm92Fresh2015].
 
 
 :::
@@ -276,7 +276,7 @@ Before you move on to the next unit, you may want to check to make sure that you
 :::
 
 ## References {.unnumbered}
-
+<!-- 
 Brookfield, S. and Preskill, S. (2016). *The discussion book: 50 great ways to get people talking.* Jossey Bass.
 
-Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley.
+Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips* (4th ed.). Wiley. -->
