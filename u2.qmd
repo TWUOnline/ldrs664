@@ -255,6 +255,63 @@ Take the [Clance Imposter Phenomenon test](http://paulineroseclance.com/pdf/IPsc
 
 :::
 
+::: {.webex-check .webex-box .webex-radiogroup}
+
+```{r, echo=FALSE, results='asis'}
+library(htmltools)
+library(webexercises)
+# statements
+qs <- c(
+    "I have often succeeded on a test or task even though I was afraid that I would not do well before I undertook the task.",
+    "I have often succeeded on a test or task even though I was afraid that I would not do well before I undertook the task.",
+    "I have often succeeded on a test or task even though I was afraid that I would not do well before I undertook the task.",
+    "When people praise me for something I’ve accomplished, I’m afraid I won’t be able to live up to their expectations of me in the future.",
+    "I sometimes think I obtained my present position or gained my present success because I happened to be in the right place at the right time or knew the right people.",
+    "I’m afraid people important to me may find out that I’m not as capable as they think I am.",
+    "I’m afraid people important to me may find out that I’m not as capable as they think I am.",
+    "I’m afraid people important to me may find out that I’m not as capable as they think I am.",
+    "Sometimes I feel or believe that my success in my life or in my job has been the result of some kind of error.",
+    "It’s hard for me to accept compliments or praise about my intelligence or accomplishments.",
+    "At times, I feel my success has been due to some kind of luck.",
+    "I’m disappointed at times in my present accomplishments and think I should have accomplished much more.",
+    "Sometimes I’m afraid others will discover how much knowledge or ability I really lack.",
+    "I’m often afraid that I may fail at a new assignment or undertaking even though I generally do well at what I attempt.",
+    "When I’ve succeeded at something and received recognition for my accomplishments, I have doubts that I can keep repeating that success.",
+    "If I receive a great deal of praise and recognition for something I’ve accomplished, I tend to discount the importance of what I’ve done.",
+    "I often compare my ability to those around me and think they may be more intelligent than I am.",
+    "I often worry about not succeeding with a project or examination, even though others around me have considerable confidence that I will do well.",
+    "If I’m going to receive a promotion or gain recognition of some kind, I hesitate to tell others until it is an accomplished fact.",
+    "If I’m going to receive a promotion or gain recognition of some kind, I hesitate to tell others until it is an accomplished fact."
+)
+
+
+# Likert labels; we name every option "answer" so webexercises marks it as selectable/correct,
+# while the *score* comes only from the points vector we pass.
+likert_labels <- c(
+    "not at all true",
+    "rarely",
+    "sometimes",
+    "often",
+    "very true"
+)
+likert_opts <- stats::setNames(likert_labels, rep("answer", length(likert_labels)))
+
+# emit each item + longmcq with points
+for (i in seq_along(qs)) {
+    pts <- 1:5
+
+    cat(
+        sprintf("<p><strong>%d.</strong> %s</p>\n", i, htmltools::htmlEscape(qs[i])),
+        longmcq(likert_opts, points = pts),
+        # "<hr/>",
+        sep = ""
+    )
+}
+
+```
+
+:::
+
 ### Activity: Can You See the Real Me?
 
 ::: {.learning-activity time="60"}
