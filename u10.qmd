@@ -146,11 +146,11 @@ These learning outcomes follow the formula provided in Figure 1:
 
 In your final assignment in this course, you will design a learning experience for adult learners. To prepare for that assignment, you will begin by considering what you want the adult learners to learn.
 
-1. Review the instructions for Assignment 3: Authentic Learning Experience Design.
+1. Review the instructions for *Assignment 3: Authentic Learning Experience Design*.
 2. In your reflective journal, take some time to consider the following questions:
-    1. What do I want these adult learners to learn?
-    2. Do these learning outcomes align with my platform of beliefs? How?
-    3. Do these learning outcomes match what the organization wants their students/employees to learn?
+    a. What do I want these adult learners to learn?
+    b. Do these learning outcomes align with my platform of beliefs? How?
+    c. Do these learning outcomes match what the organization wants their students/employees to learn?
 3. Design two to three (2-3) learning outcomes for the learning experience you want to create.
 4. Check each of the learning outcomes to ensure they are specific and measurable. In other words, will you be able to measure whether the learners have achieved the learning outcomes?
 
@@ -160,14 +160,14 @@ To learn about Bloom’s Taxonomy of Learning, watch [*Bloom's Taxonomy - Explai
 {{< video https://www.youtube-nocookie.com/embed/ve-Evb5bGoc >}}
 :::
 
-You can also read [Bloom’s Taxonomy for Learning: The Cognitive Domain](https://www.yorku.ca/teachingcommons/wp-content/uploads/sites/38/2023/03/Food_for_Thought-06-Blooms-Taxonomy.pdf){target="_blank"} [@foodforthoughtBloomsTaxonomyLearning] to learn more.
+You can also read [*Bloom’s Taxonomy for Learning: The Cognitive Domain*](https://www.yorku.ca/teachingcommons/wp-content/uploads/sites/38/2023/03/Food_for_Thought-06-Blooms-Taxonomy.pdf){target="_blank"} [@foodforthoughtBloomsTaxonomyLearning] to learn more.
 
 If you need help in designing learning outcomes, review the following resources:
 
-- University of British Columbia. [-@LearningOutcomes]. *Learning outcomes.* Okanogan Campus. [https://ctl.ok.ubc.ca/teaching/course-design/learning-outcomes/](https://ctl.ok.ubc.ca/teaching/course-design/learning-outcomes/){target="_blank"}
+- University of British Columbia. [-@LearningOutcomes]. [*Learning outcomes.*](https://ctl.ok.ubc.ca/teaching/course-design/learning-outcomes/){target="_blank"} Okanagan Campus.
 - Penfold Navarro, C. [-@penfoldnavarroDesigningLearning2016]. *[Designing learning](https://far.twu.ca/ldrs/662/u9/topic-1/Designing-Learning-Penfold-Navarro-2016.pdf){target="_blank"}.* Trinity Western University.
-- Centre for Teaching Support & Innovation. [-@centreforteachingsupport&innovationDevelopingLearningOutcomes]. *Developing learning outcomes.* University of Toronto. [https://teaching.utoronto.ca/resources/dlo/](https://teaching.utoronto.ca/resources/dlo/){target="_blank"}
-- University of Saskatchewan. [-@gmctlusaskWritingLearningOutcomes2013] *Writing learning outcomes* [Video]*.* YouTube. [https://www.youtube.com/watch?v=u3ckk51czC4](https://www.youtube.com/watch?v=u3ckk51czC4%20){target="_blank"}
+- Centre for Teaching Support & Innovation. [-@centreforteachingsupport&innovationDevelopingLearningOutcomes]. [*Developing learning outcomes.*](https://teaching.utoronto.ca/resources/dlo/){target="_blank"} University of Toronto.
+- University of Saskatchewan. [-@gmctlusaskWritingLearningOutcomes2013] [*Writing learning outcomes*](https://www.youtube.com/watch?v=u3ckk51czC4%20){target="_blank"} [Video]. YouTube.
 
 
 ::: video-container
@@ -180,7 +180,7 @@ Bleep bloop: The above video was auto embedded. If it was just a link, I added a
 
 :::
 
-- How to Canvas. [-@howtocanvasHowWriteMeasurable2021]. *How to write measurable learning outcomes* [Video]*.* YouTube. [https://www.youtube.com/watch?v=NsPvMDnmWsc](https://www.youtube.com/watch?v=NsPvMDnmWsc){target="_blank"}
+- How to Canvas. [-@howtocanvasHowWriteMeasurable2021]. [*How to write measurable learning outcomes*](https://www.youtube.com/watch?v=NsPvMDnmWsc){target="_blank"} [Video]. YouTube.
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/NsPvMDnmWsc >}}

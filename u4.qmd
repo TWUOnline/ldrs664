@@ -92,7 +92,7 @@ As you consider the learning community you will facilitate, consider how you mig
 ### Activity: What is a Learning Community?
 
 ::: {.learning-activity time="60"}
-Read ["What IS a Learning Community?" (Brower & Dettinger, 1998)](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ592683&site=eds-live&scope=site){target="_blank"}.
+Read ["What 'Is' a Learning Community? Toward a Comprehensive Model." (Brower & Dettinger, 1998)](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ592683&site=eds-live&scope=site){target="_blank"}.
 
 In your reflective journal, respond to the following questions:
 
@@ -113,8 +113,6 @@ As we compare the other two models, feel free to organize your thoughts into a c
 ## The Community of Truth
 
 **Palmer’s (2017)** learning community model incorporates learning and community with a "subject" at the center, surrounded by "knowers" who are in a relationship with each other and with the subject. Palmer [-@palmerCourageTeachExploring2017] asserts that "the community of truth, far from being linear and static and hierarchical, is circular, interactive, and dynamic" (p. 106). Palmer [-@palmerCourageTeachExploring2017] argues that when we learn together, we learn in a dynamic process, learning more together than we would if we studied alone.
-
-**Figure** The Objectivist My of Knowing (left) and The Community of Truth (right) [@palmerCourageTeachExploring2017, pp. 103, 105].
 
 ::: {#fig-block_u4_2 layout-ncol="2"}
 ![The Objectivist My of Knowing](assets/u4/image2.jpg){.lightbox}
@@ -201,7 +199,7 @@ Watch [*Community of Inquiry Framework*](https://www.youtube.com/watch?v=FrK4f2q
 
 Read the following articles:
 
--   [Communities of Inquiry in Online Learning](https://mytwu.sharepoint.com/:b:/r/sites/LearningDesign/Shared%20Documents/MA%20Lead%20-%20Doc/LDRS%20664/2.%20Course%20Working%20Files/Units/Unit%20Resources/U4_Communities_of_Inquiry_in_Online_Learning.pdf?csf=1&web=1&e=sj7k8j){target="_blank"} [@garrisonCommunitiesInquiryOnline2009]
+-   [Communities of Inquiry in Online Learning](assets/u4/Communities_of_Inquiry_in_Online_Learning.pdf){target="_blank"} [@garrisonCommunitiesInquiryOnline2009]
 -   [Researching the Community of Inquiry Framework: Review, Issues, and Future Directions](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ796848&site=eds-live&scope=site){target="_blank"} [@garrisonResearchingCommunityInquiry2007]
 
 In your reflective journal, respond to the following questions:
@@ -253,7 +251,7 @@ After completing this unit, including the learning activities, you are asked to 
 -   Provide a brief description of each of the three models (with citations as appropriate).
 -   Select the learning community model that most closely aligns with your identity and values as a teacher/facilitator. Describe the strengths you see in this model, explaining why it resonates with your concepts of teaching and learning.
 
-*Note:* This activity serves as the discussion prompt for this unit. Share your response and connect with others in the Learning Community to deepen your understanding.\*
+*Note:* This activity serves as the discussion prompt for this unit. Share your response and connect with others in the Learning Community to deepen your understanding.
 :::
 
 ## Summary {.unnumbered}

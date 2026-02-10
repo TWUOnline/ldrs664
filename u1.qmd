@@ -57,7 +57,7 @@ Here are the resources you will need to complete this unit.
 - Palmer, P. J. [-@palmerCourageTeachExploring2017]. *The courage to teach: Exploring the inner landscape of a teacher's life*. Jossey-Bass.
 - Other online resources will be provided in the unit.
 
-*Note:* The e-book of this book title may be available through the [TWU library](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1571339&site=eds-live&scope=site){target="_blank"}.
+<!-- *Note:* The e-book of this book title may be available through the [TWU library](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1571339&site=eds-live&scope=site){target="_blank"}. -->
 
 ## Prelude
 
@@ -81,7 +81,9 @@ Before we dive into the course topics, let’s take a moment to reflect on your 
 
 ## Authenticity in Teaching and Learning
 
+:::note
 *Note:* Teaching and learning occur in many contexts, not just in traditional classrooms. In this course the term "teaching" encompasses much more than the role of a teacher. It can include various forms of coaching, facilitation, and leadership. Consider your own experiences: whether coaching your client, facilitating a discussion, or leading a team, each of these roles embodies the essence of teaching.
+:::
 
 Teaching and learning are deeply personal experiences. Learning is, by definition, a transformative experience; we change as a result of learning. Teaching is also a transformative experience; we change as a result of teaching.
 
@@ -184,7 +186,7 @@ Rank the following strategies according to your comfort level. For each strategy
 
 Next, read the discussion of authentic learning environments in Herrington and Oliver [-@herringtonInstructionalDesignFramework2000] and Oliver et al. [-@oliverRepresentingAuthenticLearning2007] and consider how the elements they discuss align with or differ from Palmer’s [-@palmerCourageTeachExploring2017] description of learning communities.
 
-- Herrington, J. and Oliver, R. [-@herringtonInstructionalDesignFramework2000]. [An instructional design framework for authentic learning environments](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsjsr&AN=edsjsr.30220266&site=eds-live&scope=site){target="_blank"}.*Educational Technology Research and Development, 48*(3), 23–48. [https://research.ebsco.com/linkprocessor/plink?id=0b590818-9d5a-3ec3-9b67-01281ae9f03d](https://research.ebsco.com/linkprocessor/plink?id=0b590818-9d5a-3ec3-9b67-01281ae9f03d){target="_blank"}
+- Herrington, J. and Oliver, R. [-@herringtonInstructionalDesignFramework2000]. [An instructional design framework for authentic learning environments](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsjsr&AN=edsjsr.30220266&site=eds-live&scope=site){target="_blank"}. *Educational Technology Research and Development, 48*(3), 23–48.
 - Oliver R., Herrington, A. Herrington, J. & Reeves, T.C. [-@oliverRepresentingAuthenticLearning2007]. [Representing authentic learning designs supporting the development of online communities of learners](https://eric.ed.gov/?q=EJ903906&id=EJ903906){target="_blank"}. *Journal of Learning Design, 2*(2)*, 1-21.*
 
 **Questions to Consider**

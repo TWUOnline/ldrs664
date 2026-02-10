@@ -59,14 +59,14 @@ In this assignment, you will critically analyze real-world training or professio
 
 1.  **Select a training or development experience.** Choose a training that is accessible and relevant. Options include:
 
--   a short online course or module (e.g., LinkedIn Learning, Coursera, professional association training)
--   a live webinar, workshop, or faculty development session
--   a workplace training program (e.g., compliance training, onboarding, skills development)
--   a recorded training (e.g., video, podcast, open educational resource)
+    -   a short online course or module (e.g., LinkedIn Learning, Coursera, professional association training)
+    -   a live webinar, workshop, or faculty development session
+    -   a workplace training program (e.g., compliance training, onboarding, skills development)
+    -   a recorded training (e.g., video, podcast, open educational resource)
 
-1.  **Engage with the training.** Complete the training, paying attention to the learning design, facilitation, and organizational culture it represents.
+2.  **Engage with the training.** Complete the training, paying attention to the learning design, facilitation, and organizational culture it represents.
    
-2.  **Submit evidence of completion.** Provide documentation showing your engagement with the training. Acceptable forms include:
+3.  **Submit evidence of completion.** Provide documentation showing your engagement with the training. Acceptable forms include:
 
     -   a LinkedIn Learning or Coursera badge/certificate
     -   a screenshot of a "completed" status page
@@ -74,7 +74,7 @@ In this assignment, you will critically analyze real-world training or professio
     -   a copy of the agenda or slides with a brief note on your attendance
     -   for workplace-required trainings, a screenshot or note from your HR/training portal
 
-3.  **Write a 4–6-page APA-formatted paper** in which you:
+4.  **Write a 4–6-page APA-formatted paper** in which you:
 
     -   Describe the training format and access (live, asynchronous, badge-based, webinar, workshop) and how it shaped opportunities for belonging and connection.
     -   Analyze how the training fostered (or failed to foster) a sense of community and belonging with the instructors and/or other participants.
@@ -84,11 +84,11 @@ In this assignment, you will critically analyze real-world training or professio
     -   Articulate your own "web of relationships" that influenced how you interpreted the training and explain how your values shaped your perspective.
     -   Assess the overall effectiveness of the training in supporting authentic professional growth and development.
 
-4.  **Use evidence**
+5.  **Use evidence**
 
     -   Incorporate at least five scholarly sources from the course or other research to support your analysis.
 
-5.  **Submit the following:**
+6.  **Submit the following:**
 
     -   A 4–6-page APA-formatted paper (with a title page and reference list)
     -   Evidence of training completion (e.g., badge, certificate, screenshot, agenda, other documentation)

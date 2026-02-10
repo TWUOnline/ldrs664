@@ -222,7 +222,7 @@ As you reflect on this talk, consider the following:
 
 :::
 
-### Activity: Reflection and Discussion {.unnumbered}
+### Activity: Reflection and Discussion
 
 ::: {.learning-activity time="75"}
 

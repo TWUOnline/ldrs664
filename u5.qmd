@@ -112,7 +112,7 @@ In your reflective journal, make notes on the following questions:
 
 Review the following resources on Appreciative Inquiry:
 
-- [Introduction to Appreciative Inquiry](https://drive.google.com/file/d/1oTJ7kmHDut0eBb4eK3lpJJHhO5bsb7Sz/view){target="_blank"} [@cooperidercenterforappreciativeinquiryIntroductoryGuideAppreciative2023]
+- [Introduction to Appreciative Inquiry](assets/u5/Appreciative%20Inquiry.pdf){target="_blank"} [@cooperidercenterforappreciativeinquiryIntroductoryGuideAppreciative2023]
 - [About Appreciative Inquiry](https://appreciativeinquiry.champlain.edu/about-appreciative-inquiry/){target="_blank"} [@cooperidercenterforappreciativeinquiryAppreciativeInquiry]
 - [What is Appreciative Inquiry (AI)?](https://centerforappreciativeinquiry.net/resources/what-is-appreciative-inquiry-ai/){target="_blank"} [@thecenterforappreciativeinquiryWhatAppreciativeInquiry2024]
 - [Generic Process of Appreciative Inquiry](https://centerforappreciativeinquiry.net/resources/the-generic-processes-of-appreciative-inquiry-5ds/){target="_blank"} [@thecenterforappreciativeinquiryGenericProcessAppreciativea]

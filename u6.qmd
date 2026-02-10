@@ -47,7 +47,7 @@ See the Assessment section in Moodle for assignment details.
 
 Here are the resources you will need to complete this unit.
 
-- Darby, F., & Lang, J. M. [-@darbySmallTeachingOnline2019]. *Small teaching online: Applying learning science in online classes.* Jossey-Bass.
+- Darby, F., & Lang, J. M. [-@darbySmallTeachingOnline2019]. [*Small teaching online: Applying learning science in online classes.*](https://research-ebsco-com.twu.idm.oclc.org/c/bljv25/search/details/dflf2emf3v?limiters=FC1%3AN%2CFT1%3AY%2CFT%3AN%2CRV%3AN&q=Small%20teaching%20online%3A%20Applying%20learning%20science%20in%20online%20classes&proxyApplied=true){target="_blank"} Jossey-Bass.
 - Other online resources will be provided in the unit.
 
 ## Building Community in Learning Environments
@@ -56,9 +56,9 @@ As we continue to consider how to create authentic learning communities, in this
 
 As facilitators of learning, we strive to create learning communities and experiences where students become deeply involved in their learning. In *Small Teaching Online,* Darby and Lang [-@darbySmallTeachingOnline2019], share stories of their own teaching, including strategies they have used to engage students in the learning process. These strategies go beyond the read-think-write formula we often see—particularly in online learning. Instead, the authors tell stories of deep engagement, including a story about create opportunities for students to think critically and communicate persuasively through the use of debate. As Darby and Lang [-@darbySmallTeachingOnline2019] write, students found these learning experiences valuable, sharing that "the debates we had in that class helped them to see others’ viewpoints, to consider perspectives that differed from their own – to expand their thinking" (p. 76).
 
-For those learning online, of course, engagement will look different. When you facilitate learning in an online environment, you must be actively present in the discussions between students, supporting student learning by engaging their ideas and connecting with them personally. As Darby and Lang (2017) argue, "You set the tone and the example, both at the very beginning of the class and throughout the semester" (p. 86).
+For those learning online, of course, engagement will look different. When you facilitate learning in an online environment, you must be actively present in the discussions between students, supporting student learning by engaging their ideas and connecting with them personally. As Darby and Lang (2019) argue, "You set the tone and the example, both at the very beginning of the class and throughout the semester" (p. 86).
 
-In online learning environments, students can often feel isolated—especially if the instructor has no visible presence. Darby and Lang (2017) use the analogy of a student showing up to an on campus class or to an employee training session, only to walk into an empty room with no visible instructor. Throughout the course, your presence matters. "If you students begin to feel that you are never in class, they’ll stop showing up, too, and the energy of the online learning community will take a nose-dive. It’s vitally important to be active in your class in order to help sustain the interactions in the class" (p. 87). This includes things like participating in online discussions, posting regular announcements (written or video), responding to student questions, and sharing a bit about who you are as a person.
+In online learning environments, students can often feel isolated—especially if the instructor has no visible presence. Darby and Lang (2019) use the analogy of a student showing up to an on campus class or to an employee training session, only to walk into an empty room with no visible instructor. Throughout the course, your presence matters. "If you students begin to feel that you are never in class, they’ll stop showing up, too, and the energy of the online learning community will take a nose-dive. It’s vitally important to be active in your class in order to help sustain the interactions in the class" (p. 87). This includes things like participating in online discussions, posting regular announcements (written or video), responding to student questions, and sharing a bit about who you are as a person.
 
 ### Activity: Building Community
 
@@ -146,7 +146,11 @@ Giving feedback is not limited to teachers or students in a classroom setting. W
 {{< video https://www.youtube-nocookie.com/embed/HILMW75uUlk >}}
 :::
 
-- How to Give Constructive Feedback - Full Role Play [@xeniumhrHowGiveConstructive2018] features a role-play example of a leader giving 1:1 feedback.
+- [How to Give Constructive Feedback - Full Role Play](https://www.youtube.com/watch?v=5cb8BeNuRCU){target="_blank"}  [@xeniumhrHowGiveConstructive2018] features a role-play example of a leader giving 1:1 feedback.
+
+::: video-container
+{{< video https://www.youtube-nocookie.com/embed/5cb8BeNuRCU >}}
+:::
 
 How do you find these tips and insights useful for your own context as a teacher, facilitator, coach, or leader? In what ways do they differ from or align with the approaches discussed in the earlier reading?
 
