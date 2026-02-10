@@ -61,7 +61,7 @@ Here are the resources you will need to complete this unit.
 
 ## Prelude
 
-For this course, you will keep a reflective journal which can be useful as a learning tool. Writing can be a powerful learning experience, as we engage in reflection and critical analysis of the new concepts we discover. Through regular writing, we are challenged to think critically, organize, and integrate these new concepts with our prior understanding, as you prepare for your future teaching, coaching, or facilitation. Whether it’s paper-based or electronic, start your reflective journaling today as you continue your learning journey. To learn more about reflective journaling, see ["Reflective Journals and Learning Logs"](https://www.niu.edu/citl/resources/guides/instructional-guide/reflective-journals-and-learning-logs.shtml){target="_blank"} (Northern Illinois University Center for Innovative Teaching and Learning, 2012).
+For this course, you will keep a reflective journal which can be useful as a learning tool. Writing can be a powerful learning experience, as we engage in reflection and critical analysis of the new concepts we discover. Through regular writing, we are challenged to think critically, organize, and integrate these new concepts with our prior understanding, as you prepare for your future teaching, coaching, or facilitation. Whether it’s paper-based or electronic, start your reflective journaling today as you continue your learning journey. To learn more about reflective journaling, see ["Reflective Journals and Learning Logs"](https://www.niu.edu/citl/resources/guides/instructional-guide/reflective-journals-and-learning-logs.shtml){target="_blank"} [@northernillinoisuniversityReflectiveJournalsLearning2012].
 
 If you would like to set up an online space for reflective journaling, platforms such as OneNote, Google Site, and WordPress are good options to consider. If you choose WordPress, you can create a site using your TWU student account.
 
@@ -175,7 +175,7 @@ In "To Know as We Are Known," Palmer [-@palmerKnowWeAre1993] suggests that learn
 
 Rank the following strategies according to your comfort level. For each strategy, list one practical action you can take in an online learning environment (as facilitator or learner) to create an authentic learning space that is hospitable and open.
 
-> "To study with a teacher who not only speaks but listens, who not only gives answers but asks questions and welcomes our insights, who provides information and theories that do not close doors but open new ones, who encourages students to help each other learn – to study with such a teacher is to know the power of a learning space" (Palmer, 1997, pp. 70-71).
+> "To study with a teacher who not only speaks but listens, who not only gives answers but asks questions and welcomes our insights, who provides information and theories that do not close doors but open new ones, who encourages students to help each other learn – to study with such a teacher is to know the power of a learning space" [@palmerCourageTeachExploring2017, pp. 70-71].
 
 1. Speaking
 2. Listening

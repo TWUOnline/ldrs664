@@ -73,7 +73,7 @@ Whether we are aware of it or not, our integrity and identity are part of who we
 
 *Authenticity* is also an essential ingredient for effective teaching and leadership. Authentic leadership includes elements of both self-knowledge and identity, as well as collaboration with others within the context of relationship [@northouseLeadershipTheoryPractice2022]. Avolio et al. (2008) provide a model of authentic leadership that includes "self-awareness, internalized moral perspective, balanced processing, and relational transparency" (as cited in Northouse, 2022, p. 198).
 
-Northouse (2022) describes self-awareness as a "process in which individuals understand themselves, including their strengths and weaknesses, and the impact they have on others. Self-awareness includes reflecting on your core values, identity, emotions, motives, and goals, and coming to grips with who you really are at the deepest level" (p. 227).
+Northouse [-@northouseLeadershipTheoryPractice2022] describes self-awareness as a "process in which individuals understand themselves, including their strengths and weaknesses, and the impact they have on others. Self-awareness includes reflecting on your core values, identity, emotions, motives, and goals, and coming to grips with who you really are at the deepest level" (p. 227).
 
 This self-awareness provides a solid foundation on which to lead. Further, the "internalized moral perspective refers to a self-regulatory process whereby individuals use their internal moral standards and values to guide their behavior rather than allow outside pressures to control them" [@northouseLeadershipTheoryPractice2022, p. 228].
 

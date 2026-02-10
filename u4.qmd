@@ -92,7 +92,7 @@ As you consider the learning community you will facilitate, consider how you mig
 ### Activity: What is a Learning Community?
 
 ::: {.learning-activity time="60"}
-Read ["What 'Is' a Learning Community? Toward a Comprehensive Model." (Brower & Dettinger, 1998)](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ592683&site=eds-live&scope=site){target="_blank"}.
+Read ["What 'Is' a Learning Community? Toward a Comprehensive Model." [@browerWhatLearningCommunity1998]](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=eric&AN=EJ592683&site=eds-live&scope=site){target="_blank"}.
 
 In your reflective journal, respond to the following questions:
 
