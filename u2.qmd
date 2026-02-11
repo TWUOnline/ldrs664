@@ -253,7 +253,6 @@ Bleep bloop: The above video was auto embedded. If it was just a link, I added a
 
 Take the [Clance Imposter Phenomenon test](http://paulineroseclance.com/pdf/IPscoringtest.pdf){target="_blank"}. As you take the test, consider the areas in which you feel vulnerable in your work as a learner. How would you address these concerns for learners in courses you facilitate?
 
-:::
 
 ::: {.webex-check .webex-box .webex-radiogroup}
 
@@ -309,6 +308,9 @@ for (i in seq_along(qs)) {
 }
 
 ```
+
+:::
+
 
 :::
 
