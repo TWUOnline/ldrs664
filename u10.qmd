@@ -112,13 +112,13 @@ Learning outcomes allow us to ensure that both students and instructors know why
 There is a simple formula we can use to create a measurable learning outcome:
 
 ::: {#fig-block_u10_1}
-![](assets/u10/image1.png){.lightbox fig-alt="A graphic titled 'Formula for a Student Learning Outcome' presents a three-part equation for writing an effective learning outcome, as defined by Penfold Navarro, C. [-@penfoldnavarroFormulaStudentLearning2016]. The formula consists of 'Students will be able to' plus an 'Action Verb (Bloom's Word)' and 'What they will be able to do'"}
+![](assets/u10/image1.png){.lightbox fig-alt="A graphic titled 'Formula for a Student Learning Outcome' presents a three-part equation for writing an effective learning outcome, as defined by Penfold Navarro, C. The formula consists of 'Students will be able to' plus an 'Action Verb (Bloom's Word)' and 'What they will be able to do'"}
 
 Formula for a Student Learning Outcome
 :::
 
 :::text-source
-*Source:* Credited by R. Kang and TWU. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){target="_blank"}
+*Source:* [*Formula for a Student Learning Outcome (PDF)*](assets/u10/formula_for_student_learning_outcome.pdf){target="_blank"}, Credited by R. Kang and TWU. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){target="_blank"}
 :::
 
 You may have noticed that, in each of your courses at Trinity, there are course learning outcomes (what you will learn in the course) and unit learning outcomes (what you will learn in the unit). These learning outcomes generally follow the formula in Figure 1.

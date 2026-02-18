@@ -113,7 +113,13 @@ Find a quiet space in your home or outdoors. Make your favourite beverage. With 
 
 Read the poem by Rainer Maria Rilke [-@rilkeAhNotBe2017] ["Ah, not to be cut off"](https://gladdestthing.com/poems/ah-not-to-be-cut-off){target="_blank"}. Sit for a moment with this poem. Re-read it. Consider the words and ideas expressed by Rilke.
 
-![](assets/u3/image1.png)
+![Ah, Not to Be Cut Off](assets/u3/image1.png){#fig-u3_1 fig-alt="Ah, not to be cut off,
+not through the slightest partition
+shut out from the law of the stars.
+The inner—what is it?
+if not intensified sky,
+hurled through with birds and deep
+with the winds of homecoming - by Rainer Maria"}
 
 In your reflective journal, jot down your thoughts. Consider how you have, in your own learning experiences, experienced "the winds of homecoming" or the desire "not to be cut off."
 

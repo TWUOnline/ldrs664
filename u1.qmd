@@ -22,7 +22,7 @@ Unit 1 focuses on two guiding questions:
 This unit is divided into the following topics:
 
 1. Authenticity in Teaching and Learning
-2. Identity and Integrity in teaching, facilitating, or leadership
+2. Identity and Integrity in Teaching, Facilitating, or Leadership
 
 ### Unit Learning Outcomes {.unnumbered}
 
@@ -88,7 +88,7 @@ Before we dive into the course topics, let’s take a moment to reflect on your 
 Teaching and learning are deeply personal experiences. Learning is, by definition, a transformative experience; we change as a result of learning. Teaching is also a transformative experience; we change as a result of teaching.
 
 ::: {#fig-image_u1_1}
-![](assets/u1/image1.png){#fig-u1_1 .lightbox fig-alt="Authentic Learners and Authentic Teachers Model"}
+![](assets/u1/664-authentic-teachers.jpg){#fig-u1_1 .lightbox fig-alt="Authentic Learners and Authentic Teachers Model" width="400"}
 
 Authentic Learners and Authentic Teachers Model
 :::
