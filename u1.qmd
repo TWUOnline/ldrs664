@@ -23,6 +23,7 @@ This unit is divided into the following topics:
 
 1. Authenticity in Teaching and Learning
 2. Identity and Integrity in Teaching, Facilitating, or Leadership
+3. Creating Authentic Learning Spaces
 
 ### Unit Learning Outcomes {.unnumbered}
 
@@ -59,7 +60,7 @@ Here are the resources you will need to complete this unit.
 
 <!-- *Note:* The e-book of this book title may be available through the [TWU library](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1571339&site=eds-live&scope=site){target="_blank"}. -->
 
-## Prelude
+## Prelude {.unnumbered}
 
 For this course, you will keep a reflective journal which can be useful as a learning tool. Writing can be a powerful learning experience, as we engage in reflection and critical analysis of the new concepts we discover. Through regular writing, we are challenged to think critically, organize, and integrate these new concepts with our prior understanding, as you prepare for your future teaching, coaching, or facilitation. Whether it’s paper-based or electronic, start your reflective journaling today as you continue your learning journey. To learn more about reflective journaling, see ["Reflective Journals and Learning Logs"](https://www.niu.edu/citl/resources/guides/instructional-guide/reflective-journals-and-learning-logs.shtml){target="_blank"} [@northernillinoisuniversityReflectiveJournalsLearning2012].
 
